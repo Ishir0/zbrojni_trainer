@@ -1,0 +1,162 @@
+   Základní informace pro žadatele o provedení kusového ověření zbraně na
+                          náboje s ocelovými broky
+
+Zbraně se předkládají ke kusovému ověření úřadu za těchto podmínek:
+
+-         ověřování se provádí na základě předložení žádosti typu D, kterou najdete na stránkách úřadu
+v sekci Žádosti - www.cuzzs.cz (možno ji také vypsat na místě při předáni zbraně – v případě většího
+počtu zbraní doporučujeme mít již vypsanou předem),
+-         v případě většího počtu zbraní se použije příloha k žádosti typu D,
+-         s žádostí se v případě firmy předkládá zbrojní licence a koncesní listina (případně další doklad
+potvrzující IČ firmy),
+-         soukromý držitel zbraně s žádostí předkládá zbrojní průkaz, občanský průkaz a průkaz zbraně,
+-         zbraň musí být rovněž převedena v centrálním registru zbraní PČR na zkušebnu (v případě
+firmy předává samotná firma, v případě soukromé osoby předává PČR),
+-         ke každé zbrani je nutno předložit 2 ks spotřebního náboje na nábojovou komoru (požadavek
+viz. § 3 odst. 1 vyhlášky č. 335/2004 Sb.),
+-         ověřování se z kapacitních důvodů provádí po předchozí dohodě, a to na základě telefonického
+objednání na tel. číslech: 284 081 827, 284 081 826, 284 081 825, nebo 736 774 559,
+-         příjem zbraně proběhne v den objednání od 8:00-10:00 hodin. Termín dokončení zakázky a
+vyzvednutí zbraně po ověření se dozvíte při předání zkušebnímu technikovi (závislé od počtu zbraní),
+-         cena za ověření je dle typu zbraně (uvedeno na druhé straně žádosti typu D). Máte-li zájem o
+skryté značení je příplatek ve výši 100,- Kč.
+-         skryté značení je nutno dohodnout při předání zbraně zkušebnímu technikovi (umístnění
+značek dle Vašeho požadavku a reálnosti označení),
+-         na zbrani musí být vyznačeny všechny identifikátory, které jsou stanoveny v §3 vyhlášky č.
+335/2004 Sb., kde je rovněž popsaný podrobný postup kusového ověření střelné zbraně (zákon č.
+156/2000 Sb. a vyhláška č. 335/2004 Sb., je k dispozici na www.cuzzs.cz v nabídce „Legislativa“).
+
+Zkouška s ocelovými broky je možná pouze za předpokladu, že zbraň je přímo od výrobcem určena pro
+střelbu s ocelovými broky. Tuto skutečnost výrobce uvádí v návodu k obsluze a žadatel je povinen tento
+návod předkládat se zbraní.
+
+Pokud žadatel není schopen doložit, že předkládaná zbraň je určena výrobcem pro střelbu s ocelovými
+broky, bude zkouška provedena pouze se souhlasem majitele zbraně, který tento požadavek uvede
+v žádosti „D“ na její druhé straně.
+
+Zbraň přijímaná ke kusovému ověřování musí být technicky způsobilá pro zkoušku s ocelovými broky.
+V jednotlivých případech bude technická způsobilost posouzena podle platných norem technikem při
+příjmu zbraně. Ke zkoušce budou přijímány zbraně s pevným i výměnným zahrdlením, které musí
+splňovat požadavky na velikost zahrdlení uvedené v Tab. II (viz. níže).
+
+
+Standardní (obyčejné) střelivo pro zbraně s obyčejnou zkouškou
+–– U nábojů obsahujících broky typu A a D s l < 73 mm a Pmax = 740 barů pro ráži 12, Pmax = 780 barů
+pro ráži 16 nebo
+Pmax = 830 barů pro ráži 20 a menší bude provedena kontrola jako u olověných brokových nábojů, a
+–– u nábojů obsahujících broky typu B a C s l <73 mm a Pmax = 740 barů pro ráži 12, Pmax 780 barů
+pro ráži 16 nebo
+Pmax ≤ 830 barů pro ráži 20 a menší a s omezeným průměrem broků, rychlostí a hybností (viz tab. I).
+
+
+                                              Stránka 1 z 3
+Tab. I
+          Ráže                     Průměr broků (mm)          Max. rychlost V 2,5            Max. hybnost
+                                                                    (m/s)                       M 2,5 (Ns)
+
+          12                       3,25 + 2% max                425                               12,0
+          16                       3,00 + 2% max                390                                9,5
+          20                       3,00 + 2% max                410                                9,3
+
+
+Střelivo s vysokým výkonem pro zbraně s vyšší zkouškou
+U nábojů obsahujících broky typu A a D:
+–– s l ≥ 73 mm a
+–– s l < 73 mm a P > 740 barů pro ráži 12, P > 780 barů pro ráži 16, nebo P > 830 barů pro ráži 20 a
+menší, avšak splňující
+Pmax = 1050 barů, bude provedena kontrola jako u nábojů s olověnými broky.
+
+Střelivo s vysokým výkonem pro zbraně se zkouškou pro ocelové broky
+Náboje obsahující broky typu B a C:
+–– s l ≥ 73 mm a
+–– s l < 73 mm a P > 740 barů pro ráži 12, P > 780 barů pro ráži 16 nebo P > 830 barů pro ráži 20 a menší
+nebo přesahující některou z hodnot uvedených v tabulce I, avšak respektující Pmax = 1050 barů a
+hodnoty v Tabulce II, mohou být použity pouze ve střelných zbraních se zkouškou na ocelové broky.
+
+Tab. II
+                                                          Max. hybnost
+               Ráže            Max. rychlost V 2,5                             Choky (zahrdlení) v závislosti na
+                                                             M 2,5 (Ns)
+                                    (m/s)                                              průměru broků
+
+               10/89            440                      19,0                       Choky ≤ 0,5 pro průměr > 4 mm
+               12/70            430                      13,5                                   dtto
+               12/73            430                      15,0                                   dtto
+               12/76            430                      15,0                                   dtto
+               12/89            430                      19,0                                   dtto
+               16/70            420                      12,0                   Choky ≤ 0,5 pro průměr > 3,5 mm
+               20/70            410                      11,0                   Choky ≤ 0,5 pro průměr > 3,25 mm
+               20/76            430                      12,0                                   dtto
+               28/70            400                      7,0                        Choky ≤ 0.5 pro průměr > 3 mm
+               28/76            430                      8,5                                    dtto
+               410/76           430                      4,2                    Choky ≤ 0,5 pro průměr > 2,5 mm
+
+
+
+Ověřování brokových zbraní:
+
+Obyčejná zkouška (grafika CIP N)
+U zbraní umožňujících střelbu obyčejným spotřebním střelivem obsahujícím olověné nebo bezolovnaté
+broky typu A a D se sestává obyčejná zkouška střelných zbraní ze střelby alespoň dvou nábojů na
+hlaveň.
+
+
+
+
+                                              Stránka 2 z 3
+Vyšší zkouška (grafika CIP S)
+U zbraní umožňujících střelbu střelivem s vysokým výkonem obsahujícím olověné nebo bezolovnaté
+broky typu A a D se sestává vyšší zkouška z výstřelu alespoň dvou nábojů na hlaveň, s případným
+přihlédnutím k obyčejné zkoušce.
+Pro obyčejnou a vyšší zkoušku musí být průměr broků maximálně 3 mm.
+
+Zkouška s ocelovými broky (grafika CIP lilie)
+Zbraně umožňující střelbu náboji s vysokým výkonem a obsahující bezolovnaté broky typu B a C s
+tvrdostí HV1 mezi 80 a 110 se ověřují střelbou třemi náboji na hlaveň, přičemž musí být splněny
+následující podmínky Tab. III
+
+
+Tab. III
+                                                                                Min. hybnost
+               Ráže                         Min. průměr broků (mm)
+                                                                                   M 2,5 (Ns)
+
+               10/89                           4.6                                  22,0
+               12/70                           4.6                                  15,0
+               12/73–                          4.6                                  17,5
+               12/76
+               12/89                           4.6                                  21,5
+               16/70                           3.8                                  13,5
+               20/70                           3.8                                  12,5
+               20/76                           3.8                                  14,0
+               28/70                           3.8                                   8,5
+               28/76                           3.8                                   9,0
+               410/76                          2.8                                   4,5
+
+
+
+Odkaz na úplné znění Věstníku úřadu pro technickou normalizaci, metrologii a státní zkušebnictví na
+stránkách úřadu – www.cuzzs.cz v sekci C.I.P.:
+
+Mimořádný Věstník 4-2016 -DEF.pdf
+
+https://www.cuzzs.cz/userfiles/documents/CIP/Mimo%C5%99%C3%A1dn%C3%BD%20V%C4
+%9Bstn%C3%ADk%204-2016%20-DEF.pdf
+
+
+Závěrem je nutno rovněž upozornit na důležitost nezaměňovat význam zkušebních značek CIP S versus
+CIP lilie.
+
+
+
+
+           VYŠŠÍ ZKOUŠKA
+
+
+
+
+           ZKOUŠKA S „OCELOVÝMI BROKY“
+
+
+                                           Stránka 3 z 3
+

@@ -1,0 +1,2495 @@
+[
+  {
+    "questionId": "q-549",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Příloha č. 2 řadí cvičné a velkorážní signální náboje mezi S3, zatímco nábojky patří S4. Proto nepatří do S3 možnost.",
+    "simpler": "Nábojky jsou S4, nikoli S3.",
+    "optionReasoning": {
+      "A": "A: Cvičné náboje jsou v bodě 2.3.2 mezi S3.",
+      "B": "Správně: nábojky jsou výslovně zařazeny do S4.",
+      "C": "C: Signální náboje pro zbraně nad 16 mm patří do S3."
+    },
+    "decisiveDetail": "Rozhraní tvoří kategorie nábojek oproti cvičným a velkorážním signálním nábojům.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 2, body 2.3–2.4",
+        "quote": "střelivo kategorie S4:\n2.4.1\nsignální náboje určené pro signální zbraně nejvýše ráže 16 mm,\n2.4.2\nnábojky"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-550",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Příloha č. 2 ponechává běžné náboje s jednotnou střelou, pokud nejsou zařazeny přísněji, v S3. Běžné celoplášťové náboje proto patří do S3.",
+    "simpler": "Běžné FMJ náboje jsou S3.",
+    "optionReasoning": {
+      "A": "A: S2 zahrnuje zejména krátké náboje se střelou s řízenou deformací/fragmentací nebo svítící střelou.",
+      "B": "Správně: běžná jednotná střela, která nespadá do přísnější kategorie, je S3.",
+      "C": "C: S4 zahrnuje nábojky, nízkorážové signální náboje a některé aktivní komponenty, nikoli běžné FMJ náboje."
+    },
+    "decisiveDetail": "Rozhodující je, že běžná FMJ střela není výslovně zařazena do přísnější kategorie.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 2, bod 2.3.1",
+        "quote": "náboje s hromadnou nebo jednotnou střelou neuvedené v jiných kategoriích střeliva"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-551",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Běžná poloplášťová střela bez řízené deformace ani fragmentace spadá pod obecné pravidlo pro náboje s jednotnou střelou v S3.",
+    "simpler": "Běžné SP náboje jsou S3; speciální řízená deformace může měnit kategorii.",
+    "optionReasoning": {
+      "A": "A: S4 je mimo jiné kategorie nábojek, nízkorážových signálních nábojů a aktivních komponent.",
+      "B": "B: S2 zahrnuje konkrétně krátké náboje s řízenou deformací/fragmentací pro zvýšený ranivý účinek a svítící střely.",
+      "C": "Správně: běžná poloplášťová střela zůstává v obecné kategorii S3, pokud nesplňuje znak S2."
+    },
+    "decisiveDetail": "Pouhé označení SP nestačí k zařazení do S2; zákon vyžaduje určený zvýšený účinek.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 2, body 2.2.1 a 2.3.1",
+        "quote": "náboje s hromadnou nebo jednotnou střelou neuvedené v jiných kategoriích střeliva"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-552",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Náboje s běžnou jednotnou či hromadnou střelou s okrajovým zápalem, nejsou-li výslovně v jiné kategorii, spadají do S3.",
+    "simpler": "Flobertové náboje obvyklé konstrukce jsou S3.",
+    "optionReasoning": {
+      "A": "A: S4 zahrnuje jiné vyjmenované položky, ne obecnou skupinu nábojů.",
+      "B": "Správně: jednotná i hromadná střela spadají do S3, nejsou-li uvedeny v jiné kategorii.",
+      "C": "C: Jde o kategorii střeliva, nikoli kategorii zbraně PO."
+    },
+    "decisiveDetail": "U běžného Flobertu zákon nepřesouvá náboj do kategorie zbraně PO.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 2, bod 2.3.1",
+        "quote": "náboje s hromadnou nebo jednotnou střelou neuvedené v jiných kategoriích střeliva"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-553",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "S4 zahrnuje aktivní komponenty střeliva kromě výbušných, zápalných a svítících střel. Správná je.",
+    "simpler": "Běžné aktivní komponenty patří do S4.",
+    "optionReasoning": {
+      "A": "A: Obecné náboje s jednotnou či hromadnou střelou jsou S3.",
+      "B": "Správně: odpovídá výslovné položce S4.",
+      "C": "C: Náboje krátkých zbraní s řízenou deformací/fragmentací jsou S2."
+    },
+    "decisiveDetail": "Kategorie S4 obsahuje komponenty s výslovně uvedenými výjimkami.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 2, bod 2.4.3",
+        "quote": "aktivní komponenty střeliva, s výjimkou výbušných, zápalných nebo svítících střel"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-554",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Nábojky i signální náboje do ráže 16 mm jsou v S4.",
+    "simpler": "Obě uvedené položky patří do S4.",
+    "optionReasoning": {
+      "A": "A: S3 zahrnuje signální náboje pro zbraně ráže větší než 16 mm.",
+      "B": "B: S2 je určeno pro speciální krátké náboje a svítící střely.",
+      "C": "Správně: obě položky jsou přímo vyjmenovány v S4."
+    },
+    "decisiveDetail": "Hranice 16 mm je včetně 16 mm zařazena do S4.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 2, body 2.4.1–2.4.2",
+        "quote": "2.4.1\nsignální náboje určené pro signální zbraně nejvýše ráže 16 mm,\n2.4.2\nnábojky"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-555",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Přílohy č. 1 a 2 vymezují druhy zbraní, střeliva a regulovaných součástí a jejich kategorie.",
+    "simpler": "Tyto přílohy obsahují kategorie a seznamy předmětů.",
+    "optionReasoning": {
+      "A": "A: Seznam prováděcích předpisů není předmětem příloh 1 a 2.",
+      "B": "Správně: přílohy upravují kategorie a jejich druhy.",
+      "C": "C: Obrací obsah příloh i jejich předměty."
+    },
+    "decisiveDetail": "Příloha č. 2 obsahuje kategorizaci; příloha č. 1 doplňuje vymezení regulovaných věcí.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 2",
+        "quote": "Kategorie jednotlivých druhů zbraní a střeliva stanovuje příloha č. 2 k tomuto zákonu."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-556",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Závazné technické a organizační požadavky na střelnice stanoví příloha č. 3 zákona.",
+    "simpler": "Požadavky jsou v zákonné příloze č. 3.",
+    "optionReasoning": {
+      "A": "Správně: zákon výslovně odkazuje na svou přílohu č. 3.",
+      "B": "B: ČSN není v § 62 označena za jediný zdroj závazných požadavků.",
+      "C": "C: KŘP nevydává krajské periodické územní výměry."
+    },
+    "decisiveDetail": "Zákonné zmocnění je konkrétně k příloze č. 3.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "§ 62",
+        "quote": "Provozní řád střelnice musí být zpracován v souladu s technickými a organizačními požadavky, které stanoví příloha č. 3 k tomuto zákonu"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-557",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Ohrožený prostor je místo, kde může být i při dodržení provozního řádu ohrožen život či zdraví účinkem střel, střepin nebo zplodin.",
+    "simpler": "Ohrožení může přetrvat i při dodržení pravidel.",
+    "optionReasoning": {
+      "A": "A: Bezpečný směr není definicí ohroženého prostoru.",
+      "B": "B: Popisuje prostor, kde technická opatření naopak brání nebezpečí i při porušení pravidel.",
+      "C": "Správně: přesně odpovídá zákonné definici."
+    },
+    "decisiveDetail": "Ohrožený prostor zůstává rizikový navzdory dodržení opatření.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 3, bod 1.1",
+        "quote": "Ohrožený prostor – prostor, v němž může být při dodržení pravidel a opatření stanovených provozním řádem střelnice ohrožen život nebo zdraví účinkem kinetické energie střel, střepin nebo povýstřelových zplodin."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-558",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Terče a terčová zařízení se umísťují tak, aby se minimalizovalo riziko nebezpečných odrazů střel.",
+    "simpler": "Umístění má omezit nebezpečné odrazy.",
+    "optionReasoning": {
+      "A": "Správně: reprodukuje technický požadavek.",
+      "B": "B: Hluk není předmětem této věty a pevný útlum 10 dB zde není stanoven.",
+      "C": "C: Vstup nezúčastněných osob řeší jiné opatření."
+    },
+    "decisiveDetail": "Konkrétní úkol terčů je omezit odrazy střel.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 3, bod 3.2",
+        "quote": "Terče a terčová zařízení musí být umísťována tak, aby se minimalizovalo riziko nebezpečných odrazů střel."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-559",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Přiměřená technicko-organizační opatření pro konkrétní střelnici stanoví její provozní řád.",
+    "simpler": "Místní pravidla a opatření se zapisují do provozního řádu.",
+    "optionReasoning": {
+      "A": "A: Zákon o munici není zdrojem těchto střelnicových pravidel.",
+      "B": "B: Příloha nesvěřuje jejich stanovení směrnici ministerstva.",
+      "C": "Správně: provozní řád stanoví opatření konkrétní střelnice."
+    },
+    "decisiveDetail": "Místní podmínky se promítají právě do provozního řádu.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 3, bod 2.1",
+        "quote": "K zajištění ochrany života a zdraví osob v ohroženém prostoru a při zacházení se zbraněmi a střelivem na střelnici i mimo ohrožené prostory, jakož i při příchodu a odchodu ze střelnice stanoví provozní řád přiměřená technicko-organizační opatření."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-560",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Bezpečnost závisí na kombinaci technických a organizačních opatření; samotná technická opatření mohou být při nekázni neúčinná.",
+    "simpler": "Konstrukce sama bezpečnost nezaručí bez dodržování pravidel.",
+    "optionReasoning": {
+      "A": "A: Nad celým střelištěm se nevyžadují univerzální neprůstřelné podhledy.",
+      "B": "B: Tvrzení, že technika zajistí bezpečnost bez ohledu na chování osob, opomíjí organizační složku.",
+      "C": "Správně: obě složky se doplňují; nekázeň může techniku zmařit."
+    },
+    "decisiveDetail": "Bezpečný provoz vyžaduje kombinaci konstrukčních prvků a pokynů.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 3, body 2.1–2.2",
+        "quote": "Technicko-organizační opatření spočívají v kombinaci technických opatření (ochranných a dalších technických prvků) a organizačních opatření (zásad a pokynů)."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-561",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Organizační opatření zahrnují bezpečnou manipulaci, způsob a směr střelby i vymezení povolených zbraní a střeliva; jejich dodržování je základní.",
+    "simpler": "Řád stanoví pravidla, směry a povolené vybavení.",
+    "optionReasoning": {
+      "A": "Správně: organizační opatření tvoří zásady, směry a podmínky střelby.",
+      "B": "B: Zlehčuje organizační opatření, která jsou základním předpokladem bezpečnosti.",
+      "C": "C: Předávání kontaktů samo nevymezuje hlavní organizační pravidla střelby."
+    },
+    "decisiveDetail": "Bezpečnost vyžaduje dodržování organizačních pravidel vedle technických prvků.",
+    "sources": [
+      {
+        "sourceId": "s-232f507d5a3d",
+        "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+        "file": "sources/references/law-2024-90.txt",
+        "locator": "Příloha č. 3, bod 4.1",
+        "quote": "zásady bezpečné střelby a bezpečného zacházení se zbraněmi a střelivem"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-562",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Bezpečný směr se volí tak, aby běžně bylo možné předvést bezpečné postupy; může směřovat k dopadišti určenému provozním řádem.",
+    "simpler": "Bezpečný směr se určuje pro bezpečné předvedení postupů.",
+    "optionReasoning": {
+      "A": "Správně: bezpečný směr umožňuje předvést běžné bezpečné postupy a může vést k dopadišti.",
+      "B": "B: Výskyt osob není zákonným kritériem pro určení bezpečného směru.",
+      "C": "C: Taktické použití ani úhel 135° se nevyžadují."
+    },
+    "decisiveDetail": "Rozhoduje předvedení běžných postupů bezpečného nakládání.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 1.1.1",
+        "quote": "Bezpečný směr se určí tak, aby v běžném rozsahu umožňoval předvedení postupů bezpečného nakládání se zbraněmi a střelivem v souladu s tímto nařízením."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-563",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Nekontrolovaná zbraň musí při jakékoli manipulaci směřovat do bezpečného směru.",
+    "simpler": "Nezkontrolovaná zbraň se vždy drží v bezpečném směru.",
+    "optionReasoning": {
+      "A": "A: Zákon neomezuje směr výhradně na vertikální osu k zemi.",
+      "B": "B: Nekontrolovaná zbraň není automaticky technicky nezpůsobilá ke střelbě; při manipulaci však musí mířit bezpečně.",
+      "C": "Správně: příloha výslovně ukládá bezpečný směr při manipulaci."
+    },
+    "decisiveDetail": "Bezpečný směr platí do provedení kontroly zbraně.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 1.1.2",
+        "quote": "Zbraň, u které nebyla provedena kontrola podle bodu 2 této přílohy, musí při manipulaci směřovat do bezpečného směru."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-564",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Při zkoušce se nesmí simulovat nabitá zbraň či střelba tak, aby nekontrolovaná zbraň nesměřovala do bezpečného směru.",
+    "simpler": "Simulace je zakázána, pokud zbraň nemíří bezpečně.",
+    "optionReasoning": {
+      "A": "A: Směřování do bezpečného směru je povinné, nikoli zakázané.",
+      "B": "Správně: zákaz míří právě na nesměřování do bezpečného směru.",
+      "C": "C: Ustanovení nevyžaduje školní náboje jako podmínku simulace."
+    },
+    "decisiveDetail": "Nebezpečný je postup simulace mimo bezpečný směr.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 1.1.3",
+        "quote": "Při zkoušce odborné způsobilosti nebo komisionální zkoušce se nepřipouští provádění manipulace nebo simulace situací, při kterých by zbraň, u níž nebyla provedena kontrola podle bodu 2 této přílohy nebo se kterou se simuluje nabitý stav zbraně nebo střelba, nesměřovala do bezpečného směru."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-565",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Určený bezpečný směr musí respektovat každý přítomný a nesmí do něj vstupovat ani jinak zasahovat.",
+    "simpler": "Pravidlo platí pro každého při zkoušce.",
+    "optionReasoning": {
+      "A": "Správně: jde o všechny přítomné, ne jen žadatele.",
+      "B": "B: Písemná důtka v CRZ není v pravidle stanovena.",
+      "C": "C: Bezpečný směr platí i při manipulaci s nekontrolovanou zbraní, nejen při ostré střelbě."
+    },
+    "decisiveDetail": "Respekt povinný pro každou přítomnou osobu.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 1.1.4",
+        "quote": "Určený bezpečný směr musí respektovat každá osoba přítomná při zkoušce odborné způsobilosti nebo komisionální zkoušce a nesmí do něj v jejím průběhu vstupovat nebo jinak zasahovat."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-566",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Rána jistoty se provádí vždy se zbraní směřující do bezpečného směru.",
+    "simpler": "Při ráně jistoty je rozhodující bezpečný směr.",
+    "optionReasoning": {
+      "A": "A: Smyslem není diagnostikovat druh náboje.",
+      "B": "B: Zákon ji nevymezuje jako zákaz vypuštění bicího mechanismu.",
+      "C": "Správně: přímé pravidlo stanoví směr zbraně."
+    },
+    "decisiveDetail": "Podmínkou je bezpečný směr při každé ráně jistoty.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 1.2.1",
+        "quote": "Rána jistoty se provádí vždy tak, aby zbraň směřovala do bezpečného směru."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-567",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Nabití znamená připravit zbraň do stavu, kdy ke střelbě stačí prst v lučíku a stisk spouště.",
+    "simpler": "Nabitá zbraň je připravena vystřelit stisknutím spouště.",
+    "optionReasoning": {
+      "A": "A: Střelecká pohotovost ještě vyžaduje další úkony a nejde o definici.",
+      "B": "Správně: odpovídá definici připraveného stavu.",
+      "C": "C: Mířená rána jistoty není nabitím zbraně."
+    },
+    "decisiveDetail": "Zbraň je nabita, když ji ke střelbě aktivuje stisk spouště.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 1.3.1",
+        "quote": "Nabití zbraně se provede uvedením zbraně do stavu, ve kterém je ke střelbě zapotřebí pouze přesunutí prstu ruky do prostoru lučíku a stisknutí spouště."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-568",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Dokud není vydán pokyn ke střelbě, prst musí být mimo lučík a zbraň stále směřovat do bezpečného směru.",
+    "simpler": "Bez pokynu držet prst mimo lučík a zbraň v bezpečném směru.",
+    "optionReasoning": {
+      "A": "Správně: obsahuje oba výslovné požadavky.",
+      "B": "B: Není zde předepsáno odevzdávání selhaného střeliva.",
+      "C": "C: Pravidlo se týká prstu a směru zbraně, nikoli zakazu dotýkat se vybavení."
+    },
+    "decisiveDetail": "Do pokynu ke střelbě se kombinují dvě bezpečnostní zásady.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 1.3.2",
+        "quote": "Není-li vydán pokyn ke střelbě, musí být prst ruky mimo lučík zbraně. Zbraň neustále směřuje do bezpečného směru."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-569",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Prst na spoušti či v lučíku je porušením zásad s výjimkou nezbytného záměrného výstřelu nebo nezbytné manipulace s kontrolovanou nenabitou zbraní.",
+    "simpler": "Prst zůstává mimo spoušť, ledaže je stisk nezbytný.",
+    "optionReasoning": {
+      "A": "A: Zákon nestanoví výjimku podle toho, který prst nebo čí ruka se do lučíku vloží.",
+      "B": "B: Umístění prstu v lučíku není běžné bez dalších podmínek.",
+      "C": "Správně: vystihuje porušení i zákonné výjimky."
+    },
+    "decisiveDetail": "Výjimky jsou úzce omezené na nezbytné úkony.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 1.4",
+        "quote": "Prst ruky na spoušti nebo v prostoru lučíku se považuje za porušení zásad bezpečného nakládání se zbraní, s výjimkou případů, kdy je stisknutí spouště nezbytné k záměrnému provedení výstřelu nebo je v případě nenabité zkontrolované zbraně nezbytné pro manipulaci"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-570",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Přerušení střelby se přizpůsobí konkrétnímu důvodu; při mimořádné události se zbraň drží směrem, kde by náhodný výstřel nezpůsobil škodu.",
+    "simpler": "Přerušení závisí na situaci a bezpečném směru.",
+    "optionReasoning": {
+      "A": "A: Dokončení počtu ran samo o sobě není důvodem bezpečnostního přerušení.",
+      "B": "Správně: zdůrazňuje konkrétní událost a bezpečné zajištění zbraně.",
+      "C": "C: Mířená rána jistoty není vždy povinným postupem při přerušení."
+    },
+    "decisiveDetail": "Přerušení není pevně předepsaný jediný úkon.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 1.5",
+        "quote": "Přerušení střelby se provede s ohledem na konkrétní charakter situace, která k přerušení střelby vedla"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-571",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Po ukončení střelby se podle přílohy provede kontrola zbraně.",
+    "simpler": "Ukončení střelby zahrnuje kontrolu zbraně.",
+    "optionReasoning": {
+      "A": "Správně: kontrola je výslovným krokem při ukončení.",
+      "B": "B: Ohlášení každé události není uvedenou povinnou součástí tohoto kroku.",
+      "C": "C: Čištění a rozebrání nejsou požadovány při ukončení střelby."
+    },
+    "decisiveDetail": "Kontrola znamená vybití a uvedení do bezpečného stavu.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 1.6",
+        "quote": "Při ukončení střelby se provede kontrola zbraně podle bodu 2 této přílohy."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-572",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Kontrola zbraně slouží k vybití a uvedení do bezpečného stavu před odložením či další manipulací.",
+    "simpler": "Kontrola bezpečně vybíjí zbraň.",
+    "optionReasoning": {
+      "A": "A: Kontrola není úplnou technickou prohlídkou vnitřního stavu.",
+      "B": "B: Kontrola se neprovádí za účelem nabíjení nebo nošení.",
+      "C": "Správně: odpovídá výslovnému účelu."
+    },
+    "decisiveDetail": "Cílem je bezpečné odložení nebo další manipulace.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.1.1",
+        "quote": "Účelem kontroly zbraně je její vybití a uvedení do stavu bezpečného pro odložení zbraně nebo další manipulaci"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-573",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Mířit na osobu není dovoleno ani vybitou či nekompletní zbraní, mimo zákonné případy nutné obrany nebo krajní nouze.",
+    "simpler": "Ani zkontrolovaná zbraň neopravňuje k míření na lidi.",
+    "optionReasoning": {
+      "A": "A: Kontrola zbraně nedělá míření na osoby přípustným.",
+      "B": "Správně: uvádí obecný zákaz i zákonné výjimky.",
+      "C": "C: Zákaz se vztahuje i na vybitou či nekompletní zbraň; zkušenost není výjimkou."
+    },
+    "decisiveDetail": "Rozhoduje zákaz míření na osobu, nikoli stav zbraně.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.1.1",
+        "quote": "Mimo případů naplněných zákonných podmínek nutné obrany a krajní nouze není přípustné mířit na osoby ani v případě, je-li zbraň vybitá, zkontrolovaná nebo nekompletní"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-574",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Dodatečné bezpečnostní prvky konkrétní zbraně nejsou povinnou součástí zkoušky.",
+    "simpler": "Nemusí se předvádět například každý decocker.",
+    "optionReasoning": {
+      "A": "Správně: přesně vystihuje, že jde o nepovinný obsah.",
+      "B": "B: Nařízení nevyžaduje praktické ovládání jen decockeru a zámku.",
+      "C": "C: Pravidlo nerozlišuje běžné a rozšířené oprávnění."
+    },
+    "decisiveDetail": "Dodatečné prvky jsou výslovně nepovinné.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.1.3",
+        "quote": "Využití dodatečných bezpečnostních prvků konkrétního typu zbraně pro její uvedení do bezpečného stavu není povinnou součástí zkoušky odborné způsobilosti nebo komisionální zkoušky."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-575",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Pokud se odnímatelný zásobník vyjme při kontrole, vybití jeho nábojů není povinnou součástí zkoušky.",
+    "simpler": "Vyňatý zásobník se nemusí v rámci zkoušky vybíjet.",
+    "optionReasoning": {
+      "A": "A: Nařízení tento další povinný úkon nestanoví.",
+      "B": "Správně: toto pravidlo platí pro vyňatý odnímatelný zásobník.",
+      "C": "C: Nezáleží na délce zbraně ani na limitu zásobníku."
+    },
+    "decisiveDetail": "Výjimka se týká vybití vyňatého zásobníku během zkoušky.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.1.6",
+        "quote": "není vybití nábojů z vyňatého zásobníku povinnou součástí zkoušky odborné způsobilosti nebo komisionální zkoušky"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-576",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "U samonabíjecí pistole se vyjme zásobník a po stažení závěru se vizuálně zkontroluje nábojová komora.",
+    "simpler": "Kontrola pistole zahrnuje zásobník, závěr a komoru.",
+    "optionReasoning": {
+      "A": "Správně: uvádí přesný první postup pro samonabíjecí pistoli.",
+      "B": "B: Zákon nepožaduje opakovat pohyb do automatického zachycení závěru.",
+      "C": "C: Nevyjímání zásobníku ze starší pistole zde není obecnou výjimkou."
+    },
+    "decisiveDetail": "Prvním krokem je vyjmutí zásobníku a kontrola komory.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.2 písm. a) bod 1",
+        "quote": "Provede se vyjmutí zásobníku, po stažení závěru do zadní polohy se přes výhozné okénko provede vizuální kontrola nábojové komory."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-577",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "U pistole se zkontroluje, zda v zásobníkové šachtě nezůstal zásobník; lze použít vizuální kontrolu nebo pohmat.",
+    "simpler": "Zkontroluje se prázdná zásobníková šachta.",
+    "optionReasoning": {
+      "A": "A: Speciální nástroj „magwell“ není vyžadován.",
+      "B": "B: Kontroluje se přítomnost zásobníku v šachtě, ne kapacita zásobníku.",
+      "C": "Správně: uvádí obě povolené způsoby kontroly šachty."
+    },
+    "decisiveDetail": "Šachta se ověřuje jako prázdná.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.2 písm. a) bod 2",
+        "quote": "Provede se kontrola zásobníkové šachty, zda se v ní nenachází zásobník. Tuto kontrolu lze provést vizuálně pohledem přes výhozné okénko při stažení závěru do zadní polohy nebo pohmatem prsty ruky, která nedrží zbraň, přes ústí zásobníkové šachty."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-578",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Po kontrole lze závěr ponechat vzadu, pokud to zbraň umožňuje, nebo ho vypustit vpřed a provést ránu jistoty.",
+    "simpler": "Závěr může být vzadu nebo vpředu; při přední poloze následuje rána jistoty.",
+    "optionReasoning": {
+      "A": "A: Rozebrání závěru není součástí kontroly.",
+      "B": "Správně: odpovídá oběma možným polohám závěru.",
+      "C": "C: Obrací polohy závěru a ránu jistoty váže na špatnou polohu."
+    },
+    "decisiveDetail": "Rána jistoty se dělá až při závěru vpředu.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.2 písm. a) bod 3",
+        "quote": "Po provedení kontroly lze závěr ponechat v zadní poloze, pokud to konstrukce zbraně umožňuje, nebo jej vypustit do přední polohy. V přední poloze závěru se provede rána jistoty."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-579",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Kontrola revolveru spočívá ve vyklopení válce a vizuální kontrole nábojových komor.",
+    "simpler": "U revolveru se otevře a prohlédne válec.",
+    "optionReasoning": {
+      "A": "Správně: přesně stanoví kontrolu revolveru.",
+      "B": "B: Revolver nemá posuvný závěr ani zásobníkovou šachtu.",
+      "C": "C: Hlavňový svazek se při kontrole revolveru nevyklápí."
+    },
+    "decisiveDetail": "Kontrolují se komory vyklopeného válce.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.2 písm. b) bod 1",
+        "quote": "Provede se vyklopení nábojového válce a vizuální kontrola jeho nábojových komor."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-580",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Zkontrolovaný revolver se odkládá s vyklopeným nábojovým válcem.",
+    "simpler": "Revolver se odkládá otevřený.",
+    "optionReasoning": {
+      "A": "A: Opakovaná rána jistoty místo vyklopení není stanoveným pravidlem.",
+      "B": "B: Revolver nemá závěr, který by se ponechával vzadu.",
+      "C": "Správně: odložení se provede s vyklopeným válcem."
+    },
+    "decisiveDetail": "Viditelně otevřený válec potvrzuje stav.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.2 písm. b) bod 2",
+        "quote": "Odložení zkontrolované zbraně se provede s vyklopeným válcem."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-581",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "U samonabíjecí dlouhé zbraně se vyjme zásobník a zkontroluje komora; pokud nelze vizuálně zkontrolovat okénkem, závěr se opakovaně stáhne a vypustí.",
+    "simpler": "Zásobník se vyjme a ověří se komora.",
+    "optionReasoning": {
+      "A": "A: Baterie z pažby není součástí postupu v nařízení.",
+      "B": "Správně: komora se ověřuje přístupným vizuálním postupem, případně opakováním závěru.",
+      "C": "C: Nevybíjí se zásobník a kontrola komory se nevynechává."
+    },
+    "decisiveDetail": "Zbraň je samonabíjecí; kontrola komory zůstává povinná.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.2 písm. c) bod 1",
+        "quote": "Provede se vyjmutí zásobníku. Pokud to konstrukce zbraně umožňuje, provede se vizuální kontrola nábojové komory po stažení závěru do zadní polohy přes výhozné okénko."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-582",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "U samonabíjecí dlouhé zbraně se ověřuje, že v zásobníkové šachtě není zásobník, vizuálně nebo pohmatem.",
+    "simpler": "Po vyjmutí zásobníku se kontroluje šachta.",
+    "optionReasoning": {
+      "A": "Správně: popisuje ověření prázdné šachty.",
+      "B": "B: Opětovné vkládání zásobníku není požadováno.",
+      "C": "C: Zákon stanoví vizuální nebo pohmatovou kontrolu, ne konkrétní ovládací prvek."
+    },
+    "decisiveDetail": "Kontrola se týká přítomnosti zásobníku, ne funkčnosti podavače.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.2 písm. c) bod 2",
+        "quote": "Provede se kontrola zásobníkové šachty, zda se v ní nenachází zásobník."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-583",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Po kontrole samonabíjecí dlouhé zbraně lze závěr ponechat vzadu, nebo jej vypustit vpřed a provést ránu jistoty.",
+    "simpler": "Stejně jako u pistole se rána jistoty provádí vpředu.",
+    "optionReasoning": {
+      "A": "A: Zásobník se neukládá do „zadní polohy“ a kontrola neprobíhá přes zásobník.",
+      "B": "B: Závěr v zadní poloze se vztahuje na samonabíjecí, ne revolverovou zbraň.",
+      "C": "Správně: odpovídá závěru v přední poloze i ráně jistoty."
+    },
+    "decisiveDetail": "Rána jistoty patří k přední poloze závěru.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.2 písm. c) bod 3",
+        "quote": "Po provedení kontroly lze závěr ponechat v zadní poloze, pokud to konstrukce zbraně umožňuje, nebo jej vypustit do přední polohy. V přední poloze závěru se provede rána jistoty."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-584",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "U opakovací dlouhé kulové zbraně s otočným odsuvným závěrem se vyjme zásobník, otevře závěr a zkontroluje komora i šachta.",
+    "simpler": "Otevřený závěr umožní kontrolu komory a šachty.",
+    "optionReasoning": {
+      "A": "A: Popisuje posuvné předpažbí a trubkový zásobník, nikoli tento typ závěru.",
+      "B": "Správně: uvádí celý kontrolní postup.",
+      "C": "C: Vybití nábojů ze zásobníku ani pouhé vypnutí pojistky nestačí."
+    },
+    "decisiveDetail": "Tento typ má otočný odsuvný závěr; kontrola obou prostorů je výslovná.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.2 písm. d) bod 1",
+        "quote": "Provede se vyjmutí zásobníku, otevření závěru a následně vizuální kontrola nábojové komory a zásobníkové šachty."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-585",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Po kontrole se tato zbraň odkládá se závěrem otevřeným; při uzamčení nenabité zkontrolované zbraně se provede rána jistoty.",
+    "simpler": "Zbraň se odkládá otevřená.",
+    "optionReasoning": {
+      "A": "A: Sklopení hlavňového svazku patří jinému typu zbraně.",
+      "B": "Správně: uvádí obě pravidla pro odložení a uzamčení.",
+      "C": "C: Rána jistoty se při uzamčení neprovádí s otevřeným závěrem; nařízení neuvádí poškození."
+    },
+    "decisiveDetail": "Otevřený závěr umožňuje ověřit bezpečný stav.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 2.2 písm. d) bod 2",
+        "quote": "Odložení zbraně se provede se závěrem v otevřené poloze. Při uzamčení nenabité zkontrolované zbraně se provede vypuštění bicího mechanismu prostřednictvím rány jistoty."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-586",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Při selhači se čeká alespoň 10 sekund v bezpečném směru; návod výrobce může požadovat delší dobu.",
+    "simpler": "Po selhači vyčkej 10 sekund nebo déle podle návodu.",
+    "optionReasoning": {
+      "A": "Správně: výrobce může stanovit delší čekání.",
+      "B": "B: Okamžité vybití obchází riziko opožděné iniciace.",
+      "C": "C: Nařízení nebrání výrobci stanovit delší dobu."
+    },
+    "decisiveDetail": "Bezpečný směr platí po celou dobu čekání.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 3.2 písm. a) bod 1",
+        "quote": "Nedojde-li k iniciaci náboje, je třeba vyčkat minimálně 10 sekund se zbraní směřující do bezpečného směru."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-587",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Po uplynutí doby čekání se provede kontrola zbraně a prohlédne otisk zápalníku na zápalce.",
+    "simpler": "Po bezpečném čekání zkontroluj zbraň i otisk zápalníku.",
+    "optionReasoning": {
+      "A": "A: Čekání probíhá se zbraní v bezpečném směru před kontrolou, ne po vyjmutí náboje.",
+      "B": "B: Nařízení neukládá předat náboj správci, myslivecké stráži či Úřadu.",
+      "C": "Správně: zahrnuje kontrolu zbraně a diagnostiku zápalky."
+    },
+    "decisiveDetail": "Otisk pomáhá rozlišit závadu zbraně a střeliva.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 3.2 písm. a) bod 2",
+        "quote": "Po uplynutí příslušné doby se provede kontrola zbraně podle bodu 2 této přílohy. Následně je také třeba zkontrolovat otisk zápalníku na zápalce"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-588",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Po slabé ráně se zkontroluje zbraň a průchodnost hlavně; u většiny konstrukcí může být nutné zbraň rozebrat.",
+    "simpler": "Slabá rána vyžaduje kontrolu hlavně na uvízlou střelu.",
+    "optionReasoning": {
+      "A": "A: Čekání minimálně 10 sekund je stanoveno pro selhač.",
+      "B": "Správně: po slabé ráně se ověřuje průchodnost vývrtu; uvízlou střelu lze popsat.",
+      "C": "C: Nejdřív se bezpečně kontroluje a potom průchodnost; zasouvat nástroj do potenciálně nabité zbraně není stanovený postup."
+    },
+    "decisiveDetail": "Slabá rána může znamenat střelu uvízlou ve vývrtu.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 3.2 písm. b) bod 1",
+        "quote": "Provede se kontrola zbraně podle bodu 2 této přílohy. Následně se provede kontrola průchodnosti vývrtu hlavně"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-589",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Ránu jistoty lze po kontrole zbraně po slabé ráně provést, zvlášť pokud je třeba uvolnit mechanismus před rozebráním.",
+    "simpler": "Po kontrole může být rána jistoty bezpečná a potřebná.",
+    "optionReasoning": {
+      "A": "Správně: příloha ji výslovně nepovažuje za porušení za uvedených podmínek.",
+      "B": "B: Čekání 10 sekund se vztahuje na selhač; rána jistoty nevyvolává opožděnou iniciaci jako postup.",
+      "C": "C: Zákaz není absolutní; po kontrole může být rána jistoty dovolena."
+    },
+    "decisiveDetail": "Nejdřív se zbraň zkontroluje, teprve potom se uvažuje o ráně jistoty.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 3.2 písm. b) bod 1",
+        "quote": "Provedení rány jistoty po kontrole zbraně, u které došlo ke slabé ráně, není porušením zásad bezpečného nakládání se zbraní"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-590",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Po selhači se vyčká podle předepsané doby, pak se zkontroluje zbraň a otisk zápalníku.",
+    "simpler": "Čekání, kontrola zbraně, kontrola zápalky.",
+    "optionReasoning": {
+      "A": "A: Uvádí chybné pořadí, vyjmutý náboj a další nepředepsaný postup.",
+      "B": "B: Předání selhaného náboje uvedeným osobám není stanoveno.",
+      "C": "Správně: popisuje postup po čekání."
+    },
+    "decisiveDetail": "Příloha neukládá univerzální odevzdání selhaného náboje.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 3.2 písm. a) bod 1–2",
+        "quote": "Následně je také třeba zkontrolovat otisk zápalníku na zápalce pro zjištění, zda je závada zapříčiněna zbraní nebo střelivem."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-591",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Po slabé ráně je čekání jako při selhači možné, ale není povinné.",
+    "simpler": "Desetisekundová pauza po slabé ráně se nevyžaduje.",
+    "optionReasoning": {
+      "A": "A: Nařízení neukládá povinně 10 sekund čekat.",
+      "B": "Správně: výslovně říká, že čekat lze, ale nemusí se.",
+      "C": "C: Čekání není zakázané ani označené za porušení."
+    },
+    "decisiveDetail": "Rozlišuj slabou ránu od selhače.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 3.2 písm. b) bod 2",
+        "quote": "Vyčkávání před dalším postupem po slabé ráně obdobně jako v případě selhače je možné, ale nevyžaduje se."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-592",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Zádržka se řeší podle jejího charakteru; obvykle se vyjme zásobník, vizuálně zkontroluje zbraň a určí druh závady.",
+    "simpler": "Nejdřív zjisti konkrétní závadu bezpečným postupem.",
+    "optionReasoning": {
+      "A": "Správně: stanoví obecný a typický začátek řešení.",
+      "B": "B: Školní nebo cvičné střelivo nevytváří zvláštní postup pouhého vyjmutí a vrácení zásobníku.",
+      "C": "C: Desetisekundová lhůta se uvádí pro selhač, ne zádržku."
+    },
+    "decisiveDetail": "Druh závady určuje další postup.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 3.2 písm. c) bod 1",
+        "quote": "Závadu je třeba řešit s ohledem na její konkrétní charakter. Zpravidla se nejprve provede vyjmutí zásobníku"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-593",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Zádržka se řeší odstraněním její příčiny; často po vyjmutí zásobníku stačí opakovaně stáhnout a vypustit závěr.",
+    "simpler": "Odstraň zaseknutí podle jeho povahy.",
+    "optionReasoning": {
+      "A": "A: Kontrola průchodnosti je postupem pro slabou ránu, ne běžnou zádržku.",
+      "B": "B: Kontrola zápalníku patří k selhači.",
+      "C": "Správně: řeší se skutečná příčina zádržky."
+    },
+    "decisiveDetail": "Zádržka není totéž co selhač nebo slabá rána.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 3.2 písm. c) body 1–2",
+        "quote": "Následně se provede odstranění příčiny zádržky."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-594",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Nelze-li vyjmout zásobník, pokud možno se zachytí závěr vzadu a příčina zádržky se odstraní přes výhozné okénko.",
+    "simpler": "Při zaseknutém zásobníku použij výhozné okénko, je-li to možné.",
+    "optionReasoning": {
+      "A": "A: Náhradní zásobovací mechanismus není stanovený postup.",
+      "B": "Správně: přesně uvádí bezpečný postup při nemožnosti vyjmout zásobník.",
+      "C": "C: Rána jistoty po zádržce není v příloze obecně zakázána."
+    },
+    "decisiveDetail": "Podmínkou je nemožnost vyjmout zásobník; pak se řeší příčina přes okénko.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 3.2 písm. c) bod 3",
+        "quote": "V případě, že nelze vysunout zásobník, například z důvodu náboje vzpříčeného ve vývodkách zásobníku, je třeba pokud možno zachytit závěr v zadní poloze a odstranit příčinu zádržky přes výhozné okénko."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-595",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Příprava k čištění vyžaduje předvést kontrolu zbraně a slovně popsat čištění, rozebírání/skládání, pomůcky a další zásady.",
+    "simpler": "Nejdřív kontrola, potom slovní popis bezpečného čištění.",
+    "optionReasoning": {
+      "A": "Správně: vystihuje praktickou kontrolu a následný slovní popis.",
+      "B": "B: Nařízení nevyžaduje čištění střeliva, pouzder nebo přebíjecích strojů.",
+      "C": "C: Nejde o opravy povrchu ani odstraňování pomůcek z mechanismu."
+    },
+    "decisiveDetail": "Rozsah je čištění zbraně, nikoli opravy či údržba dalšího vybavení.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 4",
+        "quote": "Příprava zbraně k jejímu částečnému rozebrání a složení v rozsahu nezbytném pro vyčištění zbraně spočívá v praktickém předvedení kontroly zbraně a následném slovním popisu postupu vyčištění zbraně"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-596",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Ověření správného složení má potvrdit, že pohyblivé části fungují bez zasekávání či samovolné demontáže a že pevné části zůstaly správně sestavené.",
+    "simpler": "Po sestavení ověř správný funkční pohyb a pevnost součástí.",
+    "optionReasoning": {
+      "A": "A: Suchý trénink ani pouzdro neověří složení mechanismu.",
+      "B": "B: Množství maziva a akustické projevy nejsou popsaným účelem tohoto kroku.",
+      "C": "Správně: jde o ověření, že je zbraň po čištění správně sestavena a funguje."
+    },
+    "decisiveDetail": "Záměrem je ověřit sestavení, nikoli nástřel či mazání.",
+    "sources": [
+      {
+        "sourceId": "s-43e9ca6f513d",
+        "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+        "file": "sources/references/law-2025-238.txt",
+        "locator": "Příloha č. 2, bod 4 písm. g)",
+        "quote": "ověření správného složení zbraně po jejím vyčištění"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-597",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Technické požadavky na výrobní provedení zbraní upravuje zákon o zbraních a prováděcí NV 187/2025; příslušné věci mohou upravovat také akty EU a mezinárodní smlouvy.",
+    "simpler": "Obecný rámec tvoří zákon a jeho nařízení vlády.",
+    "optionReasoning": {
+      "A": "A: Asociace ani nezávazná stanoviska nenahrazují právní předpisy.",
+      "B": "Správně: uvádí zákon i prováděcí předpis, případně unijní a mezinárodní úpravu.",
+      "C": "C: Požadavky nejsou určovány případ od případu policií ani retroaktivně."
+    },
+    "decisiveDetail": "Technické požadavky na výrobní provedení zbraní upravuje zákon o zbraních a prováděcí NV 187/2025; příslušné věci mohou upravovat také akty EU a mezinárodní smlouvy.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "§ 1 písm. a)",
+        "quote": "technické požadavky na výrobní provedení zbraní kategorie PO nebo NO za účelem vyloučení možnosti jejich úpravy na zbraně podléhající registraci"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-598",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Při uložení do čtyř hodin lze zabezpečit nejvýše dvě zbraně R2–R4 nebo do 1 000 nábojů S2/S3 v neviditelné uzamčené schránce pevně připevněné ke karoserii.",
+    "simpler": "Krátkodobé uložení má limit 4 hodiny a vyžaduje skrytou upevněnou schránku.",
+    "optionReasoning": {
+      "A": "A: Přesně vymezuje počet, kategorie a způsob uzamčení.",
+      "B": "B: R1, další zbraně či prach nejsou zahrnuty do této výjimky.",
+      "C": "C: Zákon krátkodobé uložení připouští za stanovených podmínek."
+    },
+    "decisiveDetail": "Při uložení do čtyř hodin lze zabezpečit nejvýše dvě zbraně R2–R4 nebo do 1 000 nábojů S2/S3 v neviditelné uzamčené schránce pevně připevněné ke karoserii.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "§ 13 odst. 1",
+        "quote": "Při krátkodobém uložení nejvýše 2 zbraní kategorie R2, R3 nebo R4 anebo střeliva kategorie S2 nebo S3 v počtu nejvýše 1 000 nábojů ve vozidle nepřesahujícím 4 hodiny"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-599",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Zbraň nebo střelivo v krátkodobě zabezpečeném vozidle musí být v části kryté pevnou kovovou karoserií, při zavřených oknech a uzamčeném vozidle.",
+    "simpler": "Schránka nesmí být v otevřeném nebo odemčeném vozidle.",
+    "optionReasoning": {
+      "A": "A: Zákon naopak vyžaduje skrytou část vozidla, nikoli pohledovou kontrolu.",
+      "B": "B: Příklady psa ani alternativního dlouhodobého režimu zde nejsou stanoveny.",
+      "C": "Správně: shrnuje podmínky části vozidla, otvorů a uzamčení."
+    },
+    "decisiveDetail": "Zbraň nebo střelivo v krátkodobě zabezpečeném vozidle musí být v části kryté pevnou kovovou karoserií, při zavřených oknech a uzamčeném vozidle.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "§ 13 odst. 2",
+        "quote": "smí být umístěny pouze v té části vozidla, která je chráněna uzavřenou pevnou kovovou karoserií; okna a jiné obdobné otvory vozidla musí být plně uzavřeny a vozidlo musí být standardním způsobem uzamčeno"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-600",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Při krátkodobém uložení nesmí být zbraň nabitá a střelivo se ukládá odděleně.",
+    "simpler": "Zbraň vybitá, střelivo odděleně.",
+    "optionReasoning": {
+      "A": "A: Zvláštní pojistka není v tomto odstavci požadována.",
+      "B": "Správně: uvádí oba povinné stavy.",
+      "C": "C: Delaborace střeliva není vyžadována."
+    },
+    "decisiveDetail": "Při krátkodobém uložení nesmí být zbraň nabitá a střelivo se ukládá odděleně.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "§ 13 odst. 3",
+        "quote": "Zbraň zabezpečovaná při krátkodobém uložení ve vozidle nesmí být v nabitém stavu a střelivo musí být uloženo odděleně od zbraně."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-601",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Krátkodobé uložení podle NV 187/2025 nesmí přesáhnout čtyři hodiny.",
+    "simpler": "Čtyři hodiny jsou horní hranice krátkodobého režimu.",
+    "optionReasoning": {
+      "A": "A: 12 hodin překračuje limit.",
+      "B": "Správně: odpovídá maximální době.",
+      "C": "C: 48 hodin není krátkodobé uložení podle této úpravy."
+    },
+    "decisiveDetail": "Krátkodobé uložení podle NV 187/2025 nesmí přesáhnout čtyři hodiny.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "§ 13 odst. 1",
+        "quote": "ve vozidle nepřesahujícím 4 hodiny"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-602",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "evidenceBasis": "official-answer",
+    "concise": "Klíč rozlišuje krátkodobé uložení při přepravě od dlouhodobého skladování. Vozidlo podle správné odpovědi nemůže sloužit jako dlouhodobé úložiště; ani technická norma z této možnosti nedělá neomezené povolení.",
+    "simpler": "Zbraně ani střelivo se nemají dlouhodobě ukládat ve vozidle.",
+    "optionReasoning": {
+      "A": "A: Deset pracovních dnů není uvedená časová hranice.",
+      "B": "B: Klíč odmítá možnost neomezeného uložení podle technické normy.",
+      "C": "Správně: odpovídá klíči, který dlouhodobé uložení ve vozidle nepřipouští."
+    },
+    "decisiveDetail": "Rozlišení mezi povoleným krátkodobým režimem a nepřípustným dlouhodobým uložením.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-603",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Aktivní komponenty se uchovávají v uzavřených originálních obalech a způsobem bránícím zahoření, iniciaci či ohrožení osob.",
+    "simpler": "Používej originální uzavřené obaly a předcházej iniciaci.",
+    "optionReasoning": {
+      "A": "Správně: shrnuje povinnost originálních obalů a bezpečného uložení.",
+      "B": "B: Žádný minimální objem 50 g nebo 150 g zákon nestanoví.",
+      "C": "C: Riziko není definováno jako záměna za náboje."
+    },
+    "decisiveDetail": "Aktivní komponenty se uchovávají v uzavřených originálních obalech a způsobem bránícím zahoření, iniciaci či ohrožení osob.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "§ 22 odst. 1",
+        "quote": "Aktivní komponenty střeliva musí být přechovávány v uzavřených originálních obalech výrobce"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-604",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Aktivní komponenty se ukládají v suchu, odděleně od hořlavin a každý druh zvlášť, aby nemohlo dojít k řetězové iniciaci.",
+    "simpler": "Uchovávej je v suchu, odděleně a druhy nemíchej.",
+    "optionReasoning": {
+      "A": "A: Zákon nestanoví odstup 2 m od elektrických zařízení.",
+      "B": "B: Zápalkové typy a jiskrová rizika nejsou uvedeným pravidlem.",
+      "C": "Správně: uvádí suché a oddělené uložení."
+    },
+    "decisiveDetail": "Aktivní komponenty se ukládají v suchu, odděleně od hořlavin a každý druh zvlášť, aby nemohlo dojít k řetězové iniciaci.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "§ 22 odst. 2",
+        "quote": "Aktivní komponenty střeliva musí být přechovávány v suchu a odděleně od lehce vznětlivých nebo snadno hořlavých látek a předmětů. Každý druh aktivních komponentů střeliva musí být uložen odděleně od jiných druhů aktivních komponentů tak, aby nemohlo dojít k jejich řetězové iniciaci."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-605",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Při přebíjení se dodržují omezení výrobců komponentů, střel a přebíjecího zařízení, zejména kvůli tlakům a bezpečné manipulaci.",
+    "simpler": "Přebíjej podle technických údajů výrobců.",
+    "optionReasoning": {
+      "A": "A: Zákon zde neřeší změnu ráže ani její vyznačení.",
+      "B": "Správně: odpovídá předepsaným tlakovým a manipulačním omezením.",
+      "C": "C: KŘP nepřebírá náboje kvůli závadám při přebíjení."
+    },
+    "decisiveDetail": "Při přebíjení se dodržují omezení výrobců komponentů, střel a přebíjecího zařízení, zejména kvůli tlakům a bezpečné manipulaci.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "§ 23",
+        "quote": "Při přebíjení nábojů musí být dodržována omezení, která mají vliv na maximální tlaky vznikající při výstřelu a na manipulační bezpečnost"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-606",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Obecné limity podle přílohy č. 6 jsou 10 kg bezdýmného prachu, 3 kg černého loveckého prachu a stanovené počty zápalek podle druhu.",
+    "simpler": "Pro jednotlivé komponenty platí samostatné tabulkové limity.",
+    "optionReasoning": {
+      "A": "Správně: uvádí obecné limity v tabulce pro prachy a zápalky.",
+      "B": "B: 25 kg prachu není obecný limit.",
+      "C": "C: Rozbušky a bleskovice nejsou v této tabulce uvedeny."
+    },
+    "decisiveDetail": "Obecné limity podle přílohy č. 6 jsou 10 kg bezdýmného prachu, 3 kg černého loveckého prachu a stanovené počty zápalek podle druhu.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "Příloha č. 6, tabulka",
+        "quote": "bezdýmný prach\t10 kg\t40 kg\nčerný lovecký prach\t3 kg\t16 kg"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-607",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Limit se počítá pro každý druh aktivního komponentu samostatně; kompletní náboje, nábojky a zápalkované nábojnice se do něj nezapočítávají.",
+    "simpler": "Různé druhy komponentů se nesčítají dohromady.",
+    "optionReasoning": {
+      "A": "A: Hotové náboje se naopak nezapočítávají.",
+      "B": "B: Tabulka stanoví limit podle druhu, nikoli jeden souhrnný vyšší limit.",
+      "C": "Správně: samostatné limity platí pro jednotlivé druhy komponent."
+    },
+    "decisiveDetail": "Limit se počítá pro každý druh aktivního komponentu samostatně; kompletní náboje, nábojky a zápalkované nábojnice se do něj nezapočítávají.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "Příloha č. 6, bod 1",
+        "quote": "Do množstevních limitů se nezapočítává množství aktivních komponentů střeliva obsažených v kompletních nábojích, nábojkách a nábojnicích se zápalkou"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-608",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Obrázek zobrazuje kontrolní znehodnocovací značku: písmeno D nad CZ, rok a identifikaci osoby, která úpravu provedla.",
+    "simpler": "Značka D/CZ označuje provedenou nevratnou úpravu.",
+    "optionReasoning": {
+      "A": "A: Jde o znehodnocovací značku, nikoli identifikační kód držitele licence D.",
+      "B": "Správně: obrazec D/CZ a identifikační údaje odpovídají kontrolní znehodnocovací značce.",
+      "C": "C: Nejde o běžnou ověřovací značku na delaborované zbrani."
+    },
+    "decisiveDetail": "Obrázek zobrazuje kontrolní znehodnocovací značku: písmeno D nad CZ, rok a identifikaci osoby, která úpravu provedla.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "Příloha č. 3",
+        "quote": "Kontrolní znehodnocovací značka má podobu velkého tiskacího písmene „D“ nad velkými tiskacími písmeny „CZ“ s uvedením roku provedení nevratné úpravy zbraně a identifikací osoby, která nevratnou úpravu zbraně provedla."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-609",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Obrázky EU CZ CÚZZS, CZ CÚZZS a CZ MO jsou verifikační znehodnocovací značky vydávané příslušnými orgány.",
+    "simpler": "Jde o značky potvrzující kontrolu provedeného znehodnocení.",
+    "optionReasoning": {
+      "A": "Správně: zkratky identifikují zkušební úřad nebo Ministerstvo obrany.",
+      "B": "B: To nejsou „kontrolní ověřovací“ značky dovozu či výroby.",
+      "C": "C: Značky se týkají znehodnocení, nikoli typového schválení."
+    },
+    "decisiveDetail": "Obrázky EU CZ CÚZZS, CZ CÚZZS a CZ MO jsou verifikační znehodnocovací značky vydávané příslušnými orgány.",
+    "sources": [
+      {
+        "sourceId": "s-062b4af5a5cb",
+        "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+        "file": "sources/references/law-2025-187.txt",
+        "locator": "Příloha č. 4, část A a B",
+        "quote": "Vzory verifikačních znehodnocovacích značek jsou stanoveny v příloze č. 4 k tomuto nařízení."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-610",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Listina zaručuje právo bránit život svůj i jiného člověka i se zbraní, za podmínek stanovených zákonem.",
+    "simpler": "Jde o základní právo podle Listiny.",
+    "optionReasoning": {
+      "A": "A: Listina právo neomezuje na občany ČR ani na cesty do ciziny.",
+      "B": "B: Nejde pouze o držitele rozšířeného oprávnění.",
+      "C": "Správně: Listina výslovně zaručuje toto základní právo."
+    },
+    "decisiveDetail": "Listina zaručuje právo bránit život svůj i jiného člověka i se zbraní, za podmínek stanovených zákonem.",
+    "sources": [
+      {
+        "sourceId": "s-7ececb399da4",
+        "url": "https://www.e-sbirka.cz/sb/1993/2?zalozka=text",
+        "file": "sources/references/law-1993-2.txt",
+        "locator": "Čl. 6 odst. 4",
+        "quote": "Právo bránit život svůj či život jiného člověka i se zbraní je zaručeno za podmínek, které stanoví zákon."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-611",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Podmínky obrany stanoví zejména trestní zákoník pro nutnou obranu a krajní nouzi; zákon o zbraních upravuje oprávnění nakládat se zbraněmi.",
+    "simpler": "Trestní zákoník vymezuje obranu a krajní nouzi, zákon o zbraních oprávnění ke zbrani.",
+    "optionReasoning": {
+      "A": "A: Listina nepodmiňuje právo dosud nepřijatým zvláštním zákonem.",
+      "B": "B: Občanský zákoník a správní řád nejsou hlavním trestněprávním rámcem obrany.",
+      "C": "Správně: jde především o trestní zákoník a také předpisy o oprávněném nakládání se zbraní."
+    },
+    "decisiveDetail": "Podmínky obrany stanoví zejména trestní zákoník pro nutnou obranu a krajní nouzi; zákon o zbraních upravuje oprávnění nakládat se zbraněmi.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§§ 28–29",
+        "quote": "Čin jinak trestný, kterým někdo odvrací nebezpečí přímo hrozící zájmu chráněnému trestním zákonem"
+      },
+      {
+        "sourceId": "s-7ececb399da4",
+        "url": "https://www.e-sbirka.cz/sb/1993/2?zalozka=text",
+        "file": "sources/references/law-1993-2.txt",
+        "locator": "Čl. 6 odst. 4",
+        "quote": "Právo bránit život svůj či život jiného člověka i se zbraní je zaručeno za podmínek, které stanoví zákon."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-612",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Zákon č. 90/2024 Sb. a zákon č. 14/2021 Sb. jsou odlišné předpisy; zákon č. 14/2021 výslovně navazuje na právní úpravu zbraní.",
+    "simpler": "Jde o dva samostatné předpisy s navazujícími režimy.",
+    "optionReasoning": {
+      "A": "A: Zákon č. 14/2021 není synonymem zákona č. 90/2024.",
+      "B": "Správně: předpisy jsou oddělené a § 2 odkazuje na zákon o zbraních.",
+      "C": "C: Zákon č. 14/2021 se netýká pouze příslušníků ozbrojených sil."
+    },
+    "decisiveDetail": "Zákon č. 90/2024 Sb. a zákon č. 14/2021 Sb. jsou odlišné předpisy; zákon č. 14/2021 výslovně navazuje na právní úpravu zbraní.",
+    "sources": [
+      {
+        "sourceId": "s-cd475b74a01f",
+        "url": "https://www.e-sbirka.cz/sb/2021/14?zalozka=text",
+        "file": "sources/references/law-2021-14.txt",
+        "locator": "§ 2 odst. 1–2",
+        "quote": "Nestanoví-li tento zákon jinak, použijí se na nakládání se zbraněmi podle hlavy III této části zákony uvedené v odstavci 1."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-613",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Zakládání, organizování i vyzbrojování ozbrojené skupiny je zakázáno.",
+    "simpler": "Zákon výslovně zakazuje ozbrojené skupiny.",
+    "optionReasoning": {
+      "A": "A: Zákon takové jednání zakazuje.",
+      "B": "B: Výjimka se souhlasem Policejního prezidia stanovena není.",
+      "C": "Správně: opakuje výslovný zákaz."
+    },
+    "decisiveDetail": "Zakládání, organizování i vyzbrojování ozbrojené skupiny je zakázáno.",
+    "sources": [
+      {
+        "sourceId": "s-cd475b74a01f",
+        "url": "https://www.e-sbirka.cz/sb/2021/14?zalozka=text",
+        "file": "sources/references/law-2021-14.txt",
+        "locator": "§ 3 odst. 1",
+        "quote": "Zakazuje se zakládat, organizovat nebo vyzbrojovat ozbrojenou skupinu"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-614",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Stanovenou zálohou státu jsou účastník programu střelecké přípravy a zbraň používaná v systému, za zákonných a nařízením stanovených podmínek.",
+    "simpler": "Programová osoba i zbraň mohou tvořit stanovenou zálohu.",
+    "optionReasoning": {
+      "A": "A: Není to aktivní záloha ozbrojených sil.",
+      "B": "B: Nejde o právnickou osobu bývalých vojáků.",
+      "C": "Správně: zahrnuje účastníka i zbraň pro stanovené úkoly."
+    },
+    "decisiveDetail": "Stanovenou zálohou státu jsou účastník programu střelecké přípravy a zbraň používaná v systému, za zákonných a nařízením stanovených podmínek.",
+    "sources": [
+      {
+        "sourceId": "s-cd475b74a01f",
+        "url": "https://www.e-sbirka.cz/sb/2021/14?zalozka=text",
+        "file": "sources/references/law-2021-14.txt",
+        "locator": "§ 6 odst. 2",
+        "quote": "Osoba účastnící se programu střelecké přípravy a střelná zbraň, s níž je nakládáno v systému střelecké přípravy, jsou stanovenou zálohou státu"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-615",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Získání pokročilé aprobace samo o sobě neznamená členství v aktivní záloze; zákon označuje účastníka programu a zbraň jako stanovenou zálohu státu za daných podmínek.",
+    "simpler": "Pokročilá aprobace není členstvím v aktivní záloze.",
+    "optionReasoning": {
+      "A": "A: Aprobace nevytváří členství v aktivní záloze.",
+      "B": "B: Zákon zde nezavádí členství v pasivní záloze.",
+      "C": "Správně: správný pojem je stanovená záloha státu."
+    },
+    "decisiveDetail": "Získání pokročilé aprobace samo o sobě neznamená členství v aktivní záloze; zákon označuje účastníka programu a zbraň jako stanovenou zálohu státu za daných podmínek.",
+    "sources": [
+      {
+        "sourceId": "s-cd475b74a01f",
+        "url": "https://www.e-sbirka.cz/sb/2021/14?zalozka=text",
+        "file": "sources/references/law-2021-14.txt",
+        "locator": "§ 6 odst. 2",
+        "quote": "Osoba účastnící se programu střelecké přípravy a střelná zbraň, s níž je nakládáno v systému střelecké přípravy, jsou stanovenou zálohou státu"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-616",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Systém se skládá z programů střelecké přípravy a zlepšuje schopnosti oprávněných osob pro potřeby vnitřního pořádku či bezpečnosti.",
+    "simpler": "Jde o programy pro dobrovolnou přípravu oprávněných osob.",
+    "optionReasoning": {
+      "A": "Správně: popisuje složení i účel systému.",
+      "B": "B: Účast není povinnou součástí branné povinnosti všech občanů.",
+      "C": "C: Nejde pouze o výcvik příslušníků bezpečnostních sborů při krizových stavech."
+    },
+    "decisiveDetail": "Systém se skládá z programů střelecké přípravy a zlepšuje schopnosti oprávněných osob pro potřeby vnitřního pořádku či bezpečnosti.",
+    "sources": [
+      {
+        "sourceId": "s-cd475b74a01f",
+        "url": "https://www.e-sbirka.cz/sb/2021/14?zalozka=text",
+        "file": "sources/references/law-2021-14.txt",
+        "locator": "§ 4 odst. 1–2",
+        "quote": "Systém střelecké přípravy se skládá z programů střelecké přípravy"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-617",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Akreditovanou osobou je osoba, které byla udělena akreditace pro zajišťování kurzu v programu střelecké přípravy.",
+    "simpler": "Akreditace opravňuje zajišťovat příslušný kurz.",
+    "optionReasoning": {
+      "A": "A: Akreditovaná osoba není obecný kontrolní orgán krajského vojenského velitelství.",
+      "B": "Správně: akreditace se vztahuje k zajišťování kurzu.",
+      "C": "C: Nejde o dozor nad uplatňováním základního práva v řízení."
+    },
+    "decisiveDetail": "Akreditovanou osobou je osoba, které byla udělena akreditace pro zajišťování kurzu v programu střelecké přípravy.",
+    "sources": [
+      {
+        "sourceId": "s-cd475b74a01f",
+        "url": "https://www.e-sbirka.cz/sb/2021/14?zalozka=text",
+        "file": "sources/references/law-2021-14.txt",
+        "locator": "§ 5 odst. 2",
+        "quote": "Vláda může nařízením stanovit, že program střelecké přípravy bude zajišťován akreditovanou osobou"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-618",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Účast v programu střelecké přípravy je výslovně dobrovolná.",
+    "simpler": "Kurzy nejsou podmínkou zkoušky na zbrojní oprávnění.",
+    "optionReasoning": {
+      "A": "A: Zákon z kurzů nedělá povinnou část zkoušky odborné způsobilosti.",
+      "B": "Správně: účast je dobrovolná.",
+      "C": "C: Dobrovolnost platí obecně, ne jen pro žadatele o rozšířené oprávnění."
+    },
+    "decisiveDetail": "Účast v programu střelecké přípravy je výslovně dobrovolná.",
+    "sources": [
+      {
+        "sourceId": "s-cd475b74a01f",
+        "url": "https://www.e-sbirka.cz/sb/2021/14?zalozka=text",
+        "file": "sources/references/law-2021-14.txt",
+        "locator": "§ 5 odst. 3",
+        "quote": "Účast na programu střelecké přípravy je dobrovolná."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-619",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Munice je zkompletovaný nebo neúplný výrobek s aktivní muniční náplní, speciálně konstruovaný pro ozbrojené síly či bezpečnostní sbory; upravuje ji samostatný zákon o munici.",
+    "simpler": "Munice je věc vymezená zákonem o munici.",
+    "optionReasoning": {
+      "A": "Správně: odpovídá zákonné definici a oddělenému režimu.",
+      "B": "B: Výčet střel neodpovídá definici munice.",
+      "C": "C: Náboje a komponenty jsou upraveny zákonem o zbraních a střelivu, nikoli jako munice jen podle ráže."
+    },
+    "decisiveDetail": "Munice je věc vymezená zákonem o munici.",
+    "sources": [
+      {
+        "sourceId": "s-bb714c220c00",
+        "url": "https://www.e-sbirka.cz/sb/2024/91?zalozka=text",
+        "file": "sources/references/law-2024-91.txt",
+        "locator": "§ 4 odst. 1",
+        "quote": "Municí je zkompletovaný nebo neúplný výrobek obsahující aktivní muniční náplň a speciálně konstruovaný pro použití ozbrojenými silami nebo bezpečnostními sbory."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-620",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Zákon č. 91/2024 Sb. samostatně upravuje nakládání s municí, neaktivními muničními předměty a pyrotechnický průzkum.",
+    "simpler": "Zákon o munici je samostatný právní předpis.",
+    "optionReasoning": {
+      "A": "A: Zákon není pouze doplňkem zákona o ozbrojených silách.",
+      "B": "B: Zákon č. 91/2024 Sb. nebyl zákonem č. 90/2024 zrušen.",
+      "C": "Správně: vymezuje vlastní samostatný rozsah."
+    },
+    "decisiveDetail": "Zákon o munici je samostatný právní předpis.",
+    "sources": [
+      {
+        "sourceId": "s-bb714c220c00",
+        "url": "https://www.e-sbirka.cz/sb/2024/91?zalozka=text",
+        "file": "sources/references/law-2024-91.txt",
+        "locator": "§ 1 odst. 1",
+        "quote": "Tento zákon upravuje\na)\nnakládání s municí,\nb)\nzacházení s neaktivním muničním předmětem a\nc)\npyrotechnický průzkum."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-621",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Výrobky konstruované či přizpůsobené pro ozbrojené síly nebo bezpečnostní sbory, případně hromadně v nich používané pro obranu a bezpečnost, jsou vojenským materiálem.",
+    "simpler": "Zákon 38/1994 výslovně vymezuje vojenský materiál.",
+    "optionReasoning": {
+      "A": "A: Akreditace z programu střelecké přípravy není povolením k obchodu s vojenským materiálem.",
+      "B": "Správně: jde o definici vojenského materiálu.",
+      "C": "C: Zákon jej nevyhrazuje jako zvláštní majetek státu."
+    },
+    "decisiveDetail": "Zákon 38/1994 výslovně vymezuje vojenský materiál.",
+    "sources": [
+      {
+        "sourceId": "s-d9ed5ba7f412",
+        "url": "https://www.e-sbirka.cz/sb/1994/38?zalozka=text",
+        "file": "sources/references/law-1994-38.txt",
+        "locator": "§ 5 odst. 1 písm. a)",
+        "quote": "výrobky, jejich součásti a náhradní díly, které jsou vzhledem ke svým charakteristickým technicko-konstrukčním vlastnostem posuzovány jako zkonstruované nebo přizpůsobené pro použití v ozbrojených silách nebo bezpečnostních sborech"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-622",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Zahraniční obchod s vojenským materiálem vyžaduje povolení podle zákona č. 38/1994 Sb. a v zákonem stanovených případech i licenci.",
+    "simpler": "Povolení a případná licence spadají pod zákon o vojenském materiálu.",
+    "optionReasoning": {
+      "A": "Správně: zákon 38/1994 upravuje povolovací režim; některé úkony podléhají též licenci.",
+      "B": "B: Zbrojní průvodní list není náhradou povolení k obchodu s vojenským materiálem.",
+      "C": "C: Výjimka vázaná na krizový stav není jedinou cestou."
+    },
+    "decisiveDetail": "Povolení a případná licence spadají pod zákon o vojenském materiálu.",
+    "sources": [
+      {
+        "sourceId": "s-d9ed5ba7f412",
+        "url": "https://www.e-sbirka.cz/sb/1994/38?zalozka=text",
+        "file": "sources/references/law-1994-38.txt",
+        "locator": "§ 6 a násl.",
+        "quote": "Tento zákon upravuje podmínky provádění zahraničního obchodu s vojenským materiálem"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-623",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Obchodní dovoz, vývoz a přeshraniční přemístění některých civilních zbraní i vymezený neobchodní vývoz podléhají povolení MPO podle zákona č. 228/2005 Sb.",
+    "simpler": "Pro část civilního obchodu se vyžaduje povolení MPO.",
+    "optionReasoning": {
+      "A": "A: Volný pohyb EU neodstraňuje zvláštní povolovací režim pro tyto výrobky.",
+      "B": "B: Zákon neupravuje všeobecný zákaz.",
+      "C": "Správně: příslušný zákon svěřuje povolení MPO."
+    },
+    "decisiveDetail": "Pro část civilního obchodu se vyžaduje povolení MPO.",
+    "sources": [
+      {
+        "sourceId": "s-e1d9718ac2ca",
+        "url": "https://www.e-sbirka.cz/sb/2005/228?zalozka=text",
+        "file": "sources/references/law-2005-228.txt",
+        "locator": "§ 1 a § 2 odst. 3",
+        "quote": "Stanovené výrobky mohou být přepravovány a dováženy jen na základě povolení Ministerstva průmyslu a obchodu"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-624",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Písmeno X vyražené přes dřívější značky označuje neúspěšné opakované kusové ověřování; zbraň nesplňuje požadavky a nesmí se používat ani uvést na trh.",
+    "simpler": "Značka X znamená, že zbraň při opakované zkoušce nevyhověla.",
+    "optionReasoning": {
+      "A": "Správně: X znamená nevyhovění při opakovaném kusovém ověřování.",
+      "B": "B: Značku X nevyznačuje výrobce po opakovaném vlastním ověřování.",
+      "C": "C: X není platná značka potvrzující bezpečnost."
+    },
+    "decisiveDetail": "Značka X znamená, že zbraň při opakované zkoušce nevyhověla.",
+    "sources": [
+      {
+        "sourceId": "s-0174d843e1b2",
+        "url": "https://www.e-sbirka.cz/sb/2000/156?zalozka=text",
+        "file": "sources/references/law-2000-156.txt",
+        "locator": "§ 19 odst. 4",
+        "quote": "Na stanovenou střelnou zbraň nebo stanovený doplněk, který nesplňuje stanovené technické požadavky při opakovaném kusovém ověřování, vyrazí Úřad přes dříve vyznačené značky uvedené v odstavcích 1 a 2 písmeno „X“."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-625",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Vyhláška č. 335/2004 Sb. obsahuje vzory uznávaných jednotných zkušebních značek a identifikačních značek zkušeben v rámci C.I.P.",
+    "simpler": "Vyhláška zpřístupňuje grafickou podobu značek C.I.P.",
+    "optionReasoning": {
+      "A": "A: Kontrolní znehodnocovací značka je upravena jinde.",
+      "B": "B: Policie neprovádí ověřování stanovených zbraní.",
+      "C": "Správně: vyhláška obsahuje značky uznávané podle Úmluvy C.I.P."
+    },
+    "decisiveDetail": "Vyhláška zpřístupňuje grafickou podobu značek C.I.P.",
+    "sources": [
+      {
+        "sourceId": "s-13a5e92b98df",
+        "url": "https://www.e-sbirka.cz/sb/2004/335?zalozka=text",
+        "file": "sources/references/law-2004-335.txt",
+        "locator": "Příloha č. 1 a násl.",
+        "quote": "Značky platné, pokud byly vyznačeny nejdříve v květnu 2011."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-626",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Zkušební značka osvědčuje, že kontrolovaný výrobek byl ověřen a splňuje stanovené technické požadavky.",
+    "simpler": "Značka potvrzuje technické vyhovění po ověření.",
+    "optionReasoning": {
+      "A": "Správně: vystihuje zákonný význam zkušební značky.",
+      "B": "B: Nejde o výsledek sportovní soutěže.",
+      "C": "C: Značka sama nenahrazuje vývozní administrativní povinnosti."
+    },
+    "decisiveDetail": "Značka potvrzuje technické vyhovění po ověření.",
+    "sources": [
+      {
+        "sourceId": "s-0174d843e1b2",
+        "url": "https://www.e-sbirka.cz/sb/2000/156?zalozka=text",
+        "file": "sources/references/law-2000-156.txt",
+        "locator": "§ 2 odst. 2",
+        "quote": "Zkušební značkou se rozumí značka, která osvědčuje, že kontrolovaný výrobek byl ověřen"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-627",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Ověřování není omezeno jen na zbraně ze zemí mimo EU; zákon vymezuje ověřování technickými zkouškami a různými postupy. Nepravdivé je B.",
+    "simpler": "Původ ze třetí země není jediným důvodem ověřování.",
+    "optionReasoning": {
+      "A": "A: Odpovídá zákonné definici ověřování.",
+      "B": "Správně: zákon neomezuje ověřování výhradně na mimoevropský původ.",
+      "C": "C: Zákon stanoví homologaci, kusové a opakované kusové ověřování."
+    },
+    "decisiveDetail": "Původ ze třetí země není jediným důvodem ověřování.",
+    "sources": [
+      {
+        "sourceId": "s-0174d843e1b2",
+        "url": "https://www.e-sbirka.cz/sb/2000/156?zalozka=text",
+        "file": "sources/references/law-2000-156.txt",
+        "locator": "§ 2 odst. 1 písm. f)",
+        "quote": "ověřováním činnost, při které se technickými zkouškami, měřením a zkušební střelbou zjišťují vlastnosti kontrolovaných výrobků"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-628",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Stanovené zbraně, střelivo a doplňky ověřuje Český úřad pro zkoušení zbraní a střeliva.",
+    "simpler": "Ověřování provádí ČÚZZS.",
+    "optionReasoning": {
+      "A": "Správně: jde o zákonem určený orgán.",
+      "B": "B: ÚNMZ není orgánem pověřeným tímto ověřováním.",
+      "C": "C: Takový zkušební ústav zákon nezřizuje."
+    },
+    "decisiveDetail": "Ověřování provádí ČÚZZS.",
+    "sources": [
+      {
+        "sourceId": "s-0174d843e1b2",
+        "url": "https://www.e-sbirka.cz/sb/2000/156?zalozka=text",
+        "file": "sources/references/law-2000-156.txt",
+        "locator": "§ 5 odst. 1",
+        "quote": "kontrolovaný výrobek byl ověřován Českým úřadem pro zkoušení zbraní a střeliva (dále jen „Úřad“)."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-629",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Neoprávněná výroba, opatření či držení vyjmenovaných zbraní a odstranění jedinečného označení může naplnit trestný čin nedovoleného ozbrojování podle § 279.",
+    "simpler": "Neoprávněné ozbrojování je trestný čin.",
+    "optionReasoning": {
+      "A": "A: Nejde o pouhý přestupek podle zákona o obchodu.",
+      "B": "Správně: § 279 trestního zákoníku upravuje nedovolené ozbrojování.",
+      "C": "C: Zákon nezná navržený etický disciplinární postih."
+    },
+    "decisiveDetail": "Neoprávněné ozbrojování je trestný čin.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 279",
+        "quote": "Kdo bez povolení vyrobí, sobě nebo jinému opatří nebo přechovává střelnou zbraň nebo její hlavní části"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-630",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Podstatné ohrožení obecného zájmu porušením povinností při dovozu, vývozu či průvozu zboží je trestný čin podle § 261; zvláštní sazba se týká zbraní a munice.",
+    "simpler": "§ 261 postihuje porušení pravidel oběhu zboží přes hranice.",
+    "optionReasoning": {
+      "A": "A: Nejde jen o přestupek podle zákona o zbraních.",
+      "B": "B: Platební delikt nesouvisí s popsaným jednáním.",
+      "C": "Správně: jde o trestný čin podle § 261 trestního zákoníku."
+    },
+    "decisiveDetail": "§ 261 postihuje porušení pravidel oběhu zboží přes hranice.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 261 odst. 1–2",
+        "quote": "Kdo podstatně ohrozí obecný zájem tím, že poruší zákaz, omezení nebo jinou důležitou povinnost stanovenou pro dovoz, vývoz nebo průvoz zboží"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-631",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "evidenceBasis": "official-answer",
+    "concise": "U popsaného přestupku lze uložit propadnutí věci, tedy i zbraně použité k přestupku, určené ke spáchání přestupku nebo takto získané.",
+    "simpler": "Přestupek může vést k propadnutí související zbraně.",
+    "optionReasoning": {
+      "A": "Správně: klíč označuje propadnutí věci jako možný trest.",
+      "B": "B: „Odebrání zbraně“ není pojmenováním správného trestu v této otázce.",
+      "C": "C: Zajištění je jiný institut než uložený trest propadnutí věci."
+    },
+    "decisiveDetail": "Jde o trest propadnutí věci, nikoli zajištění věci.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-632",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Krajní nouze vylučuje trestnost činu, jímž někdo odvrací přímo hrozící nebezpečí, pokud nebezpečí nebylo možné odvrátit jinak a následek není stejně či více závažný.",
+    "simpler": "Jde o odvrácení přímo hrozícího nebezpečí s podmínkami přiměřenosti.",
+    "optionReasoning": {
+      "A": "A: Nevyžaduje soudní rozhodnutí ani zvláštní návrh ministerstva.",
+      "B": "Správně: popisuje přímé nebezpečí a meze krajní nouze.",
+      "C": "C: Zaměňuje krajní nouzi s nutnou obranou a vypouští zákonné meze."
+    },
+    "decisiveDetail": "Jde o odvrácení přímo hrozícího nebezpečí s podmínkami přiměřenosti.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 28 odst. 1–2",
+        "quote": "Čin jinak trestný, kterým někdo odvrací nebezpečí přímo hrozící zájmu chráněnému trestním zákonem, není trestným činem."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-633",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Krajní nouzi může uplatnit kdokoli, kdo odvrací přímo hrozící nebezpečí; zákon nevyžaduje, aby ohrožení mířilo na jednajícího.",
+    "simpler": "Pomoc v krajní nouzi není vyhrazena úředním osobám ani ohroženému člověku.",
+    "optionReasoning": {
+      "A": "A: Ustanovení se neomezuje na policisty a další složky.",
+      "B": "B: Slovo „někdo“ nevyžaduje ohrožení vlastního zájmu.",
+      "C": "Správně: může jít o pomoc jiné osobě."
+    },
+    "decisiveDetail": "Pomoc v krajní nouzi není vyhrazena úředním osobám ani ohroženému člověku.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 28 odst. 1",
+        "quote": "kterým někdo odvrací nebezpečí přímo hrozící zájmu chráněnému trestním zákonem"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-634",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Rozhoduje, zda šlo nebezpečí odvrátit jinak a zda způsobený následek nebyl zřejmě stejně či více závažný.",
+    "simpler": "Krajní nouze má dvě zákonné meze.",
+    "optionReasoning": {
+      "A": "A: Jakákoli škoda automaticky nevylučuje krajní nouzi.",
+      "B": "Správně: uvádí zákonné testy subsidiarity a přiměřenosti.",
+      "C": "C: Psychologické vyšetření zákonným kritériem není."
+    },
+    "decisiveDetail": "Krajní nouze má dvě zákonné meze.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 28 odst. 2",
+        "quote": "Nejde o krajní nouzi, jestliže bylo možno toto nebezpečí za daných okolností odvrátit jinak anebo způsobený následek je zřejmě stejně závažný nebo ještě závažnější než ten, který hrozil"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-635",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Nebezpečí při krajní nouzi musí přímo hrozit.",
+    "simpler": "Musí jít o bezprostřední nebezpečí.",
+    "optionReasoning": {
+      "A": "Správně: zákon vyžaduje přímé hrozící nebezpečí.",
+      "B": "B: Nepřímé nebezpečí podmínku nesplňuje.",
+      "C": "C: Úřední listina ani střednědobá budoucnost nejsou zákonným měřítkem."
+    },
+    "decisiveDetail": "Musí jít o bezprostřední nebezpečí.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 28 odst. 1",
+        "quote": "odvrací nebezpečí přímo hrozící zájmu chráněnému trestním zákonem"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-636",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Nebezpečí může vzniknout různými faktory včetně přírodních, lidských či biologických; zákon zdroj nebezpečí nezužuje na jeden typ.",
+    "simpler": "Rozhoduje přímé nebezpečí, nikoli jeho jediný možný původ.",
+    "optionReasoning": {
+      "A": "A: Zákon nevyžaduje výlučně přírodní sílu.",
+      "B": "B: Nejde o zákonný taxativní výčet zdrojů.",
+      "C": "Správně: může jít o různé zdroje přímého nebezpečí."
+    },
+    "decisiveDetail": "Rozhoduje přímé nebezpečí, nikoli jeho jediný možný původ.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 28 odst. 1",
+        "quote": "odvrací nebezpečí přímo hrozící zájmu chráněnému trestním zákonem"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-637",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Nutná obrana odvrací přímo hrozící nebo trvající útok na zájem chráněný trestním zákonem; nesmí být zcela zjevně nepřiměřená způsobu útoku.",
+    "simpler": "Nutná obrana reaguje na útok a její mezí je zjevná nepřiměřenost.",
+    "optionReasoning": {
+      "A": "A: Zákon nevyžaduje střelnou zbraň ani předchozí výzvu.",
+      "B": "Správně: uvádí útok i zákonnou mez obrany.",
+      "C": "C: Zaměňuje útok za nebezpečí a přenáší meze krajní nouze."
+    },
+    "decisiveDetail": "Nutná obrana reaguje na útok a její mezí je zjevná nepřiměřenost.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 1–2",
+        "quote": "Čin jinak trestný, kterým někdo odvrací přímo hrozící nebo trvající útok na zájem chráněný trestním zákonem"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-638",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Nutná obrana se posuzuje podle toho, zda nebyla zcela zjevně nepřiměřená způsobu útoku.",
+    "simpler": "Nemusí být stejná jako útok; nesmí být zjevně nepřiměřená.",
+    "optionReasoning": {
+      "A": "A: Možnost odvrátit jinak patří do krajní nouze.",
+      "B": "Správně: odpovídá zákonnému testu nutné obrany.",
+      "C": "C: Trestní zákoník neukládá bodové posudkové srovnání hypotetických následků."
+    },
+    "decisiveDetail": "Nemusí být stejná jako útok; nesmí být zjevně nepřiměřená.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 2",
+        "quote": "Nejde o nutnou obranu, byla-li obrana zcela zjevně nepřiměřená způsobu útoku."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-639",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Trestní zákoník u nutné obrany nevyžaduje před použitím zbraně výzvu útočníkovi; rozhodující jsou podmínky § 29.",
+    "simpler": "Výstražná výzva není zákonnou podmínkou nutné obrany.",
+    "optionReasoning": {
+      "A": "A: Podmínka výzvy není v § 29 uvedena.",
+      "B": "Správně: § 29 nevyžaduje varování ani výzvu.",
+      "C": "C: Zákon nestanoví absolutní zákaz obrany vůči uvedeným kategoriím osob."
+    },
+    "decisiveDetail": "Výstražná výzva není zákonnou podmínkou nutné obrany.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 1–2",
+        "quote": "Čin jinak trestný, kterým někdo odvrací přímo hrozící nebo trvající útok na zájem chráněný trestním zákonem, není trestným činem."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-640",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Obrana může být intenzivnější než útok, avšak nesmí být zcela zjevně nepřiměřená jeho způsobu.",
+    "simpler": "Není nutné „rovný s rovným“, ale platí mez zjevné nepřiměřenosti.",
+    "optionReasoning": {
+      "A": "Správně: připouští účinnější obranu v zákonné mezi.",
+      "B": "B: Zákon nevyžaduje přesně stejnou intenzitu obrany a útoku.",
+      "C": "C: Zcela zjevná nepřiměřenost nutnou obranu vylučuje."
+    },
+    "decisiveDetail": "Není nutné „rovný s rovným“, ale platí mez zjevné nepřiměřenosti.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 2",
+        "quote": "Nejde o nutnou obranu, byla-li obrana zcela zjevně nepřiměřená způsobu útoku."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-641",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Nutná obrana se vztahuje na přímo hrozící nebo trvající útok na jakýkoli zájem chráněný trestním zákonem.",
+    "simpler": "Nejde jen o život, zdraví nebo majetek.",
+    "optionReasoning": {
+      "A": "A: Zákon neomezuje chráněné zájmy jen na život a zdraví.",
+      "B": "B: Nejde pouze o zdraví a majetek.",
+      "C": "Správně: pojem zahrnuje všechny zájmy chráněné trestním zákonem."
+    },
+    "decisiveDetail": "Nejde jen o život, zdraví nebo majetek.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 1",
+        "quote": "útok na zájem chráněný trestním zákonem"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-642",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Útok může být spáchán i protiprávním opomenutím; zákon nevyžaduje výlučně aktivní jednání se zlým úmyslem.",
+    "simpler": "Protiprávní opomenutí může být útokem.",
+    "optionReasoning": {
+      "A": "A: Útok nemusí být jen aktivní jednání fyzické osoby se zlým úmyslem.",
+      "B": "B: Opomenutí samo o sobě nestačí, musí být protiprávní a představovat útok.",
+      "C": "Správně: zahrnuje protiprávní jednání i opomenutí."
+    },
+    "decisiveDetail": "Protiprávní opomenutí může být útokem.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 1",
+        "quote": "přímo hrozící nebo trvající útok na zájem chráněný trestním zákonem"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-643",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Nutnou obranou lze za stejných podmínek chránit vlastní i cizí zájmy, které chrání trestní zákon.",
+    "simpler": "Lze pomoci jiné osobě, nejen rodině.",
+    "optionReasoning": {
+      "A": "A: Zákon neomezuje obranu na vlastní zájmy.",
+      "B": "B: Ochrana není omezena na rodinné příslušníky.",
+      "C": "Správně: chránit lze zájem jiné osoby."
+    },
+    "decisiveDetail": "Lze pomoci jiné osobě, nejen rodině.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 1",
+        "quote": "kterým někdo odvrací přímo hrozící nebo trvající útok na zájem chráněný trestním zákonem"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-644",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Nutná obrana směřuje proti útočníkovi; v zákonných mezích mu může způsobit i újmu na zdraví či životě.",
+    "simpler": "Obrana míří proti útočníkovi, ne nezúčastněným osobám.",
+    "optionReasoning": {
+      "A": "Správně: obrana je zaměřena na útok, tedy proti útočníkovi, a její mezí je zjevná nepřiměřenost.",
+      "B": "B: Zákon neomezuje možné následky jen na majetek či zdraví ani zde neurčuje automatickou náhradu.",
+      "C": "C: Obrana nemá směřovat proti rodinným příslušníkům, kteří se útoku neúčastní."
+    },
+    "decisiveDetail": "Obrana míří proti útočníkovi, ne nezúčastněným osobám.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 1–2",
+        "quote": "kterým někdo odvrací přímo hrozící nebo trvající útok na zájem chráněný trestním zákonem"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-645",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Při více útočnících může obrana směřovat proti kterémukoli z nich; zákon neurčuje pořadí podle role ani rovnoměrné rozdělení.",
+    "simpler": "Není nutné zaměřit obranu na vůdce ani na všechny stejně.",
+    "optionReasoning": {
+      "A": "A: Zákon nepředepisuje útočníka-vůdce jako první cíl.",
+      "B": "B: Obrana nemusí být rovnoměrně rozdělena mezi útočníky.",
+      "C": "Správně: lze odvracet útok kteréhokoli z útočníků."
+    },
+    "decisiveDetail": "Není nutné zaměřit obranu na vůdce ani na všechny stejně.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 1",
+        "quote": "přímo hrozící nebo trvající útok"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-646",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Příprava zbraně sama neznamená nutnou obranu; její použití může být obranou až při skutečně přímo hrozícím či trvajícím útoku a splnění dalších podmínek.",
+    "simpler": "Rozhoduje skutečný útok v okamžiku použití.",
+    "optionReasoning": {
+      "A": "Správně: připravenou zbraň lze použít jen při splnění podmínek obrany.",
+      "B": "B: Pouhá příprava zbraně sama automaticky nevylučuje nutnou obranu.",
+      "C": "C: Domnělý nebo jen očekávaný útok nestačí; zákon nepopisuje kvalifikovanou provokaci takto."
+    },
+    "decisiveDetail": "Rozhoduje skutečný útok v okamžiku použití.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 1",
+        "quote": "odvrací přímo hrozící nebo trvající útok"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-647",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Proti útoku nožem či obuškem lze použít i střelnou zbraň, pokud obrana není zcela zjevně nepřiměřená způsobu útoku.",
+    "simpler": "Není pravidla „rovný s rovným“; rozhoduje zjevná nepřiměřenost.",
+    "optionReasoning": {
+      "A": "A: Zákon nevyžaduje stejný druh prostředku.",
+      "B": "B: Nutná obrana není omezena na útok v obydlí.",
+      "C": "Správně: střelná zbraň není automaticky vyloučena; stále platí zákonná mez."
+    },
+    "decisiveDetail": "Není pravidla „rovný s rovným“; rozhoduje zjevná nepřiměřenost.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 29 odst. 2",
+        "quote": "Nejde o nutnou obranu, byla-li obrana zcela zjevně nepřiměřená způsobu útoku."
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-648",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Jestliže pachatel odvracel útok, ale nesplnil zcela podmínky nutné obrany, soud to hodnotí jako polehčující okolnost.",
+    "simpler": "Neúplná nutná obrana je polehčující okolnost.",
+    "optionReasoning": {
+      "A": "Správně: trestní zákoník tuto situaci výslovně uvádí mezi polehčujícími okolnostmi.",
+      "B": "B: Nejde o přitěžující okolnost.",
+      "C": "C: Soud k ní přihlíží při ukládání trestu."
+    },
+    "decisiveDetail": "Neúplná nutná obrana je polehčující okolnost.",
+    "sources": [
+      {
+        "sourceId": "s-7d06da827a1f",
+        "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+        "file": "sources/references/law-2009-40.txt",
+        "locator": "§ 41 písm. g)",
+        "quote": "spáchal trestný čin odvraceje útok nebo jiné nebezpečí, aniž byly zcela splněny podmínky nutné obrany nebo krajní nouze"
+      }
+    ],
+    "issues": [],
+    "model": "gpt-6-luna"
+  }
+]

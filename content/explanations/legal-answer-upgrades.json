@@ -1,0 +1,56 @@
+[
+  {
+    "questionId": "q-407",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "evidenceBasis": "official-answer",
+    "concise": "Při podezření na zdravotní riziko KŘP vyzve osobu k lékařské prohlídce a současně jí doručí rozhodnutí o zajištění zbraně nebo souvisejících věcí. C.",
+    "simpler": "Policie nejprve zajistí zbraň a vyzve osobu k vyšetření.",
+    "optionReasoning": {
+      "A": "A: Postup nestojí na tom, že o dalších krocích rozhodne ošetřující lékař.",
+      "B": "B: Klíč popisuje výzvu k prohlídce a zajištění, ne okamžité odnětí oprávnění.",
+      "C": "Správně: odpovídá postupu při podezření na zdravotní ohrožení."
+    },
+    "decisiveDetail": "Výzva k prohlídce se doručuje společně s rozhodnutím o zajištění.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-602",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "evidenceBasis": "official-answer",
+    "concise": "Podle klíče zákon dlouhodobé uložení zbraně nebo střeliva ve vozidle nepřipouští. C.",
+    "simpler": "Zbraně ani střelivo se nemají dlouhodobě ukládat ve vozidle.",
+    "optionReasoning": {
+      "A": "A: Deset pracovních dnů není uvedená časová hranice.",
+      "B": "B: Klíč odmítá možnost neomezeného uložení podle technické normy.",
+      "C": "Správně: odpovídá klíči, který dlouhodobé uložení ve vozidle nepřipouští."
+    },
+    "decisiveDetail": "Rozlišení mezi povoleným krátkodobým režimem a nepřípustným dlouhodobým uložením.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-631",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "evidenceBasis": "official-answer",
+    "concise": "U popsaného přestupku lze uložit propadnutí věci, tedy i zbraně použité k přestupku, určené ke spáchání přestupku nebo takto získané. A.",
+    "simpler": "Přestupek může vést k propadnutí související zbraně.",
+    "optionReasoning": {
+      "A": "Správně: klíč označuje propadnutí věci jako možný trest.",
+      "B": "B: „Odebrání zbraně“ není pojmenováním správného trestu v této otázce.",
+      "C": "C: Zajištění je jiný institut než uložený trest propadnutí věci."
+    },
+    "decisiveDetail": "Jde o trest propadnutí věci, nikoli zajištění věci.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna"
+  }
+]

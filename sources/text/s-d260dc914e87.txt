@@ -1,0 +1,1054 @@
+Zákon o zbraních a střelivu
+     (č. 90/2024 Sb.)
+                             Nové zbrojní zákony
+
+ zákon č. 90/2024 Sb., o zbraních a střelivu
+
+ zákon č. 91/2024 Sb., o munici
+
+
+
+ oba zákony nabývají účinnosti od 1. 1. 2026
+                                       Prováděcí předpisy
+ NV č. 187/2025 Sb., o technických požadavcích a dalších specifikacích
+  pro některé zbraně, střelivo a střelnice a pro zabezpečení zbraní a
+  střeliva
+ NV č. 238/2025 Sb., o provádění zkoušek podle zákona o zbraních a
+  střelivu
+ NV č. 162/2025 Sb. o provedení některých ustanovení zákona o munici
+ NV č. 158/2025 Sb., o provádění zkoušek odborné způsobilosti podle
+  zákona o munici
+
+ NV č. 351/2025 Sb., o stanovení seznamu nemocí, vad nebo stavů, které
+  vylučují nebo omezují zdravotní způsobilost, a o náležitostech lékařského
+  posudku podle zákona o zbraních a střelivu a podle zákona o munici
+ NV č. …/2025 Sb., o zápisu a vedení údajů v centrálním registru zbraní a
+  o stanovení vzorů některých dokumentů na úseku zbraní, střeliva a
+  munice
+                                        Obecný úvod
+
+ zákon je celkově přehlednější a jednoduší
+ redukce skupin zbrojních oprávnění (zbrojních průkazů) z 5
+  na 2 a skupin zbrojních licencí z 10 na 3
+ zbrojní oprávnění na dobu neurčitou (ale posudek o
+  zdravotní způsobilosti každých 5 let)
+ jinak označené kategorie zbraní
+ zrušení „papírových“ dokladů (nikam se neodevzdávají)
+ možnost elektronické komunikace preferována
+ odpadne řada administrativních povinností (a správních
+  poplatků)
+ podat žádost, provést registraci, ohlášení atd. lze na
+  jakémkoliv pracovišti služby pro zbraně PČR
+Kategorie zbraní
+                                      Kategorie zbraní
+
+6 kategorií zbraní
+
+R1
+R2
+R3                   zbraně podléhající registraci
+R4
+
+PO       -           zbraně podléhající ohlášení
+NO       -           zbraně nepodléhající ohlášení
+                                     Kategorie zbraní
+
+6 kategorií zbraní
+
+R1                   kategorie A
+R2                   kategorie A-I
+R3                   kategorie B
+R4                   kategorie C
+PO                   kategorie C-I
+NO                   kategorie D
+
+                                 …plus minus
+                                Kategorizace zbraní
+
+
+Popis druhů zbraní je v příloze č. 1 zákona
+
+Podrobná kategorizace je v příloze č. 2 zákona
+                                            Kategorie zbraní
+
+Nutná oprávnění k nakládání s jednotlivými kategoriemi (§ 7)
+
+R1      -     zbrojní licence + výjimka (ZL 2 a ZL3) – ZO nestačí
+R2      -     zbrojní oprávnění/zbrojní licence + výjimka
+R3      -     zbrojní oprávnění/zbrojní licence + povolení
+R4      -     zbrojní oprávnění/zbrojní licence
+
+PO      -      zapsaná autorizace; ZO; ZL,
+NO      -      osoba s místem pobytu na území ČR
+
+ZL1- opravňuje s nakládání se všemi kategoriemi zbraní a střeliva
+                                          Kategorie střeliva
+
+Nutná oprávnění k nakládání s jednotlivými kategoriemi (§ 8)
+
+S1      -     zbrojní licence + výjimka (ZL 2 a ZL3),– ZO nestačí
+S2      -     zbrojní oprávnění/zbrojní licence + výjimka
+S3      -     zbrojní oprávnění/zbrojní licence, osoba nakládá
+se zbraní kategorie PO nebo NO určenou pro použití
+konkrétního střeliva,
+
+S4 - kromě zletilosti, svéprávnosti a místa pobytu žádné další omezení
+
+
+
+ZL1 - opravňuje s nakládání se všemi kategoriemi zbraní a střeliva
+                        Kategorizace zbraní (§ 5)
+ Princip „vyšší bere“ platí v zákoně univerzálně
+
+ pokud by šlo zbrani na základě její konstrukce nebo
+  funkce přiřadit různé kategorie, přiřadí se ta nejpřísněji
+  regulovaná kategorie (ale neplatí to u historických nebo
+  neaktivních zbraní)
+
+ pokud palná zbraň není uvedená v příloze č. 2 – patří do
+  stejné kategorie, jako jí konstrukčně a funkčně nejbližší
+  zbraň
+                                     Kategorie zbraní
+
+ flobertky budou posuzovány stejně jako ostatní palné
+  zbraně
+
+ palné zbraně pro soupeřský systém výcviku (FX) –
+  posuzovány jako ostatní palné zbraně
+
+ tlumič –režim kategorie R4
+
+ nadlimitní zásobník – režim jako střelivo S2
+           Regulované součásti zbraní (§ 9)
+
+hlavní část zbraně jako samostatný předmět
+součást zbraně umožňující samočinnou střelbu
+tlumič hluku výstřelu
+polotovar hlavní části zbraně určený pro zhotovení hlavní
+části zbraně podléhající registraci
+nadlimitní zásobník
+                       Regulované součásti zbraní -
+                              definice v příloze č. 1
+3.1 hlavní části zbraně:
+    3.1.1 hlaveň; hlavní je i vložná hlaveň a vložná nábojová komora,
+    3.1.2 tělo zbraně – tělem zbraně je základní nosná konstrukční
+    součást zbraně, na které jsou ostatní hlavní části a jiné součásti
+    zbraně upevněny nebo jsou s ní pohyblivě spojeny; tělem zbraně je
+    také rám revolverové zbraně a pouzdro závěru, včetně horní a dolní
+    části děleného pouzdra závěru,
+    3.1.3 válec revolverové palné zbraně,
+    3.1.4 závěr; závěrem je konstrukční součást, která zajišťuje uzavření
+    komory palné zbraně a je vystavena tlakům při výstřelu, závěrem
+    samonabíjecí nebo samočinné palné zbraně jsou také závorník a
+    nosič závorníku,
+.
+                     Regulované součásti zbraní -
+                            definice v příloze č.1
+
+3.2 součásti zbraně umožňující samočinnou střelbu – součásti zbraně
+nebo doplňková zařízení, které jsou nezbytné k úpravě palné zbraně,
+s výjimkou poplašné a signalizační zbraně, na samočinnou palnou zbraň
+nebo pro použití takové zbraně pro samočinnou střelbu nebo pro střelbu
+obdobnou samočinné střelbě; součástmi umožňujícími samočinnou
+střelbu jsou například samočinné spouště a spušťadla, vyřazovače
+přerušovačů nebo dynamické pažby (bump-fire stock),
+                       Regulované součásti zbraní -
+                              definice v příloze č.1
+3.3 polotovar hlavní části zbraně – polotovar hlavně (hlavňovina)
+s dokončeným drážkovaným vývrtem,
+3.4 tlumič hluku výstřelu – zařízení určené pro použití s palnou zbraní
+a konstruované pro celkové snížení hluku výstřelu, a to včetně snížení
+hluku výstřelu ve směru střelby; za tlumič hluku výstřelu se považuje
+zařízení, které při použití běžného střeliva snižuje hluk výstřelu alespoň o
+10 dB,
+3.5 nadlimitní zásobník – zásobník nebo sestava nábojové schránky
+určené pro palnou zbraň pro střelivo se středovým zápalem s kapacitou
+přesahující 20 nábojů v případě krátké palné zbraně nebo s kapacitou
+přesahující 10 nábojů v případě dlouhé palné zbraně.
+                 Regulované součásti zbraní (§ 9)
+ Na nakládání s hlavní částí zbraně se použijí ustanovení o nakládání se
+  zbraní, jejíž taková hlavní část zbraně je nebo má být součástí. Pokud lze
+  hlavní část použít ve zbraních různých kategorií a není-li kategorie konkrétní
+  hlavní části určena podle věty první, použijí se ustanovení o zbrani té
+  kategorie, pro kterou je taková hlavní část zbraně původně nebo obvykle
+  určena
+ Se součástí zbraně umožňující samočinnou střelbu smí nakládat pouze
+  osoba oprávněná nakládat se samočinnou zbraní příslušné kategorie
+ S polotovarem hlavní části zbraně smí nakládat pouze držitel zbrojní licence
+  nebo osoba oprávněná provést přeshraniční přemístění takového polotovaru
+ Na nakládání s tlumičem hluku výstřelu se použijí ustanovení o nakládání se
+  zbraní kategorie R4
+ Na nakládání s nadlimitním zásobníkem se použijí přiměřeně ustanovení o
+  střelivu kategorie S2
+Zbrojní oprávnění
+                             Zbrojní oprávnění (§12)
+
+Zbrojní oprávnění
+
+obecné        -    ZP skupiny A, B nebo C
+rozšířené     -    ZP všech skupin
+
+rozšířené zbrojní oprávnění (pro výkon činnosti zkušebního
+komisaře, pro výkon činnosti hlavního zbrojíře držitele zbrojní
+licence skupiny ZL1 nebo ZL3, a pro skryté nošení zbraně
+podléhající registraci)
+požadavky na držitele jsou obdobné jako nyní
+Zapsaná autorizace
+                                      Zapsaná autorizace
+
+ Nakládat se zbraněmi kategorie PO může fyzická osoba (pokud nemá
+  ZO), která je držitelem autorizace k nakládání se zbraní kategorie PO
+  zapsané do CRZ – „zapsaná autorizace“
+
+
+
+ Zapsaná autorizace také opravňuje nakládat se zbraněmi v rámci firem –
+  držitelů ZL1; jde o osoby, které při činnosti držitele ZL1 nakládají
+  se zbraněmi nebo střelivem, ale zbraně nebo střelivo nesvěřují,
+  nepřenechávají, nepřevádí, nenosí nebo nepoužívají ke střelbě –
+  (skladníci, expedice… atd, atp.)
+                              Zapsaná autorizace (§55)
+Zapsané autorizace zapisuje krajské ředitelství policie na žádost FO pokud:
+ má místo pobytu na území České republiky,
+ je zletilá a plně svéprávná, splňuje podmínku bezúhonnosti podle § 18 a
+ doloží svou zdravotní způsobilost podle § 15 a16, jde-li o žadatele, který
+  byl v předchozích 5 letech shledán zdravotně nezpůsobilým podle tohoto
+  zákona
+
+
+ u PO je třeba mít sídlo na území České republiky splňuje podmínku
+  bezúhonnosti podle § 40
+ za bezúhonného se považuje i ten, na koho se hledí, jako by nebyl
+  odsouzen
+                                 Zapsaná autorizace
+
+ nejprve je na základě žádosti zapsána autorizace do CRZ,
+  teprve poté si může její držitel pořídit zbraň kategorie PO
+
+ držitel zbrojního oprávnění nebo zbrojní licence zapsanou
+  autorizaci nepotřebuje, on už způsobilý i zapsaný v CRZ je
+
+ opět platí „vyšší bere“
+Prokazování oprávnění
+                       Prokazování oprávnění (§146)
+
+Papírové doklady jsou zrušeny
+Existující oprávnění lze prokázat:
+ prostřednictvím elektronického přístupu se zaručenou identitou,
+ předložením zbrojního listu spolu s předložením občanského
+  průkazu, cestovního pasu nebo obdobného dokladu
+ před krajským ředitelstvím policie nebo Policejním prezidiem, které
+  oprávnění ověří, a to popřípadě i na žádost osob, které navzájem
+  chtějí oprávnění prokázat,
+ před držitelem zbrojní licence, nebo
+ předložením evropského zbrojního pasu vydávaného Českou
+  republikou,
+                              Prokazování oprávnění
+                        před držitelem zbrojní licence
+§ 146 písm. d)
+ případy, kdy nejde o převod zbraně nebo střeliva na/od držitele ZL
+ oprávnění nakládat se zbraní lze prokázat také před držitelem zbrojní
+  licence
+ držitel ZL je oprávněn (ale není povinen) v CRZ ověřit exitující oprávnění
+  osoby, která ho o to požádá
+ v CRZ uvede jméno, příjmení a číslo dokladu totožnosti, ověřované
+  osoby
+ nejedná se o novou povinnost držitele ZL
+ ověřování oprávnění pro držitele ZO lze poskytovat jako službu
+  poskytovanou držitelem ZL
+ držitel ZL netiskne zbrojní list ověřované osobě
+                          Prokazování oprávnění
+                    před držitelem zbrojní licence
+
+Případy, kdy je držitel ZL povinen ověřit v CRZ oprávnění:
+    pokud převádí / nabývá / přenechává zbraň nebo střelivo na / od jiné
+     osoby (§ 11)
+    pokud jde o osoby, u nichž je povinen zajišťovat pravidelné školení
+     (§ 90)
+                                                    Zbrojní list (§ 147)
+Zbrojní list je ověřeným výstupem z informačního systému veřejné správy,
+Uvádí se v něm:
+ soupis všech oprávnění, která jsou zapsaná v CRZ,
+ každá zbraň podléhající registraci nebo zbraň kategorie PO, jejichž je daná osoba
+  držitelem, hlavním držitelem nebo vedlejším držitelem, a
+ údaj o dni vzniku oprávnění
+ na ZL bude buď úplný výpis všech údajů nebo jen částečný – jak si bude
+  přát držitel
+Zbrojní list vydá:
+ kontaktní místo veřejné správy – (CzechPoint)
+ krajské ředitelství policie (služba pro zbraně)
+ zbrojní list se zpřístupňuje prostřednictvím portálu veřejné správy (Portál občana,
+  do budoucna i Portál MV – do datovky žadatele přijde soubor ve formátu
+  pdf)
+                              Kdy musím prokazovat svá
+                                           oprávnění?
+Před policií? – NE
+ PČR lustruje v policejních databázích, včetně CRZ (max. předložím občanský
+   průkaz)
+
+Při nákupu zbraně u obchodníka? – NE
+ Držitel ZL pracuje v CRZ (ukážu občanský průkaz)
+
+Při převodu zbraně mezi dvěma držiteli ZO? ANO
+ ukážu svůj zbrojní list (úplný nebo částečný),
+ nebo ukážu svůj evropský zbrojní pas,
+ nebo se necháme prověřit u obchodníka,
+ nebo se necháme prověřit u Služby pro zbraně PČR
+
+Myslivecká stráž a organizátor honu – NE
+ Povinnost kontroly zbrojních průkazů byla ze zákona o myslivosti bez náhrady
+  vypuštěna
+Zbrojní licence
+                                Zbrojní licence (§ 37)
+
+Tři skupiny zbrojních licencí
+
+ Skupina ZL1 – pro podnikatele v oboru zbraní +- stávající
+  skupiny A až E
+
+ Skupina ZL2 – pro ty, co zbraně využívají k jiným, nejen
+  podnikatelským, účelům +- stávající skupiny F až J
+
+ Skupina ZL3 –       k jednorázovým účelům nebo pro
+  sběratele – novinka v zákoně
+                                    Zbrojní licence (§ 37)
+Skupina ZL1 - opravňuje právnickou osobu nebo podnikající fyzickou
+osobu k nakládání se zbraněmi nebo střelivem spočívajícímu
+a) ve vývoji, výrobě, zkoušení, opravách nebo nevratných
+úpravách zbraní,
+b) ve vývoji, výrobě, zkoušení, delaboraci, znehodnocování, zhotovování
+řezů nebo ničení střeliva,
+c) v úschově, skladování, vypůjčování, nákupu nebo
+prodeji zbraní nebo střeliva,
+d) v přepravě nebo zajišťování dopravy zbraní nebo střeliva, nebo
+e) ve zprostředkování činnosti uvedené v písmenech a) až d).
+
+Skupina ZL2 - opravňuje právnickou osobu nebo podnikající fyzickou
+osobu k nakládání se zbraněmi nebo střelivem při činnosti, která není
+činností uvedenou (výše) u ZL1
+                           Podnikatelská činnost
+                        v oblasti zbraní a střeliva
+§ 10 odst. 1 a 2
+Pro výrobu / obchod / opravy / úpravy atd.:
+
+ zbraně kat. R1 až R3 a PO -> nutná ZL1
+ střelivo kat. S1 až S3 -> nutná ZL1
+
+ zbraně kat. NO -> nutná ZL1 nebo ZL2
+ střelivo kat. S4 -> nutná ZL1 nebo ZL2
+                           Zbrojní licence (§ 37)
+
+
+ Skupina ZL3 - opravňuje jednorázově provést nebo
+  za konkrétním účelem provádět činnost, pro kterou se
+  jinak vyžaduje ZL1 nebo ZL2;
+
+ účelem nesmí být podnikatelská činnost
+
+ ZL3 pro sběratele je na neurčito, jinak je platnost ZL3
+  omezena na přiměřenou dobu nezbytnou pro uskutečnění
+  jejího účelu (§ 38 odst. 4) (dokončení výrobku, konec
+  výzkumného projektu… atd. atp.)
+                              Zbrojní licence (§ 37)
+
+ pokud zákon výslovně nevyžaduje pro určitou činnost ZL
+  konkrétní skupiny, stačí zbrojní licence skupiny ZL1 nebo
+  ZL2 anebo zbrojní licence skupiny ZL3, pokud je pro
+  takovou činnost vydána
+
+ subjekt může být zároveň držitelem ZL1 i ZL2 (pak v CRZ
+  pracuje jako ZL1)
+
+ držitel zbrojní licence skupiny ZL1 nebo ZL2 nemůže být
+  současně držitelem zbrojní licence skupiny ZL3
+                        Podmínky zbrojní licence
+                                           (§ 38)
+ZL vydává KŘP PČR
+
+Podmínky ZL:
+ žadatel je právnická osoba nebo podnikající fyzická osoba
+ sídlo na území České republiky,
+ oprávnění vykonávat podnikatelskou nebo jinou činnost,
+  pro niž má být zbrojní licence vydána,
+ provozovna - to neplatí, nenakládá-li při své činnosti
+  se zbraněmi nebo střelivem,
+ odborná způsobilost,
+ bezúhonnost a spolehlivost
+ vnitřní předpis přiložený k žádosti
+                        Podmínky zbrojní licence
+                                           (§ 38)
+
+Žadatel prokazuje, že je oprávněn užívat provozovnu tj.
+místo způsobilé k nakládání se zbraněmi a střelivem pro
+účely činnosti podle tohoto zákona a to v rozsahu
+odpovídajícím povaze činnosti, kterou hodlá na základě
+zbrojní licence vykonávat; to neplatí, nenakládá-li při své
+činnosti se zbraněmi nebo střelivem,
+                  Podmínky zbrojní licence ZL3
+                                         (§ 38)
+ žadatel o vydání zbrojní licence skupiny ZL3 neprokazuje,
+  že má provozovnu a neprokazuje oprávnění vykonávat
+  podnikatelskou nebo jinou činnost, pro niž má být zbrojní
+  licence vydána, jinak je žádost stejná
+ ve vnitřním předpisu musí jednoznačně vymezit činnost,
+  pro kterou o vydání zbrojní licence skupiny ZL3 žádá
+  (výzkumný projekt, testování výrobku, sběratelství…).
+
+ KŘP může v rozhodnutí o vydání ZL3 stanovit pro činnost
+  jejího držitele další podmínky, je-li to potřeba v zájmu
+  ochrany vnitřního pořádku nebo bezpečnosti (toto u ZL1
+  ani ZL2 není)
+                        Odborná způsobilost u ZL
+                                          (§ 39)
+Odborně způsobilý musí být hlavní zbrojíř
+
+ Pro ZL1 – rozšířené ZO + alespoň vyučen v oboru
+  zaměřeném na oblast zbraní nebo střeliva anebo alespoň 3
+  roky praxe zaměřené na nakládání se zbraněmi (co to
+  znamená?)
+ Pro ZL2 – stačí obecné ZP, které má alespoň 3 roky (nebo
+  splňuje to, co je výše)
+ Pro ZL3 – rozšířené ZO (bez dalších podmínek)
+
+Hlavní zbrojíř má „nějaký“ vztah k žadateli o ZL - § 39 odst. 3
+
+Co je to obdobný vztah podle § 39 odst. 3 písm. d)?
+                 Bezúhonnost, spolehlivost u ZL
+                                         (§ 40)
+Prověřuje se:
+ FO – žadatel,
+ nebo člen statutárního orgánu, který je FO, zástupce PO, která je
+   členem statutárního orgánu, nebo odpovědný zástupce žadatele o
+   vydání ZL nebo jejího držitele podle ŽZ anebo vedoucí jeho
+   odštěpného závodu,
+
+ zda sama PO nespáchala TČ
+
+ Skutečný majitel, pokud to je účelné k posouzení toho, zda činnost
+  takového držitele ZL může představovat ohrožení vnitřního pořádku
+  nebo bezpečnosti
+ Pro tyto účely umožní Ministerstvo spravedlnosti policii získat z
+  evidence skutečných majitelů podle zákona upravujícího evidenci
+  skutečných majitelů
+                                                   Vnitřní předpis
+                                                             (§ 41)
+Ve vnitřním předpisu se uvede zejména:
+
+•   činnosti vykonávané na základě ZL,
+•    každá provozovna, ve které při své činnosti držitel zbrojní licence
+    nakládá se zbraněmi nebo střelivem,
+•    způsob nakládání se zbraněmi a střelivem a zásady bezpečného
+    nakládání se zbraněmi a střelivem s přihlédnutím k povaze činnosti
+    držitele zbrojní licence,
+•   pravidla vedení evidenčního soupisu podle § 75
+•   způsob vedení evidence přenechávaných a svěřovaných zbraní a
+    střeliva,
+•   způsob ustanovování a vymezení úkolů hlavního zbrojíře a případného
+    každého dalšího zbrojíře
+•   způsob zajišťování a obsah pravidelného školení osob, které plní úkoly
+    držitele ZL
+                                     Další povinnosti držitele ZL
+                                                           (§ 42)
+Držitel zbrojní licence je dále povinen
+
+•   zajistit dodržování svého vnitřního předpisu a zpřístupnit jej osobám, které plní jeho úkoly,
+•   zajistit bez zbytečného odkladu změnu vnitřního předpisu v případech, kdy již neodpovídá
+    podmínkám činnosti držitele zbrojní licence nebo požadavkům tohoto zákona,
+•    předložit bez zbytečného odkladu vnitřní předpis nebo jeho změnu krajskému ředitelství
+    policie;
+•   vnitřní předpis nebo jeho změna, které nebyly předloženy odbornému útvaru policie, se
+    považují za neúčinné,
+•   oznámit krajskému ředitelství policie bez zbytečného odkladu ustanovení a ukončení
+    výkonu hlavního zbrojíře a
+•    umožnit za účelem provedení kontroly činnosti držitele zbrojní licence kontrolujícímu
+    vstup do obydlí, ve kterém takový držitel zbrojní licence při své činnosti nakládá se
+    zbraněmi nebo střelivem.
+•   oznámit policii převod zbraně nebo střeliva nebo právní jednání směřující k takovému
+    převodu, které důvodně považuje za podezřelé (povinnost sice pouze pro držitele, který
+    podniká v oboru zbraní a střeliva (tj. ZL1), ale podezřelé týpky hlásíme raději všichni)
+                                  Obecné povinnosti
+                                všech držitelů zbraní
+ obecně jsou povinnosti při nakládání se zbraněmi upraveny
+  § 11
+ formulovány obecněji: každý je povinen/ nikdo nesmí
+
+
+ platí pro každého - fyzické osoby i právnické osoby
+Další důležité instituty
+                                       Registrace zbraně (§ 70)
+   registruje držitel ZO, ZL2, ZL3, NVI, který nabyl zbraň podléhající registraci
+   do 10 pracovních dnů ode dne, kdy s takovou zbraní začal nakládat,
+   u krajského ředitelství policie (bez ohledu na místo pobytu/sídlo)
+   předloží KŘP tuto zbraň k prohlídce jejího označení a technického stavu
+
+ ohlašuje držitel ZO, ZL2, ZL3, NVI, který převedl registrovanou zbraň na jinou
+  osobu
+ do 10 pracovních dnů ode dne převodu,
+ u krajského ředitelství policie (bez ohledu na místo pobytu/sídlo)
+
+Krajské ředitelství policie rozhodne o odmítnutí provést registraci zbraně, pokud s
+ní její držitel není oprávněn nakládat; v takovém případě KŘP zbraň zadrží
+
+ZL1 vše řeší prostřednictvím v CRZ
+                          Ohlášení zbraně PO (§ 72)
+
+ ohlašuje jak ten, kdo zbraň nabyl, tak ten, kdo zbraň převedl
+ hlásí se jakémukoliv KŘP
+ do 10 pracovních dnů ode dne převodu
+ zbraň se nepředkládá k fyzické prohlídce
+
+
+
+KŘP zápis změny stavu zbraně kategorie PO do CRZ neprovede,
+pokud jde o zbraň, s níž její držitel není oprávněn nakládat; v
+takovém případě krajské ředitelství policie zbraň zadrží!
+
+ZL1 vše řeší prostřednictvím v CRZ
+           Hlavní a vedlejší držitel zbraně (§ 71)
+
+ hlavní držitel    zbraně:      osoba,   které   byla     tato   zbraň
+  zaregistrována
+ hlavní držitel zbraně může požádat krajské ředitelství policie,
+  aby do CRZ k jeho konkrétní zbrani podléhající registraci, zapsal
+  jednoho nebo více vedlejších držitelů zbraně
+ vedlejší držitel zbraně může být pouze osoba, která je
+  oprávněna s danou zbraní nakládat (ZO, výjimka, povolení,..) a
+  souhlasí
+
+
+ držitel ZL 1 si vedlejšího držitele zapisuje v CRZ sám
+                        Přenechání zbraně (§ 78)
+
+ přenechání je dočasné umožnění jiné osobě samostatně
+  nakládat se zbraní nebo střelivem osoby, která je
+  přenechává
+
+ osoba musí mít odpovídají oprávnění podle kategorie
+  přenechávané zbraně (ZO + případně výjimku, povolení….)
+  –> vedlejší držitel
+
+ paintballová a airsoftová zbraň nebo plynová zbraň
+  kategorie NO, lze přenechat osobě starší 15 let, pokud
+  souhlasí zákonný zástupce
+                                        Svěření zbraně (§ 79)
+ Svěření zbraně je umožnění jiné fyzické osobě nakládat se svěřenou
+  zbraní pod dohledem osoby oprávněné se svěřovanou zbraní
+  nakládat.
+ Svěřuje se svéprávné zletilé osobě,
+ nebo jiné přiměřeně rozumově a tělesně vyspělé nezletilé fyzické
+  osobě; pak dohlíží osoba, starší 21 let a je držitelem zbrojního
+  oprávnění po dobu delší než 3 roky
+ Zbraň kategorie R1 výslovně nelze svěřovat za účelem zážitkové střelby
+  a důvody jsou omezeny
+
+
+ Ten, kdo dohlíží je povinen:
+    poučit osobu o bezpečném zacházení se svěřenou zbraní a
+     střelivem a
+    provádět dohled tak, aby osoba, které byly zbraň a střelivo svěřeny,
+     neporušila povinnost nebo zákaz stanovený tímto zákonem a
+     zejména neohrozila život nebo zdraví.
+                                              Střelba (§ 59)
+Střílet lze:
+ na střelnici
+ na místě, kde je zajištěno, že nebude ohrožen život, zdraví,
+  majetek nebo veřejný pořádek, pokud jde o střelbu ze zbraně, u
+  které není úsťová energie střely vyšší než 50 J, nebo ze signální
+  zbraně nebo jde o jinou než ostrou střelbu,
+ na jiném místě v souladu s jiným zákonem – typicky honitba
+
+
+ Používat zbraně podle tohoto zákona, které nejsou zbraněmi
+  palnými nebo plynovými, je dovoleno na místě, kde je zajištěno,
+  že nebude ohrožen život, zdraví, majetek nebo veřejný pořádek.
+                                         Nošení zbraně (§ 80)
+ Nošení – způsob nakládání se zbraní, při kterém ji fyzická osoba má na
+  místě veřejnosti přístupném při sobě nabitou nebo viditelně (§3)
+
+
+ nosit zbraň podléhající registraci může pouze držitel rozšířeného
+  zbrojního oprávnění.
+
+
+ zbraň musí být nošena skrytě; Vyjma následujících případů:
+•    nošení zbraně v provozovně držitele zbrojní licence, na střelnici nebo v
+    jiném zřetelně ohraničeném prostoru, ve kterém se se zbraní nakládá se
+    souhlasem jeho majitele, nájemce nebo provozovatele
+•   viditelné nošení anebo přeprava zbraně v souladu podle § 81
+                       Viditelné nošení zbraně (§ 81)
+
+Osoba může viditelně nosit zbraň, pokud se účastní akce nebo provádí
+činnost, kde se obvykle nakládá se zbraněmi, a pokud způsob nošení
+zbraně je přiměřený povaze této akce nebo činnosti.
+Jde zejména o
+a) kulturní činnost, zejména filmová nebo divadelní činnost, rekonstrukce
+historické bitvy nebo obdobné události nebo pietní akce,
+b) výuka nebo výcvik v nakládání se zbraní,
+c) sportovně-střelecká nebo obdobná zájmová činnost, nebo
+d) provedení lovu nebo obdobné činnosti podle jiného právního předpisu.
+Nenabitou zbraň je osoba… oprávněna přepravovat na místo a z místa
+konání příslušné akce viditelně, připouští-li to zvolený způsob přepravy, a
+pokud je to s ohledem na místní podmínky obvyklé anebo lze-li takovou
+přepravu považovat za přiměřenou povaze této akce nebo činnosti;
+povinnosti, které má osoba, která nosí zbraň, se na takovou přepravu
+vztahují obdobně.
+Zabezpečení zbraní
+                                                Zabezpečení zbraní
+                                                      (§ 83 – § 85)
+
+ § 83 odst. 1 – „Osoba, která nakládá se zbraní nebo
+  střelivem, je povinna zbraně a střelivo, které ukládá mimo
+  svou bezprostřední kontrolu, zabezpečit s ohledem na
+  jejich povahu a místní podmínky tak, aby bylo zabráněno
+  jejich zneužití, ztrátě, odcizení nebo zašantročení“
+
+ technické požadavky jsou obdobné, jako doposud – tj.
+  není nutné pořizovat nové skříně, trezory, mříže atd.
+(§ 9 - § 14 NV č. 187/2025 Sb., o technických požadavcích a dalších specifikacích pro
+některé zbraně, střelivo a střelnice a pro zabezpečení zbraní a střeliva)
+                                     Zabezpečení zbraní
+                          jiný způsob zabezpečení (§ 84)
+(1) Nelze-li s ohledem na rozměry zbraní nebo střeliva, jejich množství nebo účel zajistit
+zabezpečení podle § 83 anebo odpovídá-li to zvláštním místním podmínkám, krajské
+ředitelství policie na žádost povolí jiný způsob zabezpečení, pokud je zaručena jejich
+ochrana proti zneužití, ztrátě nebo odcizení - (lze povolit jak držitelům ZO, ZL i NVI)
+
+(2) Krajské ředitelství policie na žádost držitele zbrojní licence skupiny ZL1 po posouzení
+jeho provozních potřeb povolí jiný způsob zabezpečení zbraní nebo střeliva v provozovně
+nebo provozním areálu, je-li zaručena ochrana zbraní nebo střeliva proti zneužití, ztrátě nebo
+odcizení.
+
+(3) K žádosti o povolení jiného způsobu zabezpečení zbraní nebo střeliva žadatel přiloží
+projekt jiného způsobu zabezpečení, o jehož povolení žádá.
+
+(4) Vláda stanoví nařízením povinné náležitosti projektu jiného způsobu zabezpečení.
+                                                 Zabezpečení zbraní
+                                              § 14 nařízení – projekt
+(1) V projektu jiného způsobu zabezpečení zbraní nebo střeliva musí být uvedeny:
+
+a) místo a popis konkrétního prostoru, kde mají být zbraně nebo střelivo jiným způsobem
+zabezpečeny,
+
+b) vymezení zbraní a střeliva, které mají být zabezpečovány jiným způsobem, a jejich
+maximálního množství, pro které je tento jiný způsob zabezpečení realizován,
+
+c) vymezení důvodu a účelu jiného způsobu zabezpečení zbraní nebo střeliva,
+
+d) popis jiného způsobu zabezpečení zbraní nebo střeliva včetně uvedení veškerých
+podstatných parametrů použitých technických zabezpečovacích prostředků a
+organizačních, personálních a případných dalších opatření k zajištění ochrany zbraní a
+střeliva a
+
+e) další podstatné skutečnosti, které mají vliv na úroveň a trvání ochrany zabezpečovaných
+zbraní nebo střeliva proti zneužití, ztrátě nebo odcizení.
+                                                  Zabezpečení zbraní
+                                               § 14 nařízení – projekt
+ (2) V případě, že se zbraně nebo střelivo zabezpečují jiným způsobem v provozovně nebo
+v provozním areálu, v projektu jiného způsobu zabezpečení musí být kromě náležitostí
+podle odstavce 1 uvedeny
+
+a) provozní potřeba, která jiný způsob zabezpečení zbraní nebo střeliva odůvodňuje,
+
+b) způsob nakládání se zbraněmi nebo střelivem v rámci provozovny nebo provozního
+areálu, a to včetně popisu případného oběhu zbraní nebo střeliva v rámci provozní činnosti,
+
+c) v případě zabezpečení v provozním areálu
+           1. přehledný situační nákres provozního areálu s vyznačením konkrétních prostor
+           a případných distribučních tras, kterých se jiný způsob zabezpečení týká, a
+           2. seznam všech subjektů, které v rámci provozního areálu vykonávají
+           podnikatelskou nebo jinou soustavnou činnost, a uvedení jejich vztahu k osobě
+           zabezpečující zbraně nebo střelivo jiným způsobem.
+                                   Zabezpečení zbraní
+                                               v autě
+§ 13 NV č. 187/2025 Sb.
+
+ ne zbraně kategorie R1
+ ne víc jak 4 hodiny
+ uzamykatelný plastový nebo kovový kufr nebo obdobná
+  schránka - z venku není vidět,
+ upevněna ke karoserii vozidla; nelze otevřít nebo oddělit
+  od karoserie bez použití dílenského nářadí
+ okna uzavřena a vozidlo uzamčeno
+ zbraň nenabitá, střelivo odděleně od zbraně
+Označení zbraní
+                                                    Označení zbraně
+                                          identifikačními údaji (§ 86)
+Palná a plynová zbraň musí být označeny jedinečnými údaji.
+Vždy alespoň:
+   jménem výrobce nebo jeho obchodní značkou,
+   zemí nebo místem výroby,
+   výrobním číslem, rokem výroby, pokud není součástí výrobního čísla,
+   ráží a označením modelu, pokud výrobce nebo dovozce takové označení užívá.
+
+
+   Označení zbraně identifikačními údaji musí být trvalé, nesmí se odstraňovat.
+   Je-li při úpravě nebo opravě zbraně její označení identifikačními údaji poškozeno nebo zničeno,
+    musí být na zbrani bez zbytečného odkladu a v původním rozsahu obnoveno.
+    Zbraň zvláštní historické hodnoty, která je určena výhradně pro sběratelskou činnost, nemusí
+    být označena předepsanými identifikačními údaji, pokud ji lze dostatečně individuálně
+    identifikovat jiným způsobem.
+    Požadavky na označení identifikačními údaji se nepoužijí na součást zbraně umožňující
+    samočinnou střelbu, polotovar hlavní části zbraně a na nadlimitní zásobník.
+                             Dodatečné označení zbraně
+                                                  (§87)
+ KŘP může držiteli zbraně rozhodnutím uložit, aby zajistil dodatečné
+  provedení označení zbraně identifikačními údaji v souladu s § 86, je-li to
+  nezbytné pro umožnění její individuální identifikace.
+
+
+ Držitel zbraně je povinen ji předat k provedení nařízeného dodatečného
+  označení držiteli ZL1, a to ve lhůtě, kterou KŘP v rozhodnutí určí a která
+  nesmí být kratší než 10 pracovních dnů.
+
+
+ Držitel ZL1 bez zbytečného odkladu zapíše údaj o provedení
+  nařízeného dodatečného označení zbraně identifikačními údaji do CRZ
+                                    Označení zbraně
+                       technické specifikace (§ 15 NV)
+
+ palná zbraň musí být označena na každé hlavní části
+ plynová zbraň musí být označena alespoň na jedné hlavní části
+ zbraň zvláštní historické hodnoty lze označit na štítku z pevného materiálu,
+  který se ke zbrani připevní, nebo na kterékoli části zbraně, přičemž pro
+  takové označení se technické specifikace se použijí přiměřeně
+ technické specifikace označení jsou v příloze č. 2 nařízení č. 187/2025 Sb.
+                                    Označení zbraně
+               technické specifikace v příloze č. 2 NV
+1.   musí být jasné, trvalé a jedinečné. Musí být uváděno alfanumericky a musí sestávat z písmen
+     latinky, cyrilice nebo řecké abecedy a číslic arabských nebo římských.
+2.   Rozměr číslic a písmen musí splňovat podmínku minimální velikosti 1,6 mm.
+3.   Minimální hloubka označení je nejméně 0,0762 milimetru.
+4.   V případě těla, rámu nebo pouzdra závěru vyrobených z nekovových materiálů musí být v zájmu
+     trvalého, jasného a jedinečného značení tyto hlavní části osazeny kovovým štítkem:
+          a) který nesmí být možné snadno nebo rychle odstranitelný; kovový štítek musí být
+          dostatečně velký s malou viditelnou plochou a musí být zapuštěný do stěny hlavní části,
+          b) jehož odstranění způsobí poškození těla, rámu nebo pouzdra závěru a
+          c) který může být vyroben z nemagnetické slitiny nebo oceli.
+5. Pokud to materiál těla, rámu nebo pouzdra závěru vyrobených z nekovových materiálů spolehlivě
+umožňuje, je možné využít ke značení i jiné techniky, než je osazení takové hlavní části kovovým
+štítkem podle bodu 4. Takovou technikou může být např. hluboké laserové gravírování, které zajistí
+trvalé a zřetelné značení.
+6. U příliš malé hlavní části stanovené střelné zbraně, která je označena pouze výrobním číslem
+nebo alfanumerickým nebo digitálním kódem, lze rozměr písmen, číslic nebo digitálního nebo
+alfanumerického kódu zmenšit na velikost, která je nezbytně nutná k provedení tohoto označení.
+                                            Označení střeliva
+                                                       (§ 89)
+ Do konce roku 2027 pouze - každé jednotlivé základní balení (tj.
+  krabička, truhlík…) kompletního střeliva musí být označeno tak, aby
+  označení uvádělo jméno výrobce, identifikační číslo série nebo šarže, ráži
+  a druh střeliva.
+
+
+ Od roku 2028 najíždíme na evidenci pomocí čarových a QR kódů
+Přeshraniční přemístění
+        zbraně
+
+       Přeprava
+                             Přeshraniční přemístění
+                                             (§ 108)
+ trvale dovézt/vyvézt/přeshraničně přemístit zbraň nebo
+  střelivo je oprávněn pouze držitel zbrojní licence a to za
+  podmínek stanovených licenčními předpisy!
+ vývozy/dovozy/přeshraniční přemístění povoluje Licenční
+  správa MPO
+
+ zbrojní průvodní listy pro trvalý vývoz/trvalý dovoz, které
+  vydávala PČR, byly zrušeny bez náhrady!
+
+ držitelé zbrojních oprávnění už nemohou zbraně trvale
+  dovážet/vyvážet/přeshraničně přemísťovat
+                                               Přeprava
+                                           (§ 110 - §114)
+
+
+ povolování přeprav zbraní a střeliva bylo zrušeno!
+
+ zůstává zachováno pouze hlášení přepravy
+                                             Hlášení přepravy
+                                                       (§ 111)
+ nerozlišuje se mezi vnitrostátní přepravou a přeshraniční
+  přepravou
+ hlásí se zbraně kategorií R1- R4, kategorie PO, palné
+  zbraně kategorie NO, střelivo, nábojky a aktivní
+  komponenty střeliva
+ hlásí se více než 100 zbraní, více než 200 000 nábojů, více
+  než 200 000 nábojek,
+ hlásí se aktivní komponenty střeliva:
+   •   bezdýmný prach více než 20 kg,
+   •   černý lovecký prach více než 8 kg,
+   •   více než 200 000 střel obsahujících aktivní náplň
+ menší množství se nehlásí ani při přeshraniční přepravě!
+ Pozor, hlásí se ale jakékoliv množství munice!
+                                   Hlášení přepravy
+                                             (§ 111)
+
+ hlášení se podává nejméně hodinu před započetím
+  přepravy
+ prostřednictvím CRZ
+ hlásí osoba zajištující přepravu
+ pokud silniční přeprava – tak GPS sledování
+ rozsah hlášených údajů i požadavky na zabezpečení
+  zůstávají +- stejné
+                         Osoba zajišťující přepravu
+                                             (§ 111)
+Osoba zajišťující přepravu
+ osoba oprávněná provést přepravu, která provedla hlášení
+  přepravy zbraní nebo střeliva;
+ nebylo-li hlášení provedeno, je osobou zajišťující přepravu
+  ta osoba, která je v CRZ za osobu zajišťující přepravu
+  označena,
+ nelze-li ani takto určit, považuje se za osobu zajišťující
+  přepravu odesilatel
+
+ osoba zajišťující přepravu je povinna zajistit splnění
+  požadavků na provedení přepravy podle zákona
+ Evidenční povinnosti
+držitele zbrojní licence
+                                 Zápis osoby
+       pravidelně školené držitelem ZL (§74)
+ Držitel ZL bez zbytečného odkladu zapíše do CRZ každou osobu, pro kterou
+  je podle § 91 povinen zajišťovat pravidelné školení
+ Držitel ZL provede bez zbytečného odkladu výmaz osoby zapsané CRZ,
+  zanikne-li jeho povinnost zajišťovat pro ni podle § 91 pravidelné školení
+ KŘP bez zbytečného odkladu uvědomí držitele ZL o skutečnosti, že osobě,
+  kterou zapsal do CRZ bylo zbrojní oprávnění pozastaveno nebo jí zaniklo
+ Držitel ZL zapisuje do CRZ údaje o provedených pravidelných školeních
+  stanovených jeho vnitřním předpisem a vyznačí u osoby, kterou zapsal do
+  CRZ rozsah a datum pravidelného školení
+
+
+ Zapisuje jak ZL1 tak ZL2
+ Rozsah školení se u jednotlivých zapsaných osob může lišit
+ Všechny zapsané osoby nemusí povinně střílet
+                                      Osoby zapsané v CRZ
+                                         držitelem ZL (§ 90)
+
+ Osoba, která se v rámci činnosti držitele ZL podílí na nakládání
+  se    zbraněmi   podléhajícími  registraci, zbraněmi  kategorie   PO
+  nebo střelivem kategorie S1, S2 nebo S3, musí být držitelem zbrojního
+  oprávnění.
+
+ Pokud úkoly držitele zbrojní licence spočívají v ochraně života, zdraví nebo
+  majetku nebo obdobné činnosti, smí při této činnosti se zbraní podléhající
+  registraci tato osoba nakládat pouze, je-li držitelem rozšířeného zbrojního
+  oprávnění.
+                Osoby zapsané v CRZ držitelem ZL
+                                            (§ 90)
+Osoba která při činnosti držitele zbrojní licence skupiny ZL1 nakládá
+se zbraněmi nebo střelivem, ale zbraně nebo střelivo nesvěřuje, nepřenechává,
+nepřevádí, nenosí nebo nepoužívá ke střelbě, nemusí být držitelem zbrojního
+oprávnění,
+pokud:
+ je nad takovou osobou při její činnosti zajištěn dohled držitele rozšířeného
+   zbrojního oprávnění,
+ jde o držitele zapsané autorizace, nebo
+ jde o obsluhu dopravního prostředku, kterým jsou
+   přepravovány zbraně nebo střelivo zabezpečené při přepravě v souladu s §
+   113.
+                Pravidelné školení zapsaných osob
+                                            (§ 91)
+Pravidelné školení osoby, která se v rámci činnosti držitele zbrojní licence podílí na
+nakládání se zbraněmi podléhajícími registraci, zbraněmi kategorie PO
+nebo střelivem kategorie S1, S2 nebo S3, musí být zajištěno alespoň jednou ročně.
+
+Předmětem školení je zejména
+ právní úprava nakládání se zbraněmi a střelivem a zásady bezpečného
+   nakládání se zbraněmi a střelivem s přihlédnutím k povaze úkolů plněných při
+   činnosti držitele zbrojní licence a
+ vnitřní předpis držitele zbrojní licence.
+               Pravidelné školení zapsaných osob
+                                           (§ 91)
+ Pokud osoba vykonává pro držitele ZL činnost spočívající v ochraně života,
+  zdraví nebo majetku anebo obdobnou činnost nebo pokud při takové činnosti
+  nosí zbraň, musí být součástí jejího pravidelného školení rovněž praktické
+  ověření střeleckých dovedností a bezpečné manipulace se zbraní a střelivem
+  (strážníci, pracovníci SBS, prodavači zbraní, správci střelnice…)
+
+ V případě osoby uvedené v odstavci 1, která pro držitele zbrojní licence
+  vykonává činnost po dobu kratší než 1 rok, anebo nakládá-li taková osoba
+  výhradně se zbraní, jejímž je sama hlavním držitelem, lze pravidelné školení
+  nahradit      zkráceným         proškolením      z      bezpečného  nakládání
+  se zbraněmi a střelivem v souladu s tímto zákonem a s vnitřním předpisem
+  držitele zbrojní licence (např. herci a herečky při natáčení filmu)
+                                                 Evidenční soupis
+                                                            (§ 75)
+Držitel ZL (ZL 1, ZL2, i ZL3) vede evidenční soupis:
+
+   palných zbraní kategorie NO,
+   součástí zbraně umožňujících samočinnou střelbu
+   polotovarů hlavních částí zbraní podléhajících registraci, se kterými nakládá
+   v listinné nebo elektronické podobě; evidenční soupis může vést i jako
+    součást jiné jím vedené evidence.
+                                  Další evidence vedené ZL1
+                                                      (§ 76)
+ ZL1 je povinen do CRZ zapisovat údaje o zbraních podléhajících registraci, zbraních
+  kategorie PO a střelivu, s nimiž nakládá
+ pokud je držiteli zbrojní licence skupiny ZL2 vydána zbrojní licence skupiny ZL1,
+  postupuje popsaným způsobem také ve vztahu ke zbraním a střelivu, se kterými začal
+  nakládat před vydáním zbrojní licence skupiny ZL1.
+
+
+
+ ZL1 je povinen zapsat do CRZ každou změnu stavu evidované zbraně nebo střeliva podle
+tohoto zákona:
+ nejpozději před předáním
+ bez zbytečného odkladu po převzetí zbraně nebo střeliva
+ a v mimořádných odůvodněných případech pak nejdéle do 2 pracovních dnů ode dne, kdy
+    byly zbraň nebo střelivo převzaty,
+                                     Další evidence vedené ZL1
+                                                         (§ 76)
+Zapisuje se:
+
+   datum jejich nabytí, převedení, přenechání nebo převzetí,
+   údaje identifikující konkrétní zbraň podléhající registraci nebo zbraň kategorie PO,
+   o ráži a počtu kusů nábojů a nábojek a o druhu a množství aktivních komponentů střeliva,
+   údaje o místu jejich uložení, včetně údajů identifikujících konkrétní místo, kde jsou zbraně
+    podléhající registraci, zbraně kategorie PO nebo střelivo kategorie S1 uloženy,
+    nepostačuje-li k jeho jednoznačnému určení uvedení adresy provozovny,
+   identifikující osobu, od které byly nabyty nebo převzaty,
+   údaje identifikující osobu, které byly převedeny nebo přenechány; údaj o přenechání se
+    nezapisuje, je-li zbraň přenechána osobě, kterou držitel zbrojní licence zapsal do
+    centrálního registru zbraní podle § 74 odst. 1,
+   údaje o přepravě zbraní nebo střeliva, a to včetně údajů identifikujících osobu zajišťující
+    přepravu, a
+   v případě přeshraničního přemístění zbraně nebo střeliva údaj identifikující povolení nebo
+    licenci podle jiného právního předpisu upravujícího přeshraniční přemístění zbraní nebo
+    střeliva, na jehož základě jsou zbraň nebo střelivo přeshraničně přemisťovány.
+                                          Informační systém CRZ
+                                                          (§ 128)
+ CRZ je neveřejný informační systém veřejné správy, má veřejnou část určenou ke
+  zveřejňování informací, o nichž tak stanoví tento zákon
+ Správcem CRZ je Policejní prezidium
+
+V CRZ jsou vedeny údaje o osobách:
+ které jsou držiteli oprávnění podle tohoto zákona nebo o vydání takového oprávnění
+   žádají, včetně jejich kontaktních údajů, zejména e-mailové adresy a telefonního čísla,
+ u nichž se podle tohoto zákona posuzuje jejich bezúhonnost a spolehlivost a
+ které jsou oprávněny vstupovat do centrálního registru zbraní,
+                                         Informační systém CRZ
+                                                         (§ 128)
+V CRZ jsou vedeny údaje
+ o zbraních a střelivu, na které se vztahuje tento zákon, a o skutečnostech majících vliv
+   na posouzení zbraně a střeliva podle jiného právního předpisu (např. údaje z IS
+   Licenční správy),
+ zbrojních oprávněních,
+ zkušebních komisařích,
+ zbrojních licencích,
+ výjimkách kategorie R1, S1, R2 a S2 a povoleních kategorie R3,
+ oprávněních, která se vztahují k přeshraničnímu přemístění zbraní nebo střeliva,
+ fyzických přepravách zbraní a střeliva,
+ střelnicích,
+ cizincích s místem pobytu mimo území České republiky, kteří se nemohou prokázat
+   oprávněním provést přeshraniční přemístění a použití zbraně nebo střeliva a kteří
+   provádějí střelbu na střelnici provozované podle tohoto zákona,
+ nevyňatých veřejnoprávních institucích, kterým byl vydán souhlas Policejního prezidia
+ jiných skutečnostech významných pro výkon státní správy a plnění dalších úkolů podle
+   tohoto zákona, jiného právního předpisu nebo podle přímo použitelného předpisu
+   Evropské unie v oblasti systematické výměny informací9), a to včetně osobních údajů o
+   osobách, jichž se tyto skutečnosti týkají.
+                                                        Přístup držitele ZL
+                                                                    (§ 129)
+ držitel ZL nebo jím určená osoba přistupují do CRZ prostřednictvím prostředku pro
+  elektronickou identifikaci.
+
+ krajské ředitelství policie umožní přístup do CRZ držiteli zbrojní licence, a to do 2
+  pracovních dnů ode dne vydání zbrojní licence.
+
+ držitel ZL může požádat krajské ředitelství policie o umožnění nebo zabránění přístupu do
+  centrálního registru zbraní jím určeným osobám.
+                        Zpřístupňování informací z CRZ
+                                                (§ 130)
+   Správce CRZ (takže PP) zveřejňuje na svých internetových stránkách
+   seznam zapsaných zkouškových střelnic,
+   údaje o ztracených nebo odcizených evropských zbrojních pasech a
+   údaje identifikující držitele zbrojní licence skupiny ZL1 a
+   statistické údaje týkající se údajů vedených v CRZ a jeho provozu
+
+ údaje vedené v CRZ, které nejsou zveřejňovány podle odstavce 1 (výše), nejsou veřejně
+  přístupnými informacemi a neposkytují se podle jiného právního předpisu (tedy ani podle
+  zákona o svobodném přístupu k informacím)
+Kontrola a přestupky
+                                               Kontrola
+
+§ 138 a násl.
+ obdobně jako dnes
+ kontroluje krajské ředitelství policie
+ Policejní prezidium kontroluje:
+    provozovny nebo provozovna/sídlo ve více krajích
+    zahraniční obchod s vojenským materiálem
+                                          Přestupky
+
+§ 142 a 143
+ zásadně jednodušší a přehlednější
+ obecně pokuta do 30 tis. Kč
+
+ pokuta až 5 mil. Kč a zákaz činnosti na 5 let:
+   úmyslně, opakovaně nebo ve větším rozsahu nevede
+    evidenci v souladu s tímto zákonem
+
+   úmyslně, opakovaně nebo ve větším množství dodá na
+    trh zbraň nebo střelivo v rozporu s tímto zákonem
+     Přechodná ustanovení
+Co se musí udělat po 1.1.2026?
+                    Přechodná ustanovení (§ 150)
+
+ veškerá práva držitelů zůstávají nedotčena
+ zbrojní licence A, B, C, D,E se automaticky mění na zbrojní
+  licenci ZL1
+ zbrojní licence F, G, H, I, J se automaticky mění na zbrojní
+  licenci ZL2
+ zbrojní průkazy se automaticky „překlopí“ na zbrojní
+  oprávnění
+ posudky o zdravotní způsobilosti budou vyžadovány 1x za
+  pět let (PČR poprvé držitele vyzve)
+
+ zbraně uvedené na trh před nabytím účinnosti zůstávají ve
+  svých původních “mírnějších“ kategoriích
+                          Přechodná ustanovení (§ 150)
+
+ Policejní prezidium v součinnosti s krajským ředitelstvím policie umožní osobě,
+  na kterou se ode dne nabytí účinnosti tohoto zákona hledí jako na držitele
+  zbrojní licence skupiny ZL1, správu záznamů o registrovaných zbraních, se
+  kterými taková osoba nakládá, v CRZ.
+
+ Držitel zbrojní licence, který byl držitelem zbrojní licence přede dnem nabytí
+  účinnosti tohoto zákona, je povinen do 12 měsíců
+        a) zapsat do centrálního registru zbraní každou osobu, pro kterou je
+          povinen zajišťovat pravidelné školení, a
+        b) pořídit evidenční soupis podle § 75, pokud jde o palné zbraně kategorie
+          NO, součásti zbraně umožňující samočinnou střelbu a polotovary
+        hlavních částí zbraní podléhajících registraci, se kterými nakládá a které
+        nabyl přede dnem nabytí účinnosti tohoto zákona (tj. pokud si je pořizuje
+        po 1.1.2026, musí je vézt v evidenčním soupisu ihned)
+                          Přechodná ustanovení (§ 150)
+
+ Povinnost označení zbraně identifikačními údaji podle § 86 nebo postup podle §
+  87 (tj. dodatečné označení zbraně identifikačními údaji) se nepoužijí na zbraň,
+  která byla před 1. 1. 2026 uvedena na trh a platně ověřena, podléhala-li taková
+  zbraň v době svého uvedení na trh ověřování.
+ Věta první se nepoužije na hlavní část zbraně nebo tlumič hluku výstřelu, které
+  jsou po vyjmutí ze zbraně uváděny na trh samostatně (takže ty doznačovat)
+                         Přechodná ustanovení (§ 150)
+
+ Jiný způsob zabezpečení zbraní a střeliva povolený podle zákona č. 119/2002
+  Sb., ve znění účinném přede dnem nabytí účinnosti tohoto zákona, se považuje
+  za jiný způsob zabezpečení zbraní a střeliva povolený podle tohoto zákona.
+Amnestie na nelegální zbraně bude!
+        (od 1. 1. 2026 do 30. 6. 2026)
+                                         Odstávka CRZ
+
+
+
+Kvůli nutné migraci dat nebude ve dnech 29.12. – 31. 12. 2025
+                funkční centrální registr zbraní!
+                      Děkujeme za pozornost
+
+
+
+
+oddělení obecní policie, zbraní, dopravního inženýrství a SBS
+odbor bezpečnostní politiky
+Ministerstvo vnitra
+
+zbrane@mv.gov.cz
+

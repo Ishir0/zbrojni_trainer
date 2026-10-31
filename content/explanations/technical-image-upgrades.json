@@ -1,0 +1,668 @@
+[
+  {
+    "questionId": "q-651",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "V tomto testu hodnota 67,5 mm označuje minimální délku nábojové komory, ve které lze tento brokový náboj bezpečně použít. Nejde o počet nábojů ani o maximální délku komory.",
+    "simpler": "Komora musí být alespoň tak dlouhá, jak vyžaduje označená délka náboje.",
+    "optionReasoning": {
+      "A": "Nejde o maximální délku komory; příliš krátká komora je riziková.",
+      "B": "Číslo není údaj o počtu ran ani omezovači kapacity zbraně.",
+      "C": "To je zamýšlené testové rozlišení: zbraň musí mít komoru dost dlouhou pro náboj; přesný rozměr C.I.P. je 67,60 mm."
+    },
+    "decisiveDetail": "Jde o potřebnou minimální délku komory, nikoli o počet výstřelů.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-652",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Šipka míří na kovovou část na spodku nábojnice, tedy kování. Střela je na opačném konci a zátka je uvnitř nábojnice pod broky.",
+    "simpler": "Šipka ukazuje na kovové kování u dna nábojnice.",
+    "optionReasoning": {
+      "A": "Zátka je v těle nábojnice nad broky, ne kovová základna označená šipkou.",
+      "B": "Střela je projektil; vyobrazený brokový náboj má broky uvnitř, šipka však míří na kování.",
+      "C": "Odpovídá označené kovové části u dna nábojnice."
+    },
+    "decisiveDetail": "Kování tvoří kovovou základnu nábojnice.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-655",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Šipka ukazuje na tělo nábojnice, nikoli na zápalku. Proto je A správnou odpovědí na otázku, kterou část obrázek neoznačuje.",
+    "simpler": "Šipka míří na nábojnici, ne na zápalku.",
+    "optionReasoning": {
+      "A": "Správně: označená oblast není zápalka.",
+      "B": "Nábojnice je právě část, na kterou šipka míří.",
+      "C": "Zátka je uvnitř brokového náboje, nikoli na označeném vnějším těle."
+    },
+    "decisiveDetail": "Zápalka je malý zápalný prvek uprostřed dna; šipka míří na tělo nábojnice.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-657",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Nebezpečná záměna je menší brokový náboj ráže 20, který může zapadnout do komory ráže 12 a zůstat v ní; následně vložený náboj ráže 12 může při výstřelu způsobit roztržení zbraně. Možnost A obrací rozměry a B uvádí smyšlený limit počtu výstřelů.",
+    "simpler": "Náboj ráže 20 může uvíznout v komoře ráže 12; další náboj ráže 12 pak může způsobit havárii.",
+    "optionReasoning": {
+      "A": "Je to opačně: větší náboj ráže 12 nelze běžně vložit do menší komory ráže 20.",
+      "B": "Zákon ani konstrukce neurčují takový počet výstřelů jako bezpečnostní limit.",
+      "C": "Popisuje nebezpečí, že náboj 20 zůstane v komoře 12 a za ním se nabije náboj 12."
+    },
+    "decisiveDetail": "Menší náboj ráže 20 může zapadnout do větší komory ráže 12; nezkoušejte kompatibilitu podle vzhledu.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-658",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Obě vyobrazené ráže 7,5×55 Swiss a 7,62×54 R jsou puškové kulové náboje pro dlouhé zbraně s drážkovanou hlavní. Nejde o náboje do expanzních přístrojů ani o hladkohlavňové náboje.",
+    "simpler": "Jde o puškové náboje do dlouhých zbraní s drážkovanou hlavní.",
+    "optionReasoning": {
+      "A": "Odpovídá určení obou zobrazených puškových ráží.",
+      "B": "Hladký vývrt je typický pro brokovnice, nikoli pro tyto kulové puškové náboje.",
+      "C": "Nejde o krátké expanzní náboje ani o střelivo pro jateční přístroje."
+    },
+    "decisiveDetail": "Rozměr a tvar nábojů na obrázku odpovídají kulovým puškovým rážím.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-659",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Obě nábojnice mají zužující se tělo s ramenem mezi širší částí a krčkem, tedy lahvovitý tvar. „Špičatý“ popisuje tvar střely, nikoli nábojnice.",
+    "simpler": "Nábojnice se zužuje ke krčku, proto je lahvovitá.",
+    "optionReasoning": {
+      "A": "Dvouválcový tvar by neměl zřetelné rameno a zúžený krček, které jsou na obrázku vidět.",
+      "B": "Odpovídá zúžené lahvovité nábojnici obou nábojů.",
+      "C": "Špičatý tvar se týká střely, ne nábojnice."
+    },
+    "decisiveDetail": "Všimněte si ramene a krčku nábojnice.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-661",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Horní dva náboje mají bezokrajovou nábojnici s drážkou pro vytahovač, zatímco spodní 7,62×54 R má vystupující okraj. To je rozdíl typu nábojnice; obrázek neukazuje typy střel ani zápalky uvedené v dalších možnostech.",
+    "simpler": "Horní náboje mají drážku, spodní náboj má vystupující okraj.",
+    "optionReasoning": {
+      "A": "Odpovídá viditelnému rozdílu mezi horními 7,5×55 Swiss a spodním 7,62×54 R.",
+      "B": "Vyobrazení nepodporuje tvrzení o poloplášťové střele; nejde o zobrazený rozdíl.",
+      "C": "Všechny náboje jsou běžné moderní náboje se zápalkou, nikoli systémem Lefaucheux."
+    },
+    "decisiveDetail": "Rozdíl je na dně nábojnice: drážka versus okraj.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-662",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Možnost C uvádí řádově realistické parametry těchto plnohodnotných puškových nábojů: rychlost stovky metrů za sekundu, energii v jednotkách tisíc joulů a dostřel v kilometrech. A je pro ně nepřiměřeně nízká a B obsahuje nereálné jednotky a hodnoty.",
+    "simpler": "Odpovídají řádově rychlosti kolem 780 m/s a energii několika tisíc joulů.",
+    "optionReasoning": {
+      "A": "180 m/s a 250 J jsou příliš nízké hodnoty pro uvedené výkonné puškové náboje.",
+      "B": "25 km/min a 2000 kJ jsou zjevně neodpovídající jednotky a řád hodnot.",
+      "C": "Odpovídá přibližným parametrům uvedeným pro tyto ráže."
+    },
+    "decisiveDetail": "Hledejte realistický řád rychlosti, energie a dostřelu u puškových nábojů.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-663",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Vyobrazené náboje 7,5×55 Swiss a 7,62×54 R jsou původně vojenské puškové ráže. Vhodné, ověřené náboje lze používat i pro sportovní střelbu; samotné zbarvení nábojnice nedokazuje lovecké určení.",
+    "simpler": "Jde o původně vojenské ráže, které lze při splnění požadavků využít i sportovně.",
+    "optionReasoning": {
+      "A": "Barva nábojnice sama o sobě neprokazuje lovecký účel a tyto ráže nejsou typicky lovecké jen podle laku.",
+      "B": "Odpovídá původnímu vojenskému určení a připouští sportovní použití při splnění požadavků.",
+      "C": "Jde o plnohodnotné puškové náboje, nikoli střelivo pro nenáročný výcvik mládeže."
+    },
+    "decisiveDetail": "Vojenský původ nevylučuje sportovní použití vhodného ověřeného střeliva.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-664",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Ráže 7,62×39 mm je puškový náboj střední balistické výkonnosti, původně vyvinutý pro vojenské použití a dnes používaný také sportovně. Není to typická pistolová ráže ani náboj pro lovecké trojáčky.",
+    "simpler": "7,62×39 je vojenská pušková ráže střední výkonnosti, užívaná i sportovně.",
+    "optionReasoning": {
+      "A": "Odpovídá obvyklému určení 7,62×39 mm.",
+      "B": "Není to typické lovecké střelivo pro trojáčky.",
+      "C": "Jde o puškovou, ne krátkou pistolovou nebo revolverovou ráži."
+    },
+    "decisiveDetail": "Jde o ráži pro dlouhé drážkované zbraně, nikoli standardní pistole či revolvery.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-665",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Horní náboj má podobu školního neboli vybíjecího náboje: slouží k bezpečnému nácviku manipulace a spouštění bicího mechanismu. Není to značkovací střelivo ani svítící náboj.",
+    "simpler": "Horní kus je školní/„vybíjecí“ náboj pro nácvik manipulace.",
+    "optionReasoning": {
+      "A": "Značkovací náboj by měl střelu určenou k označení cíle; obrázek ukazuje školní provedení.",
+      "B": "Není patrná svítící střela a nejde o důvod zařazení jako zakázané střelivo.",
+      "C": "Odpovídá školnímu náboji určenému pro bezpečný nácvik."
+    },
+    "decisiveDetail": "Rozlišuje ho cvičné provedení bez funkce ostrého náboje.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-666",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "U ráže 7,62×39 mm je v nabízených možnostech realistický údaj, že maximální dostřel činí zhruba 2 800 m; bezpečnostně je nutné počítat s potenciálně smrtícím účinkem po celé dráze. Možnosti A a B podhodnocují dostřel nebo účinek.",
+    "simpler": "Střela může doletět přibližně 2 800 m a zůstává nebezpečná po celé dráze.",
+    "optionReasoning": {
+      "A": "400 m je podstatně méně než uvedený maximální dostřel a nepopisuje celou dráhu.",
+      "B": "1 500 m a omezení smrtícího účinku na 600 m neodpovídají klíči a podhodnocují nebezpečí.",
+      "C": "Odpovídá přibližnému maximálnímu dostřelu a upozorňuje na nebezpečí po celé dráze."
+    },
+    "decisiveDetail": "Maximální dostřel je větší než běžná vzdálenost mířené střelby; považujte celý směr za nebezpečný.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-669",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Náboje 7,65 mm Browning a 9 mm Luger jsou typickými náboji pro krátké samonabíjecí kulové zbraně. Možnost C míchá samonabíjecí nebo opakovací zbraň s hladkým vývrtem, což neodpovídá těmto pistolovým rážím.",
+    "simpler": "Obě ráže jsou typické pro krátké samonabíjecí zbraně.",
+    "optionReasoning": {
+      "A": "Nejde o dlouhé opakovací kulovnice; obě jsou typické pistolové ráže.",
+      "B": "Odpovídá obvyklému použití 7,65 Browning a 9 mm Luger v krátkých samonabíjecích zbraních.",
+      "C": "Hladký vývrt je pro tyto kulové pistolové náboje nesprávný a „opakovací“ nevystihuje jejich typické zbraně."
+    },
+    "decisiveDetail": "Jde o pistolové náboje; hladký vývrt ani dlouhé opakovací zbraně k nim nesedí.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-670",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "U zobrazených nábojů je realistická možnost A: většina má maximální dostřel přibližně 1 500 m či více a střely mohou zůstávat nebezpečné na značnou část dráhy; 9 mm Flobert (č. 2) má dostřel podstatně kratší. Možnosti B a C jsou pro soubor uvedených ráží příliš nízké.",
+    "simpler": "Většina těchto nábojů doletí zhruba 1 500 m či dále; 9 mm Flobert je výjimka s kratším dostřelem.",
+    "optionReasoning": {
+      "A": "Odpovídá rozdílu mezi výkonnějšími rážemi a slabším 9 mm Flobertem č. 2.",
+      "B": "50–100 m je pro většinu těchto ráží příliš nízký maximální dostřel.",
+      "C": "300 m či méně je příliš málo pro většinu uvedených nábojů; zvláštní výjimkou není Tokarev č. 5."
+    },
+    "decisiveDetail": "Ve skupině jsou jak krátké pistolové, tak výkonné puškové ráže; č. 2 je slabší Flobert.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-671",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Sada obsahuje náboje pro krátké zbraně (například 7,65 Browning a 9 mm Luger) i pro dlouhé zbraně (například 22 LR, Flobert a puškové ráže). U Flobertu se skutečně vyskytují i dlouhé zbraně s hladkým vývrtem.",
+    "simpler": "Vyobrazené ráže se používají v krátkých i dlouhých zbraních; u Flobertu je běžný také hladký vývrt.",
+    "optionReasoning": {
+      "A": "Je nepravdivé tvrdit, že všechny uvedené náboje jsou výhradně do krátkých zbraní.",
+      "B": "Je nepravdivé tvrdit, že všechny jsou pouze do dlouhých drážkovaných zbraní.",
+      "C": "Odpovídá různorodému souboru a připomíná běžný hladký vývrt u dlouhých Flobertových zbraní."
+    },
+    "decisiveDetail": "Možnost „výhradně“ nebo „pouze“ je příliš kategorická pro směs různých nábojů.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-673",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Šipka ukazuje na kovový plášť těla náboje, tedy nábojnici. Dutinka je vnitřní dutina a nábojová komora je součást zbraně, nikoli část náboje.",
+    "simpler": "Označena je nábojnice, kovové tělo náboje.",
+    "optionReasoning": {
+      "A": "Odpovídá části náboje, na kterou šipka ukazuje.",
+      "B": "Dutinka je vnitřní prostor, nikoli vnější označené tělo.",
+      "C": "Nábojová komora je ve zbrani a na obrázku náboje není."
+    },
+    "decisiveDetail": "Nábojová komora je ve zbrani; šipka označuje část samotného náboje.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-674",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Šipka míří od dna nábojnice k její střele, tedy ve směru, kterým se náboj zasouvá do komory. Vyjímání náboje probíhá opačným směrem.",
+    "simpler": "Náboj se do komory zasouvá směrem od dna ke střele.",
+    "optionReasoning": {
+      "A": "Je to opačný směr než šipka na obrázku.",
+      "B": "Vysouvání ven by bylo směrem k dnu nábojnice, opačně než šipka.",
+      "C": "Odpovídá směru zasouvání náboje do komory."
+    },
+    "decisiveDetail": "Orientace šipky sleduje přední část náboje směrem do hlavně.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-675",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Šipka ukazuje na střelu (projektil) v přední části náboje. Kování je kovová základna a zápalka je uprostřed dna nábojnice.",
+    "simpler": "Označena je střela na předním konci náboje.",
+    "optionReasoning": {
+      "A": "Kování je u dna nábojnice, nikoli na místě označeném šipkou.",
+      "B": "Zápalka je uprostřed dna nábojnice.",
+      "C": "Odpovídá projektilu označenému šipkou."
+    },
+    "decisiveDetail": "Střela je na opačném konci než kování a zápalka.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-676",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Šipka směřuje od střely zpět k dnu nábojnice, tedy směrem, kterým se náboj nebo nábojnice vytahuje z komory. Nabití probíhá opačně a úderník míří k zápalce, nikoli podél náboje.",
+    "simpler": "Šipka ukazuje směr vytažení náboje z komory.",
+    "optionReasoning": {
+      "A": "Úderník se pohybuje k zápalce, ne ve směru šipky podél náboje.",
+      "B": "Odpovídá směru vytahování ven z komory.",
+      "C": "Nabíjení do komory by probíhalo opačným směrem."
+    },
+    "decisiveDetail": "Vytahování vede od střely zpět k dnu nábojnice.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-677",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Na obrázku je ruční granát, který patří mezi munici, nikoli mezi pyrotechnické výrobky kategorie F1 nebo střelivo S1. Tvar a pojistná sestava odpovídají munici; obrázek neukazuje běžný spotřební pyrotechnický výrobek.",
+    "simpler": "Je vyobrazen ruční granát, tedy munice.",
+    "optionReasoning": {
+      "A": "F1 označuje zábavní pyrotechniku s velmi nízkým nebezpečím; vyobrazený předmět je granát.",
+      "B": "Odpovídá vojenskému ručnímu granátu na obrázku.",
+      "C": "S1 je kategorie střeliva do zbraní; granát není náboj ani střela."
+    },
+    "decisiveDetail": "Granát je munice, nikoli běžná pyrotechnika ani střelivo do palné zbraně.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-678",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Zbraň je podélně rozříznuta tak, že je vidět její vnitřní mechanismus a vývrt hlavně. To odpovídá zhotovení řezu; nejde o pouhou změnu funkčního principu ani o úplné znehodnocení.",
+    "simpler": "Je vidět odkrytý vnitřek zbraně řezem.",
+    "optionReasoning": {
+      "A": "Přeměna na plynovou zbraň by měnila funkci, neodkrývala takto mechanismus řezem.",
+      "B": "Znehodnocení by zbraň učinilo trvale nefunkční; obrázek ukazuje výukový řez.",
+      "C": "Odpovídá viditelné podélné části odhalující vnitřní mechanismus."
+    },
+    "decisiveDetail": "Řez odhaluje vnitřní části, zatímco zbraň zůstává rozpoznatelná.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-682",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Vyobrazený kompaktní revolver je běžně určen především k osobní ochraně. Jeho krátká hlaveň a snadno skrytá konstrukce neodpovídají mířené terčové disciplíně ani běžícího terče.",
+    "simpler": "Jde o kompaktní revolver typický pro osobní ochranu.",
+    "optionReasoning": {
+      "A": "Krátká kompaktní zbraň není typicky terčová zbraň pro krátké až střední vzdálenosti.",
+      "B": "Odpovídá obvyklému účelu takového kompaktního revolveru.",
+      "C": "Běžící terč se střílí specializovanými zbraněmi, nikoli tímto kompaktním revolverem."
+    },
+    "decisiveDetail": "Rozměry a provedení zbraně odpovídají obrannému, nikoli sportovnímu použití.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-684",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Červené číslo 2 ukazuje na výklopnou konzoli, která nese revolverový válec a umožňuje jeho vyklopení z rámu. Pistole nemá předpažbí ani kloubový závěr.",
+    "simpler": "Označena je konzole, na které se vyklápí válec revolveru.",
+    "optionReasoning": {
+      "A": "Odpovídá části revolveru označené číslem 2.",
+      "B": "Revolver nemá předpažbí.",
+      "C": "Na obrázku není kloubový závěr pistole."
+    },
+    "decisiveDetail": "Jde o část rámu, která podpírá a vyklápí válec.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-685",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Vnější bicí kohout je na obrázku označen číslem 5, nad zadní částí rámu. Číslo 6 označuje lučík a číslo 3 válec.",
+    "simpler": "Kohout je označen číslem 5.",
+    "optionReasoning": {
+      "A": "Číslo 6 označuje lučík, nikoli kohout.",
+      "B": "Číslo 3 je na válci.",
+      "C": "Odpovídá vnějšímu bicí kohoutu na obrázku."
+    },
+    "decisiveDetail": "Vnější kohout je vzadu nad rámem revolveru.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-687",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Viditelné roztržení zbraně může souviset s výstřelem při ucpaném vývrtu nebo s rážově nesprávným střelivem, které způsobí nebezpečný tlak. Závada pažbičky či bicího mechanismu sama o sobě nevysvětluje destrukční poškození válce a rámu.",
+    "simpler": "Havárii může způsobit nesprávná ráže nebo ucpaný vývrt.",
+    "optionReasoning": {
+      "A": "Uvolněná pažbička nebo zablokovaný válec mohou zbraň znefunkčnit, ale nevysvětlují typické roztržení z přetlaku.",
+      "B": "Zlomený zápalník či přenášecí páka vedou k selhání odpalu, ne k takovému roztržení.",
+      "C": "Nesprávné střelivo nebo překážka ve vývrtu mohou vyvolat nebezpečný tlak a havárii."
+    },
+    "decisiveDetail": "Poškození odpovídá přetlakové havárii, ne běžné závadě spouště či úchopu.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-688",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Obrázek ukazuje klasickou dlouhou brokovou zbraň s vnějšími kohouty a lůžkovým závěrem, známou jako lankasterka. Browning je značka/typ jiné konstrukce a malorážka označuje zbraň pro malorážové střelivo.",
+    "simpler": "Jde o lankasterku s vnějšími kohouty a sklopnými hlavněmi.",
+    "optionReasoning": {
+      "A": "Browning není název pro zobrazenou klasickou kohoutovou zbraň.",
+      "B": "Odpovídá zobrazené kohoutové brokovnici.",
+      "C": "Malorážka není označení této brokovnice."
+    },
+    "decisiveDetail": "Vnější kohouty a lůžkový závěr jsou typickými znaky lankasterky.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-689",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Šipka ukazuje na horní páku nad pouzdrem lůžkového závěru, kterou se odemyká sklopný hlavňový svazek. Říká se jí temenní klička; klika závěru je typická pro opakovací pušky.",
+    "simpler": "Označena je horní temenní klička.",
+    "optionReasoning": {
+      "A": "Odpovídá páce na horní straně zbraně.",
+      "B": "Klika závěru bývá na boku opakovací zbraně.",
+      "C": "Pákový závěr je jiný typ mechanismu, nikoli tento horní ovladač."
+    },
+    "decisiveDetail": "Je to páka nad pouzdrem, která odemyká sklopné hlavně.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-690",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Dvě hlavně jsou umístěny svisle nad sebou, což se nazývá kozlice. Kozderka ani „koz­lík“ nejsou správné názvy tohoto uspořádání.",
+    "simpler": "Brokovnice s hlavněmi nad sebou je kozlice.",
+    "optionReasoning": {
+      "A": "„Kozderka“ není označení tohoto běžného typu.",
+      "B": "„Kozlík“ není správný název vertikálně uspořádaných hlavní.",
+      "C": "Odpovídá zobrazené brokovnici s hlavněmi nad sebou."
+    },
+    "decisiveDetail": "Rozhoduje svislé uspořádání dvou hlavní.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-691",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Vyobrazená zbraň je běžná brokovnice s lůžkovým závěrem a sklopným hlavňovým svazkem. Na obrázku nejsou znaky vertikálně posuvného blokového závěru ani neobvyklé konstrukce z možnosti C.",
+    "simpler": "Jde o běžnou sklopnou brokovnici s lůžkovým závěrem.",
+    "optionReasoning": {
+      "A": "Odpovídá viditelné konstrukci zbraně.",
+      "B": "Obrázek neukazuje vertikálně posuvný blokový závěr.",
+      "C": "Popisuje nesprávné a na obrázku neviditelné části."
+    },
+    "decisiveDetail": "Sklopný hlavňový svazek je připojen k lůžkovému závěru.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-692",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Vodorovná šipka míří na pažbu a svislá šipka na předpažbí pod hlavněmi. Nejde o nabiják ani o samostatnou ramenní opěru.",
+    "simpler": "Vlevo je pažba, pod hlavněmi předpažbí.",
+    "optionReasoning": {
+      "A": "Na označených místech nejsou polopažba a nabiják.",
+      "B": "Odpovídá oběma označeným částem.",
+      "C": "Nejde o ramenní opěru ani ponosovou rukojeť."
+    },
+    "decisiveDetail": "Pažba je vzadu u ramene; předpažbí podpírá hlavně zespodu.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-693",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Revolver se nabíjí černým prachem a střelou zepředu do komor válce a používá perkusní zápalky na pistonech; jde o perkusní revolver. Křesadlový zámek by měl křesadlo a pánvičku, které zde nejsou.",
+    "simpler": "Jde o perkusní revolver nabíjený zepředu do komor válce.",
+    "optionReasoning": {
+      "A": "Na obrázku není křesadlový zámek s křesadlem a pánvičkou.",
+      "B": "„Bubínkový revolver“ je obecné, nikoli přesné označení požadovaného systému.",
+      "C": "Odpovídá černoprachému revolveru s perkusními zápalkami."
+    },
+    "decisiveDetail": "Pistony na zadní straně válce slouží pro perkusní zápalky.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-694",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Zbraň je perkusní revolver pro dělené střelivo: prach a střela se vkládají do komory válce zepředu a zápalka se nasazuje na piston zezadu. Není určena pro jednotné náboje se středovým ani okrajovým zápalem.",
+    "simpler": "Používá dělené střelivo a perkusní zápalky nasazené na pistonech.",
+    "optionReasoning": {
+      "A": "Zbraň nemá komory pro moderní jednotné náboje se středovým zápalem.",
+      "B": "Střelivo se nenabíjí ústím hlavně; nabíjí se do komor válce.",
+      "C": "Odpovídá konstrukci perkusního revolveru."
+    },
+    "decisiveDetail": "Na revolveru nejsou komory pro jednotné náboje; zápalky se nasazují na vnější pistony.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-695",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "A",
+    "status": "ai-draft",
+    "concise": "Na obrázku je pistole s křesadlovým zámkem: kohout svírá křesadlo, které při úderu vytváří jiskru u pánvičky a zapaluje prachovou náplň. Nejde o doutnákový systém ani o typ moderní brokové zbraně.",
+    "simpler": "Jde o křesadlovou zbraň.",
+    "optionReasoning": {
+      "A": "Odpovídá viditelnému křesadlovému mechanismu.",
+      "B": "Doutnákový zámek používá doutnák, který na obrázku není.",
+      "C": "Troják je vícehlavňová dlouhá zbraň, nikoli tato historická pistole."
+    },
+    "decisiveDetail": "Křesadlo v kohoutu vytváří jiskru u pánvičky.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-697",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Čísla 2 a 5 označují zásobník a jeho uložení v rukojeti zobrazené samonabíjecí pistole. Čísla 1, 3, 4 a 6 ukazují jiné části zbraně, nikoli polohu zásobníku.",
+    "simpler": "Zásobník je označen čísly 2 a 5.",
+    "optionReasoning": {
+      "A": "Čísla 1 a 3 jsou na horní části zbraně, ne u zásobníku.",
+      "B": "Číslo 6 ukazuje vyjmutý zásobník, ale 2 a 6 nejsou dvojicí míst uváděnou v otázce.",
+      "C": "Odpovídá označenému zásobníku a jeho pozici v rukojeti."
+    },
+    "decisiveDetail": "Jeden údaj ukazuje dolní část zásobníku, druhý jeho umístění v rukojeti.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-698",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "concise": "Číslo 1 označuje výhozné okénko; v jeho otvoru je vidět část hlavně s nábojovou komorou. Baskule je pouzdro zámkového mechanismu brokovnice a výhozná komůrka není název této části pistole.",
+    "simpler": "Číslo 1 ukazuje výhozné okénko.",
+    "optionReasoning": {
+      "A": "Výhozná komůrka pod kulisou není částí této pistole.",
+      "B": "Odpovídá otevřenému okénku na horní části zbraně.",
+      "C": "Baskule patří k jinému typu zbraně, například lůžkovému závěru."
+    },
+    "decisiveDetail": "Je to otvor na závěru, kterým se vyhazují nábojnice.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-699",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Ústí je přední konec hlavně, ze kterého vychází střela; na obrázku je označeno číslem 3. Čísla 1 a 2 označují části směrem k zadní části zbraně.",
+    "simpler": "Ústí hlavně je číslo 3.",
+    "optionReasoning": {
+      "A": "Číslo 1 je na horní části zbraně, nikoli u ústí.",
+      "B": "Číslo 2 je u spodní části/rukojeti, nikoli na ústí.",
+      "C": "Odpovídá přednímu konci hlavně."
+    },
+    "decisiveDetail": "Ústí je přední konec hlavně.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  },
+  {
+    "questionId": "q-711",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "C",
+    "status": "ai-draft",
+    "concise": "Na rozložené pistoli jsou závěrové části označeny čísly 3 a 2, zatímco číslo 4 je uvnitř lučíku. Pažba/hlaveň nejsou označeny podle možnosti A a tělo pistole není zároveň čísly 1 a 4.",
+    "simpler": "Závěr je označen čísly 3 a 2; číslo 4 je v lučíku.",
+    "optionReasoning": {
+      "A": "Číslo 4 je v lučíku, ale číslo 3 není celé označení závěru podle obrázku a číslo 4 není pažba.",
+      "B": "Číslo 1 je na rukojeti, ne na těle v uvedeném smyslu; čísla 2 a 3 patří k závěru.",
+      "C": "Odpovídá rozložení čísel na obrázku."
+    },
+    "decisiveDetail": "Čísla 2 a 3 jsou na horním závěrovém celku; 4 leží uvnitř lučíku.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna",
+    "evidenceBasis": "official-answer"
+  }
+]

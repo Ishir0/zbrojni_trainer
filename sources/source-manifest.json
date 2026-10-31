@@ -1,0 +1,685 @@
+[
+  {
+    "title": "Zákon č. 90/2024 Sb., o zbraních a střelivu",
+    "url": "https://www.e-sbirka.cz/sb/2024/90?zalozka=text",
+    "file": "sources/references/law-2024-90.html",
+    "sha256": "37dd573097faa5830749931e30b018a341e43056acc2abeac756bddd062b419d",
+    "retrievedAt": "2026-10-20T12:34:58.992756+00:00",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2024-90.txt",
+      "sha256": "e3e0b4c006aacb5bb6debcc4636bbb516a8895e91b2b9636c98a744e8ea43748",
+      "retrievedAt": "2026-10-20T12:51:51.614Z",
+      "characters": 203659,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Argumentář ke změnám zákona o zbraních a střelivu od 1. ledna 2026",
+    "url": "https://mv.gov.cz/soubor/argumenta-r-ke-zme-na-m-za-kona-o-zbrani-ch-a-str-elivu.aspx",
+    "file": "sources/references/argumenta-r-ke-zme-na-m-za-kona-o-zbrani-ch-a-str-elivu.pdf",
+    "sha256": "02ac14979988d666ce437bc3a314f45e06f21624f0366d6441aa19249888c0b3",
+    "retrievedAt": "2026-10-20T12:34:59.130095+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Školení pro myslivce",
+    "url": "https://mv.gov.cz/soubor/prezentace-skoleni-myslivci-a-novy-zakon-o-zbranich.aspx",
+    "file": "sources/references/prezentace-skoleni-myslivci-a-novy-zakon-o-zbranich.pdf",
+    "sha256": "6dd13aabcca414a67bb918c2be4b4af2197b630f40717c74ddc91ea08c5370ab",
+    "retrievedAt": "2026-10-20T12:34:59.504570+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Školení pro sportovní střelce",
+    "url": "https://mv.gov.cz/soubor/prezentace-skoleni-pro-sportovni-strelce-strelci-a-novy-zakon-o-zbranich.aspx",
+    "file": "sources/references/prezentace-skoleni-pro-sportovni-strelce-strelci-a-novy-zakon-o-zbranich.pdf",
+    "sha256": "925894e4c0c2464a922d52841797d9e70ba1b78d76811bb177020acab2c9bc63",
+    "retrievedAt": "2026-10-20T12:34:59.735119+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Školení pro střelnice",
+    "url": "https://mv.gov.cz/soubor/skoleni-pro-strelnice-pdf.aspx",
+    "file": "sources/references/skoleni-pro-strelnice-pdf.pdf",
+    "sha256": "f53bef10517efde7bf0d16f86f40ad36ded0fcdd89c39b6abccdc6f45bbf3a4d",
+    "retrievedAt": "2026-10-20T12:35:00.063976+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Školení pro zkušební komisaře - obecný úvod",
+    "url": "https://mv.gov.cz/soubor/skoleni-pro-zkusebni-komisare-obecny-uvod-pdf.aspx",
+    "file": "sources/references/skoleni-pro-zkusebni-komisare-obecny-uvod-pdf.pdf",
+    "sha256": "cfc24108ddbed171b18563bed03dae7f61bc35106bac9b27b1b2f63cfc7257df",
+    "retrievedAt": "2026-10-20T12:35:00.457128+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Školení pro zkušební komisaře - průběh zkoušky",
+    "url": "https://mv.gov.cz/soubor/skoleni-pro-zkusebni-komisare-prubeh-zkousky-pdf.aspx",
+    "file": "sources/references/skoleni-pro-zkusebni-komisare-prubeh-zkousky-pdf.pdf",
+    "sha256": "bfb1e63c97f320d53037eee99c2321db4f981ac73accac1852877012fe63475d",
+    "retrievedAt": "2026-10-20T12:35:00.773490+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Školení pro podnikatele - Zákon o zbraních a střelivu",
+    "url": "https://mv.gov.cz/soubor/skoleni-pro-podnikatele-zakon-o-zbranich-pdf.aspx",
+    "file": "sources/references/skoleni-pro-podnikatele-zakon-o-zbranich-pdf.pdf",
+    "sha256": "f201af6fa08eb2459f34103e40b9f485deb6b36130330c4e473333438744b994",
+    "retrievedAt": "2026-10-20T12:35:00.989842+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Školení pro podnikatele - Centrální registr zbraní",
+    "url": "https://mv.gov.cz/soubor/skoleni-pro-podnikatele-centralni-registr-zbrani-pdf.aspx",
+    "file": "sources/references/skoleni-pro-podnikatele-centralni-registr-zbrani-pdf.pdf",
+    "sha256": "055a90bbc22e07a1aee511f1c2cc0e9cc7ff6f00421b6c0872da735be1e07d94",
+    "retrievedAt": "2026-10-20T12:35:02.539225+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Školení pro obecní policie - Nový zákon o zbraních a obecní policie",
+    "url": "https://mv.gov.cz/soubor/prezentace-skoleni-pro-obecni-policie-novy-zakon-o-zbranich-a-obecni-policie.aspx",
+    "file": "sources/references/prezentace-skoleni-pro-obecni-policie-novy-zakon-o-zbranich-a-obecni-policie.pdf",
+    "sha256": "e375c610f63a1c91e21ecab76af6591b8848fa2a54eb5e9efec60bae96d91578",
+    "retrievedAt": "2026-10-20T12:35:03.014428+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Školení pro obecní policie - Centrální registr zbraní 2026",
+    "url": "https://mv.gov.cz/soubor/prezentace-skoleni-pro-obecni-policie-centralni-registr-zbrani-2026.aspx",
+    "file": "sources/references/prezentace-skoleni-pro-obecni-policie-centralni-registr-zbrani-2026.pdf",
+    "sha256": "6c26c5abdd8d0e574b0f05cdc95c6ba9733d6648c54cef4b8d671d97615fa576",
+    "retrievedAt": "2026-10-20T12:35:03.465503+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Nařízení vlády č. 187/2025 Sb., o technických požadavcích a dalších specifikacích pro některé zbraně, střelivo a střelnice a pro zabezpečení zbraní a střeliva",
+    "url": "https://www.e-sbirka.cz/sb/2025/187?zalozka=text",
+    "file": "sources/references/law-2025-187.html",
+    "sha256": "37dd573097faa5830749931e30b018a341e43056acc2abeac756bddd062b419d",
+    "retrievedAt": "2026-10-20T12:35:03.680503+00:00",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2025-187.txt",
+      "sha256": "69d5fd6eea251014f15a8d838967b83569220d05b5fbd9ce48151e0c3afd6fbb",
+      "retrievedAt": "2026-10-20T12:51:53.908Z",
+      "characters": 46956,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Nařízení vlády č. 238/2025 Sb. o provádění zkoušek podle zákona o zbraních a střelivu",
+    "url": "https://www.e-sbirka.cz/sb/2025/238?zalozka=text",
+    "file": "sources/references/law-2025-238.html",
+    "sha256": "37dd573097faa5830749931e30b018a341e43056acc2abeac756bddd062b419d",
+    "retrievedAt": "2026-10-20T12:35:03.878601+00:00",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2025-238.txt",
+      "sha256": "27d86e6c5ae430c926204662d2445a548fcffb861df53a90965a35aeb798f651",
+      "retrievedAt": "2026-10-20T12:51:56.496Z",
+      "characters": 50713,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Nařízení vlády č. 351/2025 Sb., o stanovení seznamu nemocí, vad nebo stavů, které vylučují nebo omezují zdravotní způsobilost, a o náležitostech lékařského posudku podle zákona o zbraních a střelivu a podle zákona o munici",
+    "url": "https://www.e-sbirka.cz/sb/2025/351?zalozka=text",
+    "file": "sources/references/law-2025-351.html",
+    "sha256": "37dd573097faa5830749931e30b018a341e43056acc2abeac756bddd062b419d",
+    "retrievedAt": "2026-10-20T12:35:04.047158+00:00",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2025-351.txt",
+      "sha256": "4299f6c5e462a7afcfd85c057d80b3cd0cb5b781d3590ce085828995a926cdbc",
+      "retrievedAt": "2026-10-20T12:51:58.859Z",
+      "characters": 9654,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Nařízení vlády č. 504/2025 Sb., o zápisu a vedení údajů v centrálním registru zbraní a o stanovení vzorů některých dokumentů na úseku zbraní, střeliva a munice",
+    "url": "https://www.e-sbirka.cz/sb/2025/504?zalozka=text",
+    "file": "sources/references/law-2025-504.html",
+    "sha256": "37dd573097faa5830749931e30b018a341e43056acc2abeac756bddd062b419d",
+    "retrievedAt": "2026-10-20T12:35:04.218556+00:00",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2025-504.txt",
+      "sha256": "27961227eb967c6712410eed421fcffcf18017414dbfbd7f2736d6814629b5c5",
+      "retrievedAt": "2026-10-20T12:52:01.579Z",
+      "characters": 7792,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Nakládání se spouštěmi fungujícími na principu FTR (Forced Trigger Reset)",
+    "url": "https://mv.gov.cz/soubor/nakladani-se-spoustemi-fungujicimi-na-principu-ftr-posouzeni-zda-je-mechanismus-ftr-regulovanou-soucasti-zbrane.aspx",
+    "file": "sources/references/nakladani-se-spoustemi-fungujicimi-na-principu-ftr-posouzeni-zda-je-mechanismus-ftr-regulovanou-soucasti-zbrane.pdf",
+    "sha256": "8efb6666ae0fadcb1cf0052a896949fcd5c2733a3ccc573345296c3dc7c4244d",
+    "retrievedAt": "2026-10-20T12:35:04.419206+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Muzea a obdobné instituce coby nevyňaté veřejnoprávní instituce podle zákona č. 90/2024 Sb. o zbraních a střelivu",
+    "url": "https://mv.gov.cz/soubor/muzea-a-obdobne-instituce-coby-nevynate-verejnopravni-instituce-podle-zakona-c-90-2024-sb-o-zbranich-a-strelivu.aspx",
+    "file": "sources/references/muzea-a-obdobne-instituce-coby-nevynate-verejnopravni-instituce-podle-zakona-c-90-2024-sb-o-zbranich-a-strelivu.pdf",
+    "sha256": "7c1da67f1bae43927641e540ff6ad01a6cded49236f9894d3a2f7854533c79ea",
+    "retrievedAt": "2026-10-20T12:35:05.607912+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Evidenční povinnost nevyňatých veřejnoprávních institucí ve smyslu § 120 zákona o zbraních",
+    "url": "https://mv.gov.cz/soubor/evidencni-povinnost-nevynatych-verejnopravnich-instituci-ve-smyslu-120-zakona-o-zbranich.aspx",
+    "file": "sources/references/evidencni-povinnost-nevynatych-verejnopravnich-instituci-ve-smyslu-120-zakona-o-zbranich.pdf",
+    "sha256": "de44e15ede301bd2c11c25e8df8b06f8452421d3bf3b44be1c08d30fb230e67c",
+    "retrievedAt": "2026-10-20T12:35:07.869230+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Prokázání oprávnění předložením zbrojního listu spolu s dokladem totožnosti",
+    "url": "https://mv.gov.cz/soubor/prokazani-opravneni-predlozenim-zbrojniho-listu-spolu-s-dokladem-totoznosti.aspx",
+    "file": "sources/references/prokazani-opravneni-predlozenim-zbrojniho-listu-spolu-s-dokladem-totoznosti.pdf",
+    "sha256": "506f7670c27ef5307e52499f2f6a191a96b04c623bae84139146d6d9ad8c3220",
+    "retrievedAt": "2026-10-20T12:35:08.002845+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Prokazování oprávnění k nakládání se zbraněmi a střelivem na střelnici",
+    "url": "https://mv.gov.cz/soubor/prokazovani-opravneni-k-nakladani-se-zbranemi-a-strelivem-na-strelnici.aspx",
+    "file": "sources/references/prokazovani-opravneni-k-nakladani-se-zbranemi-a-strelivem-na-strelnici.pdf",
+    "sha256": "d13efe421bcb46ae3e5ef036418317c3ce18ee2b5d90c2d4ffd5020670f769ad",
+    "retrievedAt": "2026-10-20T12:35:08.211221+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Oprávnění myslivecké stráže prokazování oprávnění účastníků lovu k nakládání se zbraněmi a střelivem",
+    "url": "https://mv.gov.cz/soubor/opravneni-myslivecke-straze-prokazovani-opravneni-ucastniku-lovu-k-nakladani-se-zbranemi-a-strelivem.aspx",
+    "file": "sources/references/opravneni-myslivecke-straze-prokazovani-opravneni-ucastniku-lovu-k-nakladani-se-zbranemi-a-strelivem.pdf",
+    "sha256": "dd0e36bf0404a451ece87d3b5142f69710c2534e0ac2edb8870fe78dd93a2105",
+    "retrievedAt": "2026-10-20T12:35:08.354467+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Pořádání vojensko-historických akcí ve světle zákona č. 90/2024 Sb. o zbraních a střelivu",
+    "url": "https://mv.gov.cz/soubor/poradani-vojensko-historickych-akci-ve-svetle-zakona-c-90-2024-sb-o-zbranich-a-strelivu.aspx",
+    "file": "sources/references/poradani-vojensko-historickych-akci-ve-svetle-zakona-c-90-2024-sb-o-zbranich-a-strelivu.pdf",
+    "sha256": "9287d371257f0214bad9aa022398a059b91e72efc5e00c0312a3a98e3c0c44bf",
+    "retrievedAt": "2026-10-20T12:35:10.722260+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Označování zbraní identifikačními údaji po 1. lednu 2026",
+    "url": "https://mv.gov.cz/soubor/stanovisko-oznacovani-zbrani-identifikacnimi-udaji-po-1-lednu-2026.aspx",
+    "file": "sources/references/stanovisko-oznacovani-zbrani-identifikacnimi-udaji-po-1-lednu-2026.pdf",
+    "sha256": "8f822736e6e1cee55b4a4e22807260e482c59a25618d3acce3e51282e28270b5",
+    "retrievedAt": "2026-10-20T12:35:12.077456+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Nadlimitní zásobníky v režimu nového zákona o zbraních",
+    "url": "https://mv.gov.cz/soubor/stanovisko-nadlimitni-zasobniky-v-rezimu-noveho-zakona-o-zbranich.aspx",
+    "file": "sources/references/stanovisko-nadlimitni-zasobniky-v-rezimu-noveho-zakona-o-zbranich.pdf",
+    "sha256": "2285455ef35991eb83127c7c0cfbe30faa1cc87720ac91b85a5da3793b0a7750",
+    "retrievedAt": "2026-10-20T12:35:12.264207+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Historické zbraně v režimu nového zákona o zbraních",
+    "url": "https://mv.gov.cz/soubor/stanovisko-historicke-zbrane-v-rezimu-noveho-zakona-o-zbranich.aspx",
+    "file": "sources/references/stanovisko-historicke-zbrane-v-rezimu-noveho-zakona-o-zbranich.pdf",
+    "sha256": "089081f352010f73dae2d730035427929c0bc2a65cfb1b84be23647714ff04f0",
+    "retrievedAt": "2026-10-20T12:35:13.511000+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Práva a povinnosti oprávněných držitelů zakázaných zbraní po 1. lednu 2026",
+    "url": "https://mv.gov.cz/soubor/stanovisko-prava-a-povinnosti-opravnenych-drzitelu-zakazanych-zbrani-po-1-lednu-2026.aspx",
+    "file": "sources/references/stanovisko-prava-a-povinnosti-opravnenych-drzitelu-zakazanych-zbrani-po-1-lednu-2026.pdf",
+    "sha256": "15115e965b57c9a13129441b602ed6682842bf89d52978dc78dbdb4fe5d45aa2",
+    "retrievedAt": "2026-10-20T12:35:13.709959+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Kategorizace zbraně typu Piexon po 1. lednu 2026",
+    "url": "https://mv.gov.cz/soubor/kategorizace-zbrane-typu-piexon-po-1-lednu-2026.aspx",
+    "file": "sources/references/kategorizace-zbrane-typu-piexon-po-1-lednu-2026.pdf",
+    "sha256": "2d99f3c8a93db5f6d76fe5bc4d3824371f13e01f2469b6e83f83cbeab8362420",
+    "retrievedAt": "2026-10-20T12:35:13.897747+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Některé otázky ve vztahu k nové právní úpravě provozu střelnic",
+    "url": "https://mv.gov.cz/soubor/nektere-otazky-ve-vztahu-k-nove-pravni-uprave-provozu-strelnic.aspx",
+    "file": "sources/references/nektere-otazky-ve-vztahu-k-nove-pravni-uprave-provozu-strelnic.pdf",
+    "sha256": "9d51e2101207fe18bdfd7c9259fa05dc09da99bcf2b7ed8820268a8a0932aa54",
+    "retrievedAt": "2026-10-20T12:35:14.107588+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Zbrojní průkaz po 1. lednu 2026",
+    "url": "https://mv.gov.cz/soubor/zbrojni-prukaz-po-1-lednu-2026.aspx",
+    "file": "sources/references/zbrojni-prukaz-po-1-lednu-2026.pdf",
+    "sha256": "e4c5950435cf17a927f62d44f57deee8bab8ffa33d9425b270263b2cb6ef0cdb",
+    "retrievedAt": "2026-10-20T12:35:14.243238+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Status zbraně kategorie C-I po 1. lednu 2026 a zachování práv držitelů zbraní kategorie C-I",
+    "url": "https://mv.gov.cz/soubor/status-zbrane-kategorie-c-i-po-1-lednu-2026-a-zachovani-prav-drzitelu-zbrani-kategorie-c-i.aspx",
+    "file": "sources/references/status-zbrane-kategorie-c-i-po-1-lednu-2026-a-zachovani-prav-drzitelu-zbrani-kategorie-c-i.pdf",
+    "sha256": "6ad54e9a5a1f7d93d023dfcecd152ff7c974130443c0938fad86946e619ab1bf",
+    "retrievedAt": "2026-10-20T12:35:14.375127+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Stanovisko k výkladu některých institutů nového zákona o zbraních - status zbraně pro náboje typu Flobert + organizace zkoušek",
+    "url": "https://mv.gov.cz/soubor/stanovisko-mv-k-vykladu-nekterych-institutu-noveho-zakona-o-zbranich-flobert-organizace-zkousek.aspx",
+    "file": "sources/references/stanovisko-mv-k-vykladu-nekterych-institutu-noveho-zakona-o-zbranich-flobert-organizace-zkousek.pdf",
+    "sha256": "ce5a2a89dfd60d9f2f05d077afa47c8826e814a27886fa5ada5ac16d55bd341b",
+    "retrievedAt": "2026-10-20T12:35:16.725088+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Stanovisko k zabezpečení zbraní a střeliva podle množství",
+    "url": "https://mv.gov.cz/soubor/stanovisko-mv-k-zabezpeceni-zbrani-a-streliva-podle-mnozstvi.aspx",
+    "file": "sources/references/stanovisko-mv-k-zabezpeceni-zbrani-a-streliva-podle-mnozstvi.pdf",
+    "sha256": "4150ef931dc7de91f443bd14e38d014a9b14ab91e986f272dec3ca7dc32bbeb3",
+    "retrievedAt": "2026-10-20T12:35:16.862904+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Stanovisko - technické požadavky na \"trezory pro zbraně\" podle nového zákona o zbraních",
+    "url": "https://mv.gov.cz/soubor/stanovisko-mv-technicke-pozadavky-na-trezory-pro-zbrane-podle-noveho-zakona-o-zbranich.aspx",
+    "file": "sources/references/stanovisko-mv-technicke-pozadavky-na-trezory-pro-zbrane-podle-noveho-zakona-o-zbranich.pdf",
+    "sha256": "461bfe798f64f852102bc81958495fe289b103172ddbef8830e95da7e0f18867",
+    "retrievedAt": "2026-10-20T12:35:16.989666+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Nová zbraňová legislativa od 1. ledna 2026 a její digitalizace",
+    "url": "https://mv.gov.cz/soubor/nova-zbranova-legislativa-od-1-ledna-2026-a-jeji-digitalizace.aspx",
+    "file": "sources/references/nova-zbranova-legislativa-od-1-ledna-2026-a-jeji-digitalizace.pdf",
+    "sha256": "200b809c97885cde858c7fcee8cb5de23f09cf679ca95536aab5efff9b34b437",
+    "retrievedAt": "2026-10-20T12:35:17.118192+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Odpovědnost provozovatele x správce střelnice a výklad některých pojmů nového zákona o zbraních",
+    "url": "https://mv.gov.cz/soubor/odpovednost-provozovatele-x-spravce-strelnice-a-vyklad-nekterych-pojmu-noveho-zakona-o-zbranich.aspx",
+    "file": "sources/references/odpovednost-provozovatele-x-spravce-strelnice-a-vyklad-nekterych-pojmu-noveho-zakona-o-zbranich.pdf",
+    "sha256": "ff51943cc677085fbd710cd4c54543f446aa2d59cdb268bc4699bae6217bdca8",
+    "retrievedAt": "2026-10-20T12:35:17.262472+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Možnost krátkodobého uložení střelné zbraně ve vozidle",
+    "url": "https://mv.gov.cz/soubor/stanovisko-mv-k-moznosti-kratkodobeho-ulozeni-strelne-zbrane-ve-vozidle.aspx",
+    "file": "sources/references/stanovisko-mv-k-moznosti-kratkodobeho-ulozeni-strelne-zbrane-ve-vozidle.pdf",
+    "sha256": "699f89e2deb5901d7b67642cc92cd3cd89bcea45dd72034e16067844e713c174",
+    "retrievedAt": "2026-10-20T12:35:19.675508+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Stanovisko ke kategorizaci palné zbraně v rámci nové kategorie NO nebo PO a dalším otázkám souvisejícím s novým zákonem o zbraních",
+    "url": "https://mv.gov.cz/soubor/stanovisko-mv-ke-kategorizaci-palne-zbrane-v-ramci-nove-kategorie-no-nebo-po-a-dalsim-souvisejicim-otazkam.aspx",
+    "file": "sources/references/stanovisko-mv-ke-kategorizaci-palne-zbrane-v-ramci-nove-kategorie-no-nebo-po-a-dalsim-souvisejicim-otazkam.pdf",
+    "sha256": "1c90f7663919fbc85a9243d73acb9c00d43e62e669063fef947d52e5531d29c2",
+    "retrievedAt": "2026-10-20T12:35:19.805631+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Funkce správce střelnice po 1. lednu 2026",
+    "url": "https://mv.gov.cz/soubor/funkce-spravce-strelnice-po-1-lednu-2026.aspx",
+    "file": "sources/references/funkce-spravce-strelnice-po-1-lednu-2026.pdf",
+    "sha256": "d42e367493147db2c3cb58a657c493cebef0c7a38f57b544f02119463620ae37",
+    "retrievedAt": "2026-10-20T12:35:19.934412+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Podmínky pro výrobu zbraní (současné) kategorie D",
+    "url": "https://mv.gov.cz/soubor/podminky-pro-vyrobu-zbrani-soucasne-kategorie-d.aspx",
+    "file": "sources/references/podminky-pro-vyrobu-zbrani-soucasne-kategorie-d.pdf",
+    "sha256": "a569586d72dbd03da1676c5ccfa0eb9bba7171ecf705e44f3da8c98d34fe4611",
+    "retrievedAt": "2026-10-20T12:35:20.055773+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Soubor testových otázek pro teoretickou část zkoušky odborné způsobilosti a komisionální zkoušky",
+    "url": "https://mv.gov.cz/soubor/mv-soubor-testovych-otazek-pro-teoretickou-cast-zkousky-odborne-zpusobilosti-a-komisionalni-zkousku.aspx",
+    "file": "sources/references/mv-soubor-testovych-otazek-pro-teoretickou-cast-zkousky-odborne-zpusobilosti-a-komisionalni-zkousku.pdf",
+    "sha256": "edd539efc9e504f067d9f5b9409475935a08938c02fbb41c768b1a3f205a04a4",
+    "retrievedAt": "2026-10-20T12:35:23.604705+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Doplněné a aktualizované stanovisko k průběhu zkoušek odborné způsobilosti po 1. lednu 2026",
+    "url": "https://mv.gov.cz/soubor/doplnene-a-aktualizovane-stanovisko-k-prubehu-zkousek-odborne-zpusobilosti-po-1-lednu-2026.aspx",
+    "file": "sources/references/doplnene-a-aktualizovane-stanovisko-k-prubehu-zkousek-odborne-zpusobilosti-po-1-lednu-2026.pdf",
+    "sha256": "9fafc462dbf7b20f5c2674a1bd3f0ed650f2b95abf5d025116619e53f426b63d",
+    "retrievedAt": "2026-10-20T12:35:23.801867+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ČČK: Standardy první pomoci, edice 2023 se změnami 2026",
+    "url": "https://www.cervenykriz.eu/files/files/cz/standardy/standardy-prvni-pomoci-2023-ZL2026.pdf",
+    "file": "sources/references/standardy-prvni-pomoci-2023-ZL2026.pdf",
+    "sha256": "f935278c61348859987664a06f0d78cd0d6725dcddf368c3cfe6f772793a5f86",
+    "retrievedAt": "2026-10-20T12:35:23.932957+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ČČK: Základní vyšetření zraněné nebo nemocné osoby (změna 2026)",
+    "url": "https://www.cervenykriz.eu/files/files/nastenka/ZMEN_LIST_SPP/1_2_Zakladni_vysetreni.pdf",
+    "file": "sources/references/1_2_Zakladni_vysetreni.pdf",
+    "sha256": "1513a10a02bc68fa9edb6445a1864f6d07ca2a5c3a7ff941f8d739870a918ce3",
+    "retrievedAt": "2026-10-20T12:35:24.026433+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ČČK: Základní neodkladná resuscitace dospělých (změna 2026)",
+    "url": "https://www.cervenykriz.eu/files/files/nastenka/ZMEN_LIST_SPP/2_1_KPR_dospely.pdf",
+    "file": "sources/references/2_1_KPR_dospely.pdf",
+    "sha256": "651a3855406ae5a7d51764bb39f4940e422c935ba39cdc69c6a3d3f7a3a02ac2",
+    "retrievedAt": "2026-10-20T12:35:24.133632+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ČČK: Základní neodkladná resuscitace dětí (změna 2026)",
+    "url": "https://www.cervenykriz.eu/files/files/nastenka/ZMEN_LIST_SPP/2_2_KPR_deti.pdf",
+    "file": "sources/references/2_2_KPR_deti.pdf",
+    "sha256": "7cb71888c36e71d0e38f39a0362f278fba2dc6d128c486629fca497b024651bf",
+    "retrievedAt": "2026-10-20T12:35:24.238520+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ČČK: Základní neodkladná resuscitace s použitím AED (změna 2026)",
+    "url": "https://www.cervenykriz.eu/files/files/nastenka/ZMEN_LIST_SPP/2_3_Pouziti_AED.pdf",
+    "file": "sources/references/2_3_Pouziti_AED.pdf",
+    "sha256": "5476de3c3146f2249908a03191dbc038307546c91f9d91db91bf221f1b8982db",
+    "retrievedAt": "2026-10-20T12:35:24.352278+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ČČK: Bezvědomí (změna 2026)",
+    "url": "https://www.cervenykriz.eu/files/files/nastenka/ZMEN_LIST_SPP/2_4_Bezvedomi.pdf",
+    "file": "sources/references/2_4_Bezvedomi.pdf",
+    "sha256": "ffeba06087fabd4f6f87c05142275780340af862de86d3bca74aae7e4c3f09bf",
+    "retrievedAt": "2026-10-20T12:35:24.448857+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ČČK: Zástava masivního zevního krvácení (změna 2026)",
+    "url": "https://www.cervenykriz.eu/files/files/nastenka/ZMEN_LIST_SPP/2_5_Masivni_krvaceni.pdf",
+    "file": "sources/references/2_5_Masivni_krvaceni.pdf",
+    "sha256": "adebe2ce76e4d7afd73efe38f5761297f4daa87927f5a7c634a11e0cce78315d",
+    "retrievedAt": "2026-10-20T12:35:24.550484+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ČČK: Tonutí (změna 2026)",
+    "url": "https://www.cervenykriz.eu/files/files/nastenka/ZMEN_LIST_SPP/2_7_Tonuti.pdf",
+    "file": "sources/references/2_7_Tonuti.pdf",
+    "sha256": "4e498975fc29a3ff44b2fa5c10fc4894dbc0cd062e3354d123f700bbbf52bcc9",
+    "retrievedAt": "2026-10-20T12:35:24.656295+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ČČK: Úpal a úžeh – přehřátí organismu (změna 2026)",
+    "url": "https://www.cervenykriz.eu/files/files/nastenka/ZMEN_LIST_SPP/5_2_Prehrati.pdf",
+    "file": "sources/references/5_2_Prehrati.pdf",
+    "sha256": "d4577c51b4533248f845402bae441968b75bb594d0bbd40d3f4204a25c1cd03b",
+    "retrievedAt": "2026-10-20T12:35:24.763839+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "Listina základních práv a svobod (2/1993 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/1993/2?zalozka=text",
+    "file": "sources/references/law-1993-2.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-1993-2.txt",
+      "sha256": "2dc2c4ec6f3a95a9ba2a47f76766b0b41f4e99f5be021de2ac8d7885e836082c",
+      "retrievedAt": "2026-10-20T12:58:42.160Z",
+      "characters": 21627,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Trestní zákoník (40/2009 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/2009/40?zalozka=text",
+    "file": "sources/references/law-2009-40.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2009-40.txt",
+      "sha256": "36adbb3d99f4a47f37b88ec84516f4fc9d8ba464a2cf171bcc358235e07257f8",
+      "retrievedAt": "2026-10-20T12:58:44.867Z",
+      "characters": 444686,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Zákon o nakládání se zbraněmi v některých případech ovlivňujících vnitřní pořádek a bezpečnost (14/2021 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/2021/14?zalozka=text",
+    "file": "sources/references/law-2021-14.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2021-14.txt",
+      "sha256": "329bb820051729a75dcc47a18f3ef64147fa3fc74241ee7f798704a651362954",
+      "retrievedAt": "2026-10-20T12:58:47.126Z",
+      "characters": 30263,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Zákon o ověřování střelných zbraní a střeliva (156/2000 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/2000/156?zalozka=text",
+    "file": "sources/references/law-2000-156.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2000-156.txt",
+      "sha256": "8daf484fafdf30332c2b61198e32b533b3a7ee96b15c5cb26c2abcea3d2be600",
+      "retrievedAt": "2026-10-20T12:58:49.149Z",
+      "characters": 41379,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Zákon o kontrole obchodu s výrobky, jejichž držení se v České republice omezuje z bezpečnostních důvodů (228/2005 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/2005/228?zalozka=text",
+    "file": "sources/references/law-2005-228.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2005-228.txt",
+      "sha256": "ad0b3495ec13d7216b5c12b4c44246e2e55f05724535dd60a512ffe3be1ab4b0",
+      "retrievedAt": "2026-10-20T12:58:51.477Z",
+      "characters": 40633,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Zákon o zahraničním obchodu s vojenským materiálem (38/1994 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/1994/38?zalozka=text",
+    "file": "sources/references/law-1994-38.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-1994-38.txt",
+      "sha256": "7adecc09629f1a19d0592f085678a932912984f9e0536e3bcf1ae1f79991e8a4",
+      "retrievedAt": "2026-10-20T12:58:53.846Z",
+      "characters": 66600,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Zákon o myslivosti (449/2001 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/2001/449?zalozka=text",
+    "file": "sources/references/law-2001-449.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2001-449.txt",
+      "sha256": "666add36ed2288b643f9b8a30c544b00151ea4a9f2b899b74ca21d300acade78",
+      "retrievedAt": "2026-10-20T12:58:56.214Z",
+      "characters": 109772,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Veterinární zákon (166/1999 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/1999/166?zalozka=text",
+    "file": "sources/references/law-1999-166.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-1999-166.txt",
+      "sha256": "9e707a06cb11d9abba03abb80fe88db7f8b6476a714825d207546b81c5115ac7",
+      "retrievedAt": "2026-10-20T12:58:58.745Z",
+      "characters": 406768,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Nařízení vlády k nakládání se zbraněmi v některých případech ovlivňujících vnitřní pořádek nebo bezpečnost (255/2021 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/2021/255?zalozka=text",
+    "file": "sources/references/law-2021-255.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2021-255.txt",
+      "sha256": "b4700d4921d661de3237b531a99c2b99004a227119e1d64706a9113c7b71b7b5",
+      "retrievedAt": "2026-10-20T12:59:00.868Z",
+      "characters": 38650,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Vyhláška provádějící zákon o ověřování střelných zbraní a střeliva (335/2004 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/2004/335?zalozka=text",
+    "file": "sources/references/law-2004-335.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2004-335.txt",
+      "sha256": "d7b6b6cd52079b07f801b8bd5b6b89e5da772f43fb1f34ac8a4171489b5c2511",
+      "retrievedAt": "2026-10-20T12:59:03.130Z",
+      "characters": 75021,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Zákon o munici (91/2024 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/2024/91?zalozka=text",
+    "file": "sources/references/law-2024-91.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2024-91.txt",
+      "sha256": "0b622a4e116370c7bc38bf662bbb0cb1e8cdb68232eb9f30218ba238101f3225",
+      "retrievedAt": "2026-10-20T12:59:05.341Z",
+      "characters": 90472,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "Zákon o specifických zdravotních službách (373/2011 Sb.)",
+    "url": "https://www.e-sbirka.cz/sb/2011/373?zalozka=text",
+    "file": "sources/references/law-2011-373.html",
+    "status": "rendered-official-text",
+    "renderedText": {
+      "file": "sources/references/law-2011-373.txt",
+      "sha256": "b0f2a46f9f0684f93aa3a982f8693ad9748130629c42fc7d24684aaaf264fe8e",
+      "retrievedAt": "2026-10-20T13:28:05.696Z",
+      "characters": 196610,
+      "note": "Rendered official page text; includes page navigation. Verify completeness and effective version before editorial use."
+    }
+  },
+  {
+    "title": "ČÚZZS: Zkušební značky zbraní a střeliva",
+    "url": "https://www.cuzzs.cz/userfiles/documents/Zkusebni_%20znacky.pdf",
+    "file": "sources/references/cuzzs-proof-marks.pdf",
+    "sha256": "cf8d64f1de54b76443f702d36de678111977f3d16a709453b6043c99a3c5dd02",
+    "retrievedAt": "2026-10-20T13:30:15.035383+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ČÚZZS: Ověřování zbraní pro střelbu ocelovými broky",
+    "url": "https://cuzzs.gov.cz/userfiles/documents/Informace_ocel_broky.pdf",
+    "file": "sources/references/cuzzs-steel-shot.pdf",
+    "sha256": "93951df3264bc69dab8fb7720b9bc628bf213d652b69acd2174efdd8c9fe778a",
+    "retrievedAt": "2026-10-20T13:30:15.035601+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "AFTE: Technical glossary, version 6.07302025 (technical terminology, not Czech law)",
+    "url": "https://afte.org/wp-content/uploads/2025/08/AFTE-Glossary-Version-6.07302025-Current.pdf",
+    "file": "sources/references/afte-glossary-2025.pdf",
+    "sha256": "c453374b65af94e1ce25843fbb6cd054092da73e47b2a58b87fb611e1fcfb960",
+    "retrievedAt": "2026-10-20T13:31:47.542523+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "C.I.P.: TDCC shotgun cartridge dimensions, calibre 12",
+    "url": "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/12-55-en.pdf",
+    "file": "sources/references/cip-12-gauge.pdf",
+    "sha256": "59da485bc7b069dbd8b75cfbce4c68b1a7219c2679c30f069c929c340551424c",
+    "retrievedAt": "2026-10-20T13:44:12.062046+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "C.I.P.: TDCC shotgun cartridge dimensions, calibre 16",
+    "url": "https://bobp.cip-bobp.org/uploads/tdcc/tab-vii/tabviical-en-page6.pdf",
+    "file": "sources/references/cip-16-gauge.pdf",
+    "sha256": "b9a479353610f34a143bb665d4ce725b9277d68967b9135659b4fdca2427caa2",
+    "retrievedAt": "2026-10-20T13:44:12.062113+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "TIS VFN: ABC otrav (2002; poison-specific first-aid reference)",
+    "url": "https://www.tis-cz.cz/images/stories/PDFs/ABCotrav.pdf",
+    "file": "sources/references/tis-abc-poisoning.pdf",
+    "sha256": "b94246ec50d4ced63e09e59d9f6b5b46344ee6b856cce620511e6fc04eb11eb2",
+    "retrievedAt": "2026-10-20T13:44:40.681951+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ZZS HMP: Volání na linku 155",
+    "url": "https://www.zzshmp.cz/prvni-pomoc/volani-na-linku-155/",
+    "file": "sources/references/zzs-prague-call-155.html",
+    "sha256": "7875214dae9a03bfae8e1e6153288c31f34bb48ad68a9826226552c67174cc63",
+    "retrievedAt": "2026-10-20T13:44:40.681951+00:00",
+    "status": "downloaded-html",
+    "renderedText": {
+      "file": "sources/references/zzs-prague-call-155.txt",
+      "sha256": "b9ff03bc2296a694526abc985df49bdf84510950e2c39b90b98016253a3424ac"
+    }
+  },
+  {
+    "title": "TIS VFN: Zásady pro poskytování první pomoci při expozici chemickým látkám",
+    "url": "https://www.tis-cz.cz/images/stories/PDFs/prvni-pomoc-chemie.pdf",
+    "file": "sources/references/tis-chemical-first-aid.pdf",
+    "sha256": "a77442841e94e14723610564b85512890efc1e8e379be40aac7f89c876a1768f",
+    "retrievedAt": "2026-10-20T13:46:29.203830+00:00",
+    "status": "downloaded-pdf"
+  },
+  {
+    "title": "ZZS HMP: Orientační body",
+    "url": "https://www.zzshmp.cz/prvni-pomoc/orientacni-body/",
+    "file": "sources/references/zzs-prague-landmarks.html",
+    "sha256": "57aba6fffdb2e4cf5ec1a035b60f8b32bb0e999ef2a3661d53b287bae58694ea",
+    "retrievedAt": "2026-10-20T13:46:29.203916+00:00",
+    "status": "downloaded-html",
+    "renderedText": {
+      "file": "sources/references/zzs-prague-landmarks.txt",
+      "sha256": "092bcfd7cf2e74e0549d98e861ed9ab88f15c9d6b4c0e3f753a225614ba1ffd9"
+    }
+  },
+  {
+    "title": "TIS VFN: Obchodní přípravky – první pomoc při požití",
+    "url": "https://tis.vfn.cz/index.php/informace-pro-verejnost/obchodni-pripravky-1",
+    "file": "sources/references/tis-household-products.html",
+    "sha256": "8bdfab53f18bf915498a5ac7d0ff33804cbd3eed59d881f8459e2da26dbd11b4",
+    "retrievedAt": "2026-10-20T13:46:29.207095+00:00",
+    "status": "downloaded-html",
+    "renderedText": {
+      "file": "sources/references/tis-household-products.txt",
+      "sha256": "db58e32dc8cdac61e577498d718c5cbfba725b3e7a3ceef08899f596ddaadf0b"
+    }
+  }
+]

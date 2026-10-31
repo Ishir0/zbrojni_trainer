@@ -1,0 +1,21 @@
+{
+  "manualKeyChecks": {
+    "716": "A, grey-highlighted on page 190",
+    "717": "B, grey-highlighted on page 191"
+  },
+  "source": "official-questions.pdf",
+  "sha256": "edd539efc9e504f067d9f5b9409475935a08938c02fbb41c768b1a3f205a04a4",
+  "extractedAt": "2026-10-20T12:49:19.246270+00:00",
+  "count": 837,
+  "topicCounts": {
+    "Zákon o zbraních a střelivu": 561,
+    "Prováděcí právní předpisy": 48,
+    "Jiné právní předpisy": 39,
+    "Nauka o zbraních a střelivu": 151,
+    "Zdravotnické minimum": 38
+  },
+  "illustratedQuestions": 71,
+  "method": "Poppler XML preserves italic official key markers; exactly one marked option per question; independent layout text numbering cross-check. Not a full manual editorial audit.",
+  "issues": [],
+  "explanationReview": "All pending; no AI-certified legal/medical explanations."
+}

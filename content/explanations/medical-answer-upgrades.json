@@ -1,0 +1,38 @@
+[
+  {
+    "questionId": "q-802",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "evidenceBasis": "official-answer",
+    "concise": "Při krátké mdlobě, když se člověk rychle probere, necháme ho vleže, klidně s ním komunikujeme a uvolníme mu oděv. Okamžité posazení, jídlo či napití nebo bolestivé „probouzení“ nejsou vhodným prvním krokem; další poloha se řídí příčinou a stavem postiženého.",
+    "simpler": "Po mdlobě nechte člověka v klidu vleže a sledujte, jak se cítí. Nohy nezvedejte automaticky; rozhoduje příčina.",
+    "optionReasoning": {
+      "A": "Posazení, jídlo a pití nejsou vhodný okamžitý postup po mdlobě.",
+      "B": "Správně: postiženého ponecháme v klidu vleže a sledujeme jeho stav; polohu nohou neurčujeme univerzálně.",
+      "C": "Polévání a údery jsou bolestivé podněty, nikoli bezpečné probouzení."
+    },
+    "decisiveDetail": "Klid a sledování po rychlém nabytí vědomí; ne posazování, jídlo ani bolestivé podněty.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna"
+  },
+  {
+    "questionId": "q-824",
+    "datasetVersion": "mv-2026-edd539efc9e5",
+    "correctOptionId": "B",
+    "status": "ai-draft",
+    "evidenceBasis": "official-answer",
+    "concise": "U mdloby volejte záchrannou službu, pokud se stav rychle neupravuje nebo se ztráta vědomí opakuje. Tyto situace mohou ukazovat na závažnější příčinu; možnost B uvádí varovné případy, nikoli úplný seznam všech důvodů k přivolání pomoci.",
+    "simpler": "Volejte 155, pokud se člověk rychle neprobírá nebo mdloby opakovaně nastávají.",
+    "optionReasoning": {
+      "A": "„Vždy“ je příliš široké tvrzení vzhledem k rychle odeznělé mdlobě bez varovných známek.",
+      "B": "Správně: přetrvávající nebo opakované bezvědomí jsou důvody přivolat ZZS.",
+      "C": "Přivolání pomoci není podmíněno tím, že zachránce má vlastní mobilní telefon."
+    },
+    "decisiveDetail": "Neúplné rychlé zotavení nebo opakovaná ztráta vědomí.",
+    "sources": [],
+    "issues": [],
+    "model": "gpt-6-luna"
+  }
+]

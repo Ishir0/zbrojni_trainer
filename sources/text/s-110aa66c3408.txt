@@ -1,0 +1,3478 @@
+STANDARDY
+PRVNÍ
+POMOCI
+
+
+
+
+KOLEKTIV AUTORŮ
+      STANDARDY PRVNÍ POMOCI
+Standardy první pomoci vydal Český červený kříž v roce 2002 jako závaznou metodickou
+pomůcku pro výuku první pomoci laiků na území ČR po schválení Ministerstvem
+zdravotnictví ČR, Ministerstvem obrany ČR, Ministerstvem vnitra ČR, Ministerstvem školství,
+mládeže a tělovýchovy ČR a Ministerstvem dopravy a spojů ČR.
+
+
+Revidované vydání odráží rozvoj vědeckého poznání v oblasti předlékařské první pomoci.
+
+
+S ohledem na vydání doporučení Evropské resuscitační rady (2025)
+jsou od 1.1.2026 upraveny vydáním změnových listů následující
+standardy: 1.2, 2.1, 2.2, 2.3, 2.4, 2.5, 2.7 a 5.2.
+Interaktivvní odkazy na změnové listy najdete v tomto souboru
+u příslušných standardů nebo si je můžete stáhnout na adrese
+www.cervenykriz.eu/standardy-poskytovani-pp
+
+Revidované znění Standardů bude vydáno v závěru roku 2026.
+
+
+
+
+STANDARDY PRVNÍ POMOCI
+KOLEKTIV AUTORŮ
+MUDr. Juljo Hasík, MUDr. Pavel Srnský, MUDr. Josef Škola, MUDr. Karel Štěpánek,
+MUDr. Petra Totzauer Vladyková, MUDr. Petr Vlk
+ODBORNÁ RECENZE
+SPOLEČNOST URGENTNÍ MEDICÍNY A MEDICÍNY KATASTROF ČLS JEP
+MUDr. Ondřej Franěk
+ČESKÁ PEDIATRICKÁ SPOLEČNOST ČLS JEP
+doc. MUDr. Jozef Hoza, CSc.
+SPOLEČNOST KRIZOVÉ PŘIPRAVENOSTI ZDRAVOTNICTVÍ ČLS JEP
+MUDr. Josef Štorek, Ph.D.
+STANDARDY PRVNÍ
+POMOCI
+
+
+
+ÚVOD                                      4    2. 5. Zástava masivního zevního
+                                                krvácení                                 19
+
+DEFINICE PRVNÍ POMOCI                     5    2. 6. Vnitřní krvácení a prevence šoku   21
+                                                2. 7. Tonutí                             22
+
+JAK UČIT PRVNÍ POMOC                      6    2. 8. Úraz elektrickým proudem           24
+                                                2. 9. Uzávěr dýchacích cest cizím
+                                                tělesem                                  25
+1. OBECNÝ POSTUP PRVNÍ POMOCI
+1. 1. Zásady bezpečnosti při poskytování        3. PRVNÍ POMOC PŘI ZÁVAŽNÉM ÚRAZU
+pomoci                                    8    3. 1. Mozkolebeční poranění              27
+1. 2. Základní vyšetření zraněné nebo           3. 2. Poranění hrudníku                  28
+nemocné osoby                             9
+                                                3. 3. Poranění břicha                    29
+1. 3. Přivolání odborné pomoci            10
+                                                3. 4. Poranění pánve                     30
+
+2. PRVNÍ POMOC U STAVŮ BEZPROSTŘEDNÍHO
+                                                4. PRVNÍ POMOC U JINÝCH ÚRAZOVÝCH STAVŮ
+OHROŽENÍ ŽIVOTA
+                                                4. 1. Poranění páteře                    32
+2. 1. Základní neodkladná resuscitace
+dospělých                                 12   4. 2. Poranění končetin                  33
+2. 2. Základní neodkladná resuscitace           4. 3. Ošetření ran                       34
+dětí                                      14   4. 4. Úrazové amputace                   36
+2. 3. Základní neodkladná resuscitace           4. 5. Poranění očí                     36
+s použitím automatického externího
+                                                4. 6. Uštknutí hadem, kousnutí či bodnutí
+defibrilátoru                             16
+                                                exotickým hmyzem                        37
+2. 4. Bezvědomí                           18
+5. PRVNÍ POMOC PŘI POŠKOZENÍ TEPLEM A CHLADEM   9. PRVNÍ POMOC U NEÚRAZOVÝCH STAVŮ
+5. 1. Popáleniny                         39    V DĚTSKÉM VĚKU
+
+5. 2. Úpal a úžeh                        40    9. 1. Horečka u dítěte                  63
+
+5. 3. Omrzliny                           41    9. 2. Záchvat křečí u dítěte            64
+
+5. 4. Podchlazení                        42    9. 3. Stavy dechové tísně u dítěte      65
+                                                9. 4. Meningokoková infekce             67
+
+6. PRVNÍ POMOC PŘI POLEPTÁNÍ             43    9. 5. Cizí těleso v těle dítěte         68
+                                                9. 6. Bolesti břicha u dítěte           69
+7. PRVNÍ POMOC PŘI OTRAVÁCH                     9. 7. Průjmová onemocnění u dítěte      70
+7. 1. Univerzální pravidla první pomoci při
+podezření na otravu                      45    10. POROD MIMO ZDRAVOTNICKÉ ZAŘÍZENÍ –
+7. 2. Otravy plyny                       45    OŠETŘENÍ RODIČKY A NOVOROZENCE          71
+7. 3. Otravy léky                        46
+                                                11. NÁHLE VZNIKLÉ PORUCHY CHOVÁNÍ
+7. 4. Otravy houbami                     47
+                                                11. 1. Obecný postup                    73
+7. 5. Otravy ostatními jedy              48
+                                                11. 2. Agresivita                       74
+8. PRVNÍ POMOC U NEÚRAZOVÝCH STAVŮ              11. 3. Deprese, sebevražedné
+DOSPĚLÝCH OSOB                                  myšlenky                                75
+8. 1. Krátkodobé poruchy vědomí          50    11. 4. Zmatenost, halucinace, bludy     76
+8. 2. Křečové stavy                      51    11. 5. Panický záchvat, panická
+8. 3. Náhle vzniklé poruchy hybnosti a řeči     porucha                                 77
+                                        52     11. 6. Osoba pod vlivem drog            79
+8. 4. Náhle vzniklá bolest na hrudi      53    11. 7. Osoba pod vlivem alkoholu        79
+8. 5. Stavy dušnosti                     54
+                                                12. POLOHOVÁNÍ RANĚNÝCH
+8. 6. Bolesti břicha                     55
+                                                A NEMOCNÝCH OSOB                        80
+8. 7. Dehydratace a průjmová onemocnění
+                                     56
+                                                13. HROMADNÝ VÝSKYT RANĚNÝCH
+8. 8. Naléhavé stavy při cukrovce        57
+                                                13. 1. Zásady třídění                   81
+8. 9. Krvácení z tělesných otvorů        59
+                                                13. 2. Teroristický útok                82
+8. 10. Alergická reakce                  61
+8. 11. Přisáté klíště                    62
+4    STANDARDY PRVNÍ POMOCI
+
+
+
+
+    ÚVOD
+Standardy první pomoci nejsou učebnicí, ale příručkou pro lektory, kteří ji vyučují.
+Jsou dílem lékařů, kteří buď pracují ve zdravotnické záchranné službě, nebo se
+problematikou první pomoci soustavně zabývají. Stanovují obvyklé (standardní)
+postupy vhodné a určené pro obvyklé situace první pomoci. Nepředstavují však
+nepřekročitelné dogma. Tak jako nastalá situace může být zcela netypická, i způsob
+jejího řešení (první pomoci) může být „nestandardní“. Vždy však platí, že pro
+odchýlení se od standardu by měl být závažný důvod.
+
+Laická první pomoc neztratila na významu ani v době existence profesionální
+zdravotnické záchranné služby s celostátní působností. Ba právě naopak,
+součinnost s profesionály zvyšuje její efektivitu. Vždy bude prvním článkem
+záchranného řetězce. Zcela nezastupitelná je v život ohrožujících stavech, kdy
+o přežití postiženého rozhodují první minuty po příhodě. Její přínos nespočívá jen
+v přímé záchraně životů. V mnoha případech vede k omezení komplikací, někdy
+rozhoduje o budoucí invaliditě a téměř vždy je hojivým balzámem na duši jedince
+stresovaného náhle vzniklou poruchou zdraví.
+
+Její náplň se postupně mění. Dnešní pojetí upřednostňuje účelnost ošetření, ne
+krásu obvazu.
+
+Stále více zahrnuje doporučení, jak postupovat v případě náhlých onemocnění.
+Tyto situace sice na první pohled nejsou dramatické, ale při správném postupu lze
+nemocnému prospět podstatně více než znehybněnou zlomeninou.
+
+Moderní medicína v řadě případů dokáže dříve nemyslitelné. Dříve invalidizující
+srdeční infarkt či cévní mozková příhoda dnes při včasném nemocničním ošetření
+umožní zachování plnohodnotného života. Základní podmínkou pro takový postup
+ale je rozpoznání onemocnění v jeho počátku – tedy v rámci laické první pomoci.
+                                                                              5
+
+   DEFINICE PRVNÍ POMOCI
+První pomoc je okamžitá pomoc poskytnutá zraněnému nebo nemocnému člověku
+před jeho kontaktem s profesionální zdravotní péčí. Týká se nejen problematiky
+poranění či nemoci, ale veškeré péče, včetně psychosociální podpory postiženého
+nebo svědků události.
+                               Hlavním cílem výuky první
+
+
+
+JAK UČIT
+                               pomoci je motivace našich
+                               účastníků, podpora jejich
+                               ochoty pomoci a jejich
+                               sebedůvěry. K tomu
+
+
+PRVNÍ
+                               vede snaha o co největší
+                               zjednodušení veškerých
+                               postupů, aby byla míra
+                               zapamatování jednotlivých
+
+
+POMOC
+                               principů, a tím i ochota
+                               poskytnout první pomoc co
+                               největší.
+
+
+
+
+      Pomáhat ostatním je jednou         Obsahem výuky je
+      ze základních hodnot               komplex znalostí
+      a principů lidské společnosti.     a zejména dovedností.
+      První pomoc je bezprostřední       Smyslem má být
+      pomoc zraněnému či                 trénink, zažití
+      nemocnému v situaci, která         jednotlivých postupů
+      může v životě potkat kohokoli      se zaměřením na život
+      a která často vzbuzuje strach      zachraňující úkony,
+      a obavy. Ve svém principu          nikoli záplava faktů,
+      nevyžaduje žádné speciální         odborných termínů;
+      (či jen zcela minimální)           nejedná se o výuku
+      vybavení a jako taková –           medicíny, ale základní
+      přístupná a srozumitelná           první pomoci.
+      široké populaci – by měla být
+      vyučována.
+                                       Testování znalostí
+                                       a dovedností musí
+                                       být vždy následované
+                                       rozborem a správným
+                                       řešením; cílem
+                                       není „eliminovat       Klíčovým
+                                       neschopné“, ale        předpokladem
+                                       poskytnout kvalitní    kvalitní výuky je
+                                       zpětnou vazbu všem     osobnost lektora.
+                                       účastníkům a pomoci    Dobrý lektor má první
+                                       s pochopením           pomoci nejen dobře
+                                       základních principů.   rozumět a prakticky
+                                       Příležitost zažít      ji ovládat, ale být
+                                       možnou chybu je        i dobrým pedagogem
+                                       podporou dalšího       a průvodcem svých
+                                       správného postupu.     posluchačů.
+
+
+
+
+Doporučení a závěry mají být
+srozumitelné a jednoznačné, nesmí
+zanechávat studenta ve zmatku
+či na pochybách. Látku je třeba
+vysvětlit srozumitelně (česky),
+v logických posloupnostech, s užitím
+vhodných příkladů. Výuka musí být
+zajímavá a co nejvíce praktická
+(ukázky, nácviky, simulace), každý
+účastník musí dostat prostor
+k dostatečnému osvojení základních
+dovedností se zaměřením na život
+zachraňující úkony. Opakovaným
+prožitím různých situací získávají
+posluchači sebedůvěru a schopnost
+opravdu pomoci v reálné situaci.
+Odborná doporučení (též nazývaná
+„guidelines“) tvoří podklad výuky,
+nikoli její finální podobu; jsou
+vodítkem lektorovi, nikoli učebním
+textem laika.
+                                                                                      8
+
+    1. OBECNÝ POSTUP PRVNÍ POMOCI                                                           1
+    1. 1. ZÁSADY BEZPEČNOSTI PŘI POSKYTOVÁNÍ POMOCI
+VLASTNÍMU POSKYTNUTÍ PRVNÍ POMOCI V ŘADĚ PŘÍPADŮ PŘEDCHÁZÍ ZÁCHRANNÁ AKCE
+NEBO TECHNICKÁ PRVNÍ POMOC. ZACHOVÁNÍ BEZPEČNOSTI ZACHRÁNCE JE PRIORITA.
+ZACHRÁNCE PROTO MUSÍ KONAT ROZVÁŽNĚ, S OHLEDEM NA VLASTNÍ BEZPEČNOST.
+
+NEBEZPEČÍ PRO ZACHRÁNCE (I DALŠÍ OSOBY) JE SPOJENO ZEJMÉNA S TĚMITO SITUACEMI:
+e dopravní nehoda
+e požár
+e prostředí zamořené jedovatými látkami (plyn, oxid uhelnatý)
+e zásahy ve vodě
+e úrazy elektrickým proudem
+e nakažlivé onemocnění zachraňované osoby
+e agresivní osoba
+
+DOPORUČENÝ POSTUP:
+e Zachránce před zahájením vlastních úkonů první pomoci zhodnotí situaci
+   a rizika pro bezpečnost svou i ostatních osob. Laický zachránce není povinen
+   první pomoc poskytnout, pokud tak nemůže učinit bez nebezpečí pro sebe či
+   jiného. Pokud se rozhodne pomoc poskytnout, závisí postup na typu situace:
+
+DOPRAVNÍ NEHODA:
+e zastavení v bezpečné vzdálenosti, rozsvícení výstražných světel
+e umístění spolucestujících osob (dětí) za svodidla
+e oblečení reflexní vesty, umístění výstražného trojúhelníku ve vhodné vzdálenosti
+e vypnutí zapalování havarovaného vozidla, zatažení ruční brzdy
+e zamezení kouření a manipulace s ohněm
+
+OSOBA V OHNISKU POŽÁRU:
+e mokrá tkanina (ručník, utěrka, šátek apod.) přes ústa
+e přilba nebo improvizovaná ochrana hlavy
+e ochrana rukou (rukavice, omotání ručníkem, utěrkou, šátkem apod.) a nohou
+   (kompaktní kožená obuv)
+
+PROSTŘEDÍ ZAMOŘENÉ PLYNEM:
+e otevření (v nouzi rozbití) oken a dveří, vytvoření průvanu
+
+ZÁSAHY VE VODĚ (TONUTÍ):
+e kdykoli je to možné, pokusí se zachránce o záchranu, aniž musí vstoupit do vody
+   (podáním větve, hozením provazu, záchranného kruhu), případně pro záchranu
+   využije loďky
+e je-li nezbytné vstoupit do vody, jistí se při tom zachránce pokud možno lanem ze břehu
+     9    STANDARDY PRVNÍ POMOCI
+
+
+
+
+1 ÚRAZ ELEKTRICKÝM PROUDEM:
+  e přerušení kontaktu zraněného s vodičem (vypnutí spotřebiče, vytažení šňůry,
+        vypnutí jističe)
+     e v případě vedení vysokého napětí hrozí výboj do vzdálenosti několika metrů –
+        zachránce se nepřibližuje, dokud prokazatelně neví, že byl elektrický proud odpojen
+
+     NAKAŽLIVÉ ONEMOCNĚNÍ POSTIŽENÉHO:
+     e nelze zpravidla nikdy vyloučit, zachránce proto vždy postupuje, jako by postižený
+        měl nakažlivé onemocnění (důsledné používání rukavic a resuscitační roušky)
+
+
+
+         1. 2. ZÁKLADNÍ VYŠETŘENÍ ZRANĚNÉ NEBO NEMOCNÉ OSOBY
+     PŘEDPOKLADEM POSKYTNUTÍ PRVNÍ POMOCI JE ORIENTAČNÍ VYŠETŘENÍ. ZACHRÁNCE
+     SI MUSÍ UJASNIT, O JAKÉ POSTIŽENÍ SE JEDNÁ. TEPRVE NA ZÁKLADĚ TOHOTO
+     ZJIŠTĚNÍ MŮŽE VYHODNOTIT NALÉHAVOST PRVNÍ POMOCI A ROZHODNOUT
+     O ZPŮSOBU JEJÍHO PROVEDENÍ.
+                                         Tento standard je dotčen změnou
+     DOPORUČENÝ POSTUP:
+     Zachránce k vyšetření postiženého používá:
+     e pohled – krvavé skvrny na oblečení, rány, velikost a rychlost zvětšování krevních
+     stop na oblečení, příp. podložce, poloha postiženého, barva kůže a rtů (bledost,
+     namodralé zbarvení, zarudnutí), deformity hlavy, trupu, končetin, pánve, porucha
+     hybnosti, třes, křeče, cizí tělesa, zvratky, zbytky požitých látek v okolí postiženého
+     u otrav
+     e poslech – popis okolností vzniku a charakteristika potíží postiženým, informace
+     od případných svědků události, slyšitelné vedlejší zvuky doprovázející dýchání
+     (pískoty, vrzoty, lapavé dechy, chrčivé dýchání)
+     e pohmat – šetrné orientační prohmatání celého těla postiženého, zejména
+     u úrazových stavů bez zbytečné manipulace a provokování bolesti, porucha
+     čití, sevření obou rukou, případně pulz (hmatatelnost, pravidelnost, frekvence)
+     u proškolených zachránců
+
+     A. Příchod na místo – zachránce pátrá po život ohrožujících stavech:
+     e masivní zevní krvácení
+     e porucha vědomí (zachránce osloví postiženého, mírně zatřese jeho ramenem,
+       pokud není v této části těla poraněný)
+     e zachránce zhodnotí, zda postižený normálně dýchá (frekvence, hloubka dechu,
+       případné vedlejší slyšitelné dechové fenomény, např. lapavé dechy, chrčivé
+       dýchání nebo hvízdavý výdech)
+                                                                                    10
+
+Pokud zachránce zjistí život ohrožující stav, neprodleně poskytne první pomoc.
+V opačném případě postupuje dále:
+                                                                                         1
+B. Vyšetření osob se zachovalými základními životními funkcemi:
+e kvalita dýchání (frekvence, hloubka, pískání, chrčení, bublání)
+e barva kůže a sliznice rtů (promodrání, nápadné zčervenání, bledost)
+e známky úrazu – rány (lokalizace, krvácení, cizí tělesa), končetiny (deformity,
+   pohyblivost, čití)
+e obličej (nesouměrnost, spadlý koutek, zvratky, pěna u úst)
+e oči (sledování okolí, šilhání, sevřená víčka, velikost a symetrie zorniček)
+e tep (frekvence, pravidelnost, dobře nebo špatně hmatný)
+e teplota, pocení, třes, křeče, pomočení, pokálení
+
+Následně zachránce poskytne první pomoc dle příslušného standardu.
+
+
+
+    1. 3. PŘIVOLÁNÍ ODBORNÉ POMOCI
+LAICKÁ PRVNÍ POMOC SPOUŠTÍ ZÁCHRANNÝ ŘETĚZEC. JEJÍ STANDARDNÍ SOUČÁSTÍ
+JE I PŘIVOLÁNÍ ZDRAVOTNICKÉ ZÁCHRANNÉ SLUŽBY A PŘEDÁNÍ POSTIŽENÉ OSOBY
+PROFESIONÁLNÍM ZÁCHRANÁŘŮM.
+
+DOPORUČENÝ POSTUP:
+Zachránce na území České republiky upřednostňuje národní tísňovou linku 155
+nebo aplikaci Záchranka (vhodná i k rychlejší lokalizaci postiženého). Zachránce
+použije jednotné evropské číslo tísňového volání 112 v následujících situacích:
+e na území ostatních států Evropy, kde je toto číslo zavedeno
+e v případě, že volání na linku 155 není možné (není signál mobilní sítě)
+
+Zachránce volá na tísňovou linku co nejdříve vždy, když je svědkem náhlého
+zhoršení zdravotního stavu postiženého, závažného úrazu nebo děje, který zřejmě
+bude mít za následek úraz nebo jiné poškození zdraví, a to i v situacích, kdy si není
+jist, zda se o takový stav jedná.
+
+Zachránce sdělí dispečerovi tísňové linky:
+e co se stalo (situace, typ postižení a počet postižených)
+e kde se událost stala
+
+Zachránce dále odpovídá na dotazy dispečera tísňové linky, nikdy nepokládá
+telefon jako první. Po ukončení hovoru zůstává v dosahu telefonu pro případné
+upřesňující dotazy.
+     11   STANDARDY PRVNÍ POMOCI
+
+
+
+
+1 V(telefonicky
+      případě, že dispečer tísňové linky udělí zachránci rady týkající se první pomoci
+                asistovaná neodkladná resuscitace – TANR, telefonicky asistovaná první
+     pomoc – TAPP), plní zachránce tyto pokyny. Pro usnadnění komunikace s dispečerem
+     přepne zachránce svůj mobilní telefon do režimu hands-free (hlasitého odposlechu),
+     pokud je to možné.
+
+     Před příjezdem zdravotnické záchranné služby postupuje zachránce následovně:
+     e poskytne první pomoc postiženému
+     e zajistí podmínky pro přístup posádky k postiženému (např. kontaktní osoba před
+        domem, otevření domu, osvětlení přístupové cesty, uzavření psa nebo jiné volně
+        pobíhající zvěře)
+     e dovyšetří postiženého
+     e pokud to situace umožní, neopouští postiženého a nepřetržitě sleduje jeho stav
+
+     NEVHODNÉ POSTUPY:
+     e zmatené volání, naléhavé vyžadování pomoci
+     e chybné udání místa události
+     e vypnutí či opuštění telefonu (znemožní upřesnění situace)
+     e zamčený dům, chybějící či nesprávná jmenovka na zvonku
+     e nezajištěna kontaktní osoba (zejména v terénu)
+     e volně pobíhající pes
+    12   STANDARDY PRVNÍ POMOCI
+
+
+
+
+         2. PRVNÍ POMOC U STAVŮ BEZPROSTŘEDNÍHO
+         OHROŽENÍ ŽIVOTA
+2        2. 1. ZÁKLADNÍ NEODKLADNÁ RESUSCITACE DOSPĚLÝCH
+    RESUSCITACE JE KŘÍŠENÍ, OŽIVOVÁNÍ VE STADIU KLINICKÉ SMRTI. ZA NÁSTUP KLINICKÉ
+    SMRTI POVAŽUJEME ZÁSTAVU OBĚHU. ZÁSTAVA OBĚHU JE PŘERUŠENÍ OBĚHU KRVE
+    NÁSLEDKEM SELHÁNÍ ČINNOSTI SRDCE JAKO PUMPY.
+                                                      Tento standard je dotčen změnou
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    Srdeční = náhlá zástava oběhu (nejčastější příčina zástavy oběhu u dospělých osob)
+     e onemocnění srdce (ischemická choroba srdeční, infarkt srdeční, srdeční selhání
+        při arytmii)
+     e úraz elektrickým proudem
+
+    Ostatní
+    e dechové (dušení, neprůchodnost dýchacích cest, dechové selhání)
+    e těžké úrazy hrudníku, úrazy spojené s velkou krevní ztrátou
+    e tonutí
+
+    TYPICKÉ PŘÍZNAKY:
+    e náhlá ztráta vědomí (stojící padá, sedící se hroutí, ležící přestává komunikovat),
+       postižený nereaguje na oslovení a mírné zatřesení
+    e porucha dýchání – postižený má lapavé vdechy nebo nedýchá vůbec (nedýchá
+      normálně)
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e během 3–5 minut bez účinného oživování dochází k postupnému odumírání
+       mozkových buněk
+    e bez účinné resuscitace nemá postižený šanci na přežití
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e udržení krevního oběhu resuscitací do příjezdu zdravotnické záchranné služby
+    e co nejrychlejšího příjezdu zdravotnické záchranné služby
+
+    POSTUP PRVNÍ POMOCI:
+    e zachránce se ujistí, že jemu ani postiženému na místě nehrozí žádné další
+       nebezpečí
+    e osloví postiženého a mírně s ním zatřese – zjistí tak, zda reaguje
+    e pokud postižený reaguje, zachránce ho ponechá v poloze, v jaké ho nalezl (pokud
+       mu v ní nehrozí další nebezpečí), a v případě potřeby přivolá zdravotnickou
+       záchrannou službu a poskytne první pomoc
+                                                                                13
+
+e pokud postižený nereaguje:
+  — zachránce se pokusí přivolat někoho dalšího na pomoc, šetrně otočí
+     postiženého na záda a uvolní záklonem hlavy a zvednutím brady jeho dýchací
+     cesty (jednu ruku položí na čelo postiženého a tlakem na ni zakloní hlavu,
+     zároveň špičky prstů druhé ruky položí pod bradu postiženého a zvedne ji)
+                                                                                      2
+  — udržuje takto uvolněné dýchací cesty a zkontroluje, zda postižený normálně
+     dýchá (sleduje pohyby hrudníku, tváří a uchem přiloženým k ústům
+     postiženého poslouchá a pociťuje proudící vzduch)
+
+e pokud si je zachránce jist, že postižený normálně dýchá, postupuje dále podle
+   standardu 2. 4. Bezvědomí
+
+e pokud postižený nereaguje a zachránce má pochybnost, zda normálně dýchá:
+  — snaží se přivolat někoho dalšího na pomoc, oznámí příhodu na tísňovou linku
+  — zachránce se pokusí dotazem zjistit, zda je na místě dostupný automatický
+     externí defibrilátor. Pokud ano, zajistí jeho neprodlené donesení a postupuje
+     podle standardu 2. 3. Základní neodkladná resuscitace s použitím
+     automatického externího defibrilátoru.
+  — poklekne vedle hrudníku postiženého
+  — položí dlaň jedné ruky doprostřed hrudníku postiženého, hranu dlaně druhé
+     ruky přiloží na ruku první a zajistí, aby se žádný tlak nepřenášel na žebra
+     postiženého (výhodné je propletení prstů)
+  — zaujme polohu kolmo nad hrudníkem postiženého a s pažemi propnutými
+     v loktech stlačuje hrudník frekvencí alespoň 100 stlačení za minutu (ne více
+     než 120 za minutu) do hloubky 5–6 cm
+  — po každém stlačení umožní návrat hrudníku do původní polohy, neztrácí však
+     kontakt mezi svýma rukama a hrudníkem postiženého
+  — pokračuje v nepřerušovaném stlačování hrudníku frekvencí alespoň
+     100 za minutu do příjezdu zdravotnické záchranné služby nebo dokud se
+     postižený nezačne budit (hýbat se, otevírat oči, normálně dýchat)
+
+e pokud je k tomu zachránce vyškolen a je ochoten provádět umělé dýchání,
+   kombinuje stlačení hrudníku a umělé vdechy v poměru 30 : 2 následujícím
+   způsobem:
+   — po 30 stlačeních hrudníku uvolní znovu záklonem hlavy a zvednutím brady
+      dýchací cesty, přitom pootevře ústa postiženého
+   — palcem a ukazovákem ruky spočívající na čele postiženého stiskne nosní křídla
+   — normálně se nadechne, přiloží svá ústa těsně na ústa postiženého a plynule
+      vydechne do postiženého, přitom sleduje, zda se hrudník postiženého zvedá
+   — poté zachránce oddálí svá ústa a umožní postiženému vydechnout
+   — znovu se nadechne a stejným postupem vdechne ještě jednou do postiženého;
+      nikdy se nepokouší o více než dva umělé vdechy za sebou (pokusy o umělé
+      vdechy trvají maximálně 5 sekund); pokud jsou první dva pokusy o umělé
+      vdechy neúspěšné, před dalšími pokusy zkontroluje dutinu ústní postiženého,
+    14   STANDARDY PRVNÍ POMOCI
+
+
+
+
+         odstraní případnou viditelnou překážku a ověří, zda je dostatečný záklon hlavy
+         a zvednutí brady postiženého
+      — umělé dýchání neprovádíme u intoxikace inhalací korozivních látek, jedů apod.
+2     — bez prodlení začne znovu stlačovat hrudník
+      — pokračuje v nepřerušovaném oživování v poměru 30 stlačení hrudníku ku
+         2 vdechům do příjezdu zdravotnické záchranné služby nebo dokud se postižený
+         nezačne budit (hýbat se, otevírat oči, normálně dýchat) nebo cíleně bránit
+         stlačování hrudníku
+
+    e začne-li se v průběhu oživování postižený budit (hýbat se, otevírat oči, normálně
+      dýchat), přeruší zachránce oživování a postupuje dále podle standardu
+      2. 4. Bezvědomí, postiženého přitom neustále sleduje a v případě potřeby znovu
+      zahájí oživování
+
+    NEVHODNÉ POSTUPY:
+    e nerozpoznání zástavy oběhu (mylná interpretace lapavých dechů, záměna stavu
+       za epilepsii, opilost atd.)
+    e přerušování masáže
+    e nedostatečná frekvence stlačení (méně než 100 za minutu)
+    e nedostatečná hloubka stlačení
+
+
+
+         2. 2. ZÁKLADNÍ NEODKLADNÁ RESUSCITACE DĚTÍ
+    RESUSCITACE DĚTÍ SPOČÍVÁ V KOMBINACI SRDEČNÍ MASÁŽE A UMĚLÉHO DÝCHÁNÍ.
+
+
+    Dětmi pro potřeby základní neodkladné resuscitace rozumíme postižené
+    od narození do známek nástupu puberty. Pokud hovoříme speciálně o kojencích,
+    máme na mysli děti do jednoho roku věku.
+                                                     Tento standard je dotčen změnou
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    Dechové a jiné příčiny – u dětí nejčastější:
+    e vdechnutí cizího tělesa či potravy
+    e záněty v oblasti hrtanu
+    e bezvědomí s křečemi
+    e tonutí
+    e úrazy
+
+    Srdeční – u dětí jsou vzácné:
+    e onemocnění srdce (vrozené vady, záněty), děti po operacích srdce
+    e úraz elektrickým proudem
+                                                                                       15
+TYPICKÉ PŘÍZNAKY:
+e dítě nereaguje na oslovení či mírné zatřesení, nemá svalové napětí
+e dítě nedýchá normálně nebo nedýchá vůbec
+e promodrání kůže a sliznic                                                                   2
+ČÍM JE DÍTĚ OHROŽENO?
+e během 3–5 minut bez účinné resuscitace dochází k postupnému odumírání
+   mozkových buněk
+e bez účinné resuscitace (zahrnující i umělé dýchání) má dítě jen malou šanci
+   na přežití
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e dodání kyslíku mozkovým buňkám
+e udržení krevního oběhu resuscitací do příjezdu zdravotnické záchranné služby
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se ujistí, že jemu ani dítěti na místě nehrozí žádné další nebezpečí
+e osloví a mírně zatřese s dítětem – zjistí, zda reaguje
+e pokud dítě reaguje (normálně dýchá, hýbe se, pláče, kašle), ponechá ho zachránce
+   v poloze, v jaké je (nehrozí-li mu v ní další nebezpečí), pravidelně ho sleduje, a pokud
+   je to potřeba, zavolá zdravotnickou záchrannou službu a poskytne první pomoc
+
+e pokud dítě nereaguje:
+  — snaží se zachránce přivolat někoho dalšího na pomoc, šetrně otočí dítě na záda
+     a záklonem hlavy a zvednutím brady uvolní jeho dýchací cesty (jednu ruku
+     položí na čelo dítěte a tlakem na ni zakloní hlavu, špičky prstů druhé ruky
+     položí pod bradu dítěte a zvedne ji); u kojenců zajistí zachránce spíše neutrální
+     polohu hlavy, bez výrazného záklonu
+  — udržuje takto uvolněné dýchací cesty a zkontroluje, zda dítě normálně dýchá
+     (sleduje pohyby hrudníku, tváří a uchem přiloženým k ústům dítěte poslouchá
+     a pociťuje proudící vzduch)
+
+e pokud si je zachránce jist, že dítě dýchá normálně, nechá jej v poloze, v jaké je,
+   pravidelně ho sleduje (dýchání) a přivolá zdravotnickou záchrannou službu
+
+e pokud má zachránce pochybnost, zda dítě dýchá normálně:
+  — udržuje volné dýchací cesty a vdechne pětkrát do dítěte – rukou spočívající
+     na čele stiskne nosní křídla a utěsní svá ústa kolem úst dítěte; u kojenců
+     zachránce obemkne svými ústy ústa i nos dítěte – vdechuje vždy pouze tolik,
+     aby bylo patrné zvedání hrudníku postiženého
+  — zachránce se nikdy nepokouší o více než 5 umělých vdechů za sebou; pokud se
+     umělé vdechy nedaří, zkontroluje dutinu ústní, odstraní případnou viditelnou
+     překážku a znovu zkontroluje, zda je správně proveden záklon hlavy a zvednutí
+     brady; u kojenců může být přílišný záklon hlavy příčinou neprůchodnosti
+     dýchacích cest
+    16   STANDARDY PRVNÍ POMOCI
+
+
+
+
+      — zachránce zahájí stlačování hrudníku – stlačuje dolní část hrudní kosti pomocí
+        jedné nebo obou rukou; u kojenců dvěma palci, pokud možno s obemknutím
+        hrudníku, podle toho, co je nutné k dosažení správné hloubky stlačení – jedné
+2       třetiny předozadního průměru hrudníku (přibližně 4 cm u kojenců a 5 cm
+        u ostatních dětí)
+      — po každém stlačení zachránce umožní návrat hrudníku do původní polohy,
+        neztrácí však kontakt mezi svýma rukama a hrudníkem dítěte
+      — zachránce stlačuje hrudník dítěte frekvencí alespoň 100 stlačení za minutu (ale
+        ne více než 120 za minutu)
+      — zachránce pokračuje v resuscitaci v poměru 15 stlačení hrudníku ku 2 umělým
+        vdechům do příjezdu zdravotnické záchranné služby nebo dokud se dítě
+        nezačne budit (hýbat se, otevírat oči, plakat, normálně dýchat) – v takovém
+        případě ponechá dítě ležet v poloze, v jaké je, a neustále ho sleduje (dýchání)
+        do příjezdu zdravotnické záchranné služby
+      — pokud je na místě více zachránců, zavolají zdravotnickou záchrannou službu
+        ihned, jakmile zjistí, že dítě nereaguje; je-li pouze jeden zachránce, resuscituje
+        jednu minutu a pak přivolá zdravotnickou záchrannou službu
+
+    Osoby bez speciálního tréninku v resuscitaci dětí mají postupovat stejně jako při
+    oživování dospělých.
+
+
+
+         2. 3. ZÁKLADNÍ NEODKLADNÁ RESUSCITACE S POUŽITÍM
+          AUTOMATICKÉHO EXTERNÍHO DEFIBRILÁTORU
+    AUTOMATICKÝ EXTERNÍ DEFIBRILÁTOR (AED) UMOŽŇUJE OBNOVU ŘÁDNÉHO
+    SRDEČNÍHO RYTMU U POSTIŽENÝCH S NÁHLOU ZÁSTAVOU OBĚHU (TJ. ZÁSTAVOU
+    OBĚHU SRDEČNÍHO PŮVODU).
+                                                    Tento standard je dotčen změnou
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e v iz standard 2. 1. Základní neodkladná resuscitace dospělých
+      a 2. 2. Základní neodkladná resuscitace dětí
+
+    TYPICKÉ PŘÍZNAKY:
+    e v iz standard 2. 1. Základní neodkladná resuscitace dospělých
+      a 2. 2. Základní neodkladná resuscitace dětí
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e v iz standard 2. 1. Základní neodkladná resuscitace dospělých
+      a 2. 2. Základní neodkladná resuscitace dětí
+                                                                                 17
+ČEHO POTŘEBUJEME DOCÍLIT?
+e udržení krevního oběhu resuscitací do příjezdu zdravotnické záchranné služby
+e podání defibrilačního výboje v nejkratším možném čase
+POSTUP PRVNÍ POMOCI:
+e úvodní postup se neliší od standardu 2. 1. Základní neodkladná resuscitace
+                                                                                       2
+   dospělých, dále pak:
+e standardní AED je určen pro použití u dětí nad 8 let věku. U dětí mladších
+   je vhodné použít AED speciálně upravený, nebo se speciálními (dětskými)
+   samolepicími elektrodami. Pokud takový není dostupný, lze použít i běžný AED.
+
+e pokud postižený nereaguje a zachránce má pochybnost, zda normálně dýchá:
+  — snaží se zachránce přivolat někoho dalšího na pomoc, oznámí příhodu
+     na tísňovou linku a zajistí přinesení automatického externího defibrilátoru
+  — zachránce poklekne vedle hrudníku postiženého
+  — zachránce položí dlaň jedné ruky doprostřed hrudníku postiženého, hranu
+     dlaně druhé ruky přiloží na ruku první a zajistí, aby se žádný tlak nepřenášel
+     na žebra postiženého (výhodné je propletení prstů)
+  — zachránce zaujme polohu kolmo nad hrudníkem postiženého a s pažemi
+     propnutými v loktech stlačuje hrudník frekvencí alespoň 100 stlačení za minutu
+     (ne více než 120 za minutu) do hloubky 5–6 cm
+  — po každém stlačení umožní zachránce návrat hrudníku do původní polohy,
+     neztrácí však kontakt mezi svýma rukama a hrudníkem postiženého
+  — zachránce pokračuje v nepřerušovaném stlačování hrudníku frekvencí alespoň
+     100 stlačení za minutu do příjezdu zdravotnické záchranné služby nebo dokud
+     se postižený nezačne budit (hýbat se, otevírat oči, normálně dýchat)
+  — jakmile je AED k dispozici, zachránce ho zapne a přilepí elektrody na hrudník
+     postiženého; je-li na místě více než jeden zachránce, stlačování hrudníku by
+     mělo během této doby pokračovat
+  — zachránce dále následuje pokyny AED; nedotýká se postiženého, když AED
+     analyzuje rytmus, a je-li doporučen výboj, ujistí se, že se postiženého nikdo
+     nedotýká; následně stiskne odpovídající tlačítko na přístroji (plně automatické
+     přístroje podají výboj bez nutnosti stisknout tlačítko)
+  — okamžitě po výboji začne zachránce znovu stlačovat hrudník postiženého
+  — dále zachránce pokračuje v resuscitaci podle výzev AED do příjezdu
+     zdravotnické záchranné služby nebo dokud se postižený nezačne budit (hýbat
+     se, otevírat oči, normálně dýchat)
+
+e pokud je k tomu zachránce vyškolen a je ochoten provádět umělé dýchání,
+   kombinuje stlačení hrudníku a umělé vdechy v poměru 30 : 2 následujícím
+   způsobem, jaký je popsán ve standardu 2. 1. Základní neodkladná resuscitace
+   dospělých, přitom rovněž respektuje pokyny automatického externího
+   defibrilátoru
+
+e začne-li se v průběhu oživování postižený budit (hýbat se, otevírat oči, normálně
+   dýchat), přeruší zachránce oživování a postupuje dále podle standardu
+      18   STANDARDY PRVNÍ POMOCI
+
+
+
+
+        2. 4. Bezvědomí, postiženého přitom neustále sleduje a v případě potřeby znovu
+        zahájí oživování
+
+2 NEVHODNÉ POSTUPY:
+  e nerozpoznání zástavy oběhu (mylná interpretace lapavých dechů, záměna stavu
+        za epilepsii, opilost atd.)
+      e přerušování masáže v průběhu nalepování elektrod defibrilátoru
+      e nedostatečná frekvence stlačení (méně než 100 za minutu)
+      e nedostatečná hloubka stlačení
+      e nerespektování pokynů automatického externího defibrilátoru
+
+
+
+           2. 4. BEZVĚDOMÍ
+      VĚDOMÍ JE JEDNOU ZE TŘÍ ZÁKLADNÍCH ŽIVOTNÍCH FUNKCÍ. BEZVĚDOMÍ JE STAV
+      BEZPROSTŘEDNÍHO OHROŽENÍ ŽIVOTA.
+                                                Tento standard je dotčen změnou
+      VYVOLÁVAJÍCÍ PŘÍČINY:
+      e porucha ostatních základních životních funkcí (dýchání, krevního oběhu)
+      e poškození mozku (úraz, krvácení, epilepsie, nádor)
+      e poruchy látkové výměny organismu (např. komplikace cukrovky)
+      e otravy (alkohol, uklidňující léky, návykové látky)
+
+      TYPICKÉ PŘÍZNAKY:
+      e postižený leží či sedí ve zhroucené poloze
+      e podle hloubky poruchy vědomí nereaguje na slovní, fyzické ani bolestivé
+         podněty
+
+      ČÍM JE POSTIŽENÝ OHROŽEN?
+      e mechanickou neprůchodností dýchacích cest (zapadlý kořen jazyka)
+      e vdechnutím nebo zatečením tekutého obsahu do plic
+      e selháním ostatních základních životních funkcí (dýchání, krevního oběhu)
+      e podchlazením
+      e pádem a úrazem při náhlém vzniku poruchy vědomí
+
+      ČEHO POTŘEBUJEME DOCÍLIT?
+      e uvolnit dýchací cesty, případně zabránit vzniku jejich neprůchodnosti
+      e včas zjistit případné zhoršení stavu se vznikem náhlé zástavy oběhu
+      e zabránit vdechnutí či zatečení tekutého obsahu do plic
+
+      POSTUP PRVNÍ POMOCI:
+      e zachránce se ujistí, že jemu ani postiženému na místě nehrozí žádné další
+         nebezpečí
+                                                                                 19
+
+e zachránce osloví postiženého a zatřese jím – zjistí, zda reaguje:
+   — pokud reaguje, ponechá ho zachránce v poloze, v jaké se nachází (nehrozí-li
+     v ní postiženému další nebezpečí) a v případě potřeby přivolá zdravotnickou
+     záchrannou službu
+   — pokud nereaguje, zjistí zachránce, zda postižený normálně dýchá; pokud si není
+                                                                                       2
+     jist, že postižený dýchá normálně, postupuje zachránce dále podle standardu
+     2. 1. Základní neodkladná resuscitace dospělých
+e pokud postižený dýchá normálně (s výjimkou stavů dále popsaných):
+   — ponechá ho zachránce v poloze, v jaké se nachází (nehrozí-li mu v ní další
+     nebezpečí), trvale udržuje volné dýchací cesty, sleduje jeho dýchání a přivolá
+     zdravotnickou záchrannou službu
+   — zachránce postiženého nepřetržitě sleduje, pokud přestane postižený
+     dýchat normálně, postupuje zachránce ihned podle standardu 2. 1. Základní
+     neodkladná resuscitace
+e zotavovací polohu zachránce použije pouze za následujících okolností
+   a podmínky, že postižený normálně dýchá:
+   — jedná-li se pravděpodobně o opilost či jinou otravu
+   — postižený zvrací nebo krvácí z úst či nosu
+   — jedná-li se o bezvědomí následkem tonutí
+   — je-li nutné postiženého z jakýchkoli důvodů opustit
+e postiženého v bezvědomí zachránce přikryje přikrývkou či izotermickou fólií
+
+NEVHODNÉ POSTUPY:
+e vytahování jazyka
+e podkládání hlavy
+e pokusy o posazení
+e uložení do zotavovací polohy bez možnosti kontroly kvality dýchání
+
+
+
+    2. 5. ZÁSTAVA MASIVNÍHO ZEVNÍHO KRVÁCENÍ
+ZA MASIVNÍ KRVÁCENÍ POVAŽUJEME STAV, PŘI KTERÉM DOCHÁZÍ K RYCHLÉ ZTRÁTĚ
+VĚTŠÍHO MNOŽSTVÍ KRVE.
+                                                   Tento standard je dotčen změnou
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e všechny druhy ran (zejména řezné)
+e amputace
+
+TYPICKÉ PŘÍZNAKY:
+e krev stříká nebo intenzivně vytéká z rány (rozlišení tepenného a žilního krvácení
+   není podstatné)
+e postižený je bledý
+e oděv je nasáklý krví, krvavá kaluž na zemi
+     20   STANDARDY PRVNÍ POMOCI
+
+
+
+
+     ČÍM JE POSTIŽENÝ OHROŽEN?
+     e velkou krevní ztrátou s rozvojem šoku
+     e zástavou oběhu v důsledku vykrvácení
+2 ČEHO POTŘEBUJEME DOCÍLIT?
+     e zastavit nebo alespoň výrazně omezit krvácení
+
+     POSTUP PRVNÍ POMOCI:
+     e zachránce se ujistí, že jemu ani postiženému na místě nehrozí žádné další
+        nebezpečí
+     e zachránce postiženého posadí nebo položí
+     e zachránce pevně stlačí krvácející cévu přímo v ráně (ruka by měla být chráněna
+        rukavicí, je-li to možné)
+     e pokud to situace vyžaduje a umožňuje, zhotoví zachránce tlakový obvaz
+     e zachránce zajistí potřebná protišoková opatření dle standardu 2. 6 Vnitřní
+        krvácení a prevence šoku
+
+     OSTATNÍ POSTUPY:
+     e zaškrcovadlo (turniket):
+       — je extrémním prostředkem v laické první pomoci
+       — je vyhrazeno pro následující situace:
+     		        — hromadná neštěstí, válečné podmínky apod.
+     		        — nemožnost zastavit nebo výrazně omezit krvácení přímým tlakem
+                  (devastující poranění končetin)
+       — mělo by být používáno pouze speciálně vyškoleným zachráncem
+       — upřednostňujeme průmyslový výrobek před improvizovanými prostředky
+       — přikládá se zásadně nad ránu na paži nebo na stehno; nikdy však do těsného
+          sousedství lokte či kolene
+       — jednou přiložené zaškrcovadlo se zásadně nepovoluje
+       — na zaškrcenou končetinu je nutné napsat čas přiložení zaškrcovadla
+       — zaškrcenou končetinu je při déletrvajícím zaškrcení vhodné chladit
+       — postižený se zaškrcenou končetinou musí být v co nejkratším čase dopraven
+          ke konečnému ošetření
+       — zaškrcovadlo musí být řádně utaženo – nedostatečně přiložené zaškrcovadlo
+          může krvácení naopak zhoršit
+     e hemostatický obvaz – používá jen proškolený zachránce
+     e zvednutí končetiny a tlakové body – jsou neúčinné a neměly by být používány
+                                                                              21
+
+    2. 6. VNITŘNÍ KRVÁCENÍ A PREVENCE ŠOKU
+
+                                                                                    2
+VNITŘNÍ KRVÁCENÍ JE ÚNIK KRVE Z CÉV DO TĚLESNÝCH DUTIN NEBO DO VNITŘNÍCH
+ORGÁNŮ. ŠOK JE STAV, KDY ORGANISMUS NENÍ SCHOPEN ZABEZPEČIT POTŘEBNOU
+DODÁVKU KYSLÍKU DO TKÁNÍ A ORGÁNŮ. STANDARD SE VĚNUJE POUZE ŠOKU, JEHOŽ
+PŘEVLÁDAJÍCÍ PŘÍČINOU JE VELKÁ ZTRÁTA KRVE.
+
+VYVOLÁVAJÍCÍ PŘÍČINY VNITŘNÍHO KRVÁCENÍ:
+e úraz způsobený velkou energií (pády z výše, nárazy ve větší rychlosti)
+e přímé násilí působící na trup
+e bodná a střelná poranění
+e někdy spontánní krvácení způsobené nemocí (nádor, vředová choroba žaludku)
+
+VYVOLÁVAJÍCÍ PŘÍČINY ŠOKU:
+e ztráta krve (v důsledku vnějšího i vnitřního krvácení)
+
+TYPICKÉ PŘÍZNAKY (ÚRAZOVÉHO) ŠOKU:
+e patrné vnější krvácení nebo podezření na vnitřní (mechanismus úrazu)
+e bledost, chladná kůže, studený pot
+e slabost, únava, možný neklid, porucha vědomí
+e zrychlený a slabý tep
+e pocit žízně
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e selháním základních životních funkcí
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e co nejrychlejšího příjezdu zdravotnické záchranné služby
+e zabránit dalšímu zhoršení stavu, zpomalit rozvoj šoku
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se ujistí, že jemu ani postiženému na místě nehrozí žádné další
+   nebezpečí
+e zachránce postiženého položí a zastaví případné viditelné zevní krvácení dle
+   standardu 2. 5. Zástava masivního zevního krvácení
+e zachránce přivolá zdravotnickou záchrannou službu
+e pokud postižený netoleruje polohu vleže na zádech, umožní mu zachránce
+   zaujmout jinou polohu, která mu vyhovuje
+e zachránce se vyvaruje bolestivých manipulací, vyzve postiženého, aby se vyhnul
+   fyzické námaze
+e zachránce brání podchlazení postiženého – postiženého izoluje od země
+   a přikryje ho přikrývkou nebo izotermickou fólií
+      22   STANDARDY PRVNÍ POMOCI
+
+
+
+
+      e zachránce postiženého nepřetržitě sleduje, pokud je to možné, a ihned reaguje
+         na případné zhoršení stavu
+
+2 OSTATNÍ POSTUPY:
+  e poloha se zdviženými dolními končetinami (tzv. „protišoková poloha“) – její
+         účinnost v podmínkách laické první pomoci při odvracení šoku nebyla prokázána
+         a pro některé zraněné může být riziková, proto není nadále doporučena
+      e autotransfuzní poloha (zdvihnutí dolních i horních končetin do pravého úhlu)
+        – je riziková, a v laické první pomoci proto nesmí být používána
+
+
+
+           2. 7. TONUTÍ
+      TONUTÍ JE DUŠENÍ V DŮSLEDKU PONOŘENÍ DO VODY ČI JINÉ KAPALINY.
+
+                                            Tento standard je dotčen změnou
+      VYVOLÁVAJÍCÍ PŘÍČINY:
+      e nehoda při koupání či jiných aktivitách na vodě
+      e proboření ledu
+      e nehoda plavidel
+      e pracovní úraz
+
+      TYPICKÉ PŘÍZNAKY:
+      e bezvědomí (porucha vědomí) následující pobyt ve vodě či pod vodní hladinou
+      e promodrání kůže a sliznic
+      e bublavé dýchání, kašel, zvracení
+
+      ČÍM JE POSTIŽENÝ OHROŽEN?
+      e vdechnutím vody dochází k dušení a následné zástavě krevního oběhu
+      e podchlazením
+
+      ČEHO POTŘEBUJEME DOCÍLIT?
+      e vytažení tonoucího na břeh či jinou pevnou podložku (záchranné plavidlo)
+      e co nejrychlejšího zahájení umělého dýchání a stlačování hrudníku
+      e co nejrychlejšího příjezdu zdravotnické záchranné služby
+
+      POSTUP PRVNÍ POMOCI:
+      e prioritu má vždy zachování bezpečnosti zachránce
+      e zachránce přivolá nebo zajistí přivolání zdravotnické záchranné služby (případně
+         i ostatních tísňových složek), jakmile spatří tonutí
+                                                                                23
+
+Vytažení tonoucího z vody:
+	— zachránce se pokusí zachránit tonoucího, aniž musí vstoupit do vody (podáním
+     větve, hozením lana, záchranného kruhu), případně pro jeho záchranu využije
+     loďku
+  — musí-li zachránce vstoupit do vody, jistí se přitom pokud možno lanem ze břehu
+                                                                                     2
+e pokud postižený nereaguje a nedýchá normálně:
+  — pokud je to možné a je-li k tomu vyškolen, zahájí zachránce umělé dýchání
+     ještě ve vodě
+  — jakmile je postižený vytažen na pevnou podložku (břeh, loďka), zahájí
+     zachránce resuscitaci 5 umělými vdechy, poté pokračuje v poměru 30 stlačení
+     hrudníku ku 2 umělým vdechům a pokračuje v resuscitaci podle standardu
+     2. 1. Základní neodkladná resuscitace dospělých
+  — v ytékání žaludečního obsahu je během oživování tonoucích časté; pokud zcela
+     znemožňuje umělé dýchání, otočí zachránce postiženého na bok a odstraní
+     obsah dutiny ústní
+  — resuscitace samostatným stlačováním hrudníku je u tonoucích málo účinná
+     a neměla by být používána
+
+e pokud postižený nereaguje a normálně dýchá:
+  — zachránce postupuje podle standardu 2. 4. Bezvědomí, uloží postiženého
+     do zotavovací polohy na boku a nadále trvale sleduje, zda normálně dýchá
+  — zachránce přikryje postiženého přikrývkou nebo izotermickou fólií
+
+e pokud postižený reaguje:
+  — umožní mu zachránce zaujmout polohu, která postiženému nejvíce vyhovuje
+  — brání zachránce podchlazení, přikryje postiženého přikrývkou nebo
+     izotermickou fólií
+  — zavolá zachránce zdravotnickou záchrannou službu
+
+Poranění krční páteře při tonutí:
+e poranění krční páteře při tonutí není časté
+e lze ho předpokládat při rizikových aktivitách (skoky do vody, vodní lyže) nebo
+   přítomnosti rizikových faktorů (známky úrazu, opilost)
+e je-li podezření na možnost poranění krční páteře, pokusí se zachránce omezit
+   násilné pohyby hlavou při záchraně tonoucího
+e použití fixačních límců pro laické zachránce není doporučeno
+e jakékoli pokusy omezit pohyby krční páteře nesmí zdržet zahájení resuscitace
+    24   STANDARDY PRVNÍ POMOCI
+
+
+
+
+         2. 8. ÚRAZ ELEKTRICKÝM PROUDEM
+
+2 POSTIŽENÉHO.
+    POŠKOZENÍ ZDRAVÍ ZPŮSOBENÉ PRŮCHODEM ELEKTRICKÉHO PROUDU TĚLEM
+
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e kontakt s vedením elektrického proudu (vadný spotřebič, pracovní úraz)
+    e zásah elektrickým obloukem v případě vysokého napětí
+    e zásah bleskem
+
+    TYPICKÉ PŘÍZNAKY:
+    e ztráta (porucha) vědomí
+    e křeče končetinového svalstva
+    e lokální bolest
+    e popáleniny (zejména u vysokého napětí)
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e náhlou zástavou oběhu
+    e popáleninami
+    e poraněními způsobenými pádem
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e přerušení kontaktu se zdrojem elektrického proudu
+    e v případě náhlé zástavy oběhu udržení náhradního průtoku krve v životně
+       důležitých orgánech do doby příjezdu zdravotnické záchranné služby
+
+    POSTUP PRVNÍ POMOCI:
+    e prioritu má vždy zachování bezpečnosti zachránce
+       — zachránce se ujistí, že zdroj elektrického proudu byl vypnut, není-li možné
+          tak učinit, přeruší kontakt postiženého s předmětem pod elektrickým napětím
+          pomocí nevodivého předmětu
+       — v případě zasažení proudem o vysokém napětí se zachránce přibližuje
+          k postiženému, pouze je-li si zcela jist, že elektrický proud byl vypnut (zasažení
+          tzv. krokovým napětím nebo elektrickým obloukem hrozí i ze vzdálenosti
+          několika metrů)
+       — v případě zasažení bleskem při bouřce zváží zachránce riziko dalšího úderu
+          blesku při záchraně postiženého
+    e v případě náhlé zástavy oběhu postupuje zachránce dle standardu 2. 1. Základní
+       neodkladná resuscitace dospělých
+    e je-li postižený v bezvědomí, postupuje zachránce podle standardu 2. 4. Bezvědomí
+    e je-li postižený při vědomí, ošetří zachránce lokální poranění podle standardu
+       5. 1. Popáleniny
+    e všichni zasažení elektrickým proudem musí být vyšetřeni lékařem
+                                                                                  25
+
+    2. 9. UZÁVĚR DÝCHACÍCH CEST CIZÍM TĚLESEM
+
+                                                                                         2
+CIZÍ TĚLESO V DÝCHACÍCH CESTÁCH SE STÁVÁ PŘEKÁŽKOU OMEZUJÍCÍ NEBO
+ZNEMOŽŇUJÍCÍ DÝCHÁNÍ.
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e vdechnutí („zaskočení“) sousta při jídle
+e vdechnutí drobných součástí hraček či jídla dítětem
+
+TYPICKÉ PŘÍZNAKY:
+e kašel (silný či slabý při vyčerpání postiženého)
+e postižený se chytá za hrdlo
+e nemožnost mluvit, kašlat, plakat (děti) či dýchat
+e pískavé zvuky při nádechu, hlučné dýchání
+e panika postiženého
+e promodrání kůže a ztráta vědomí, není-li uzávěr uvolněn
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e udušením
+e náhlou zástavou oběhu
+e poraněním při použití vypuzovacích manévrů (stlačení nadbřišku)
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e odstranit uzávěr dýchacích cest
+e v případě dušení co nejrychlejšího příjezdu zdravotnické záchranné služby
+e v případě ztráty vědomí resuscitací udržet krevní oběh do příjezdu zdravotnické
+   záchranné služby
+
+POSTUP PRVNÍ POMOCI:
+Pro dospělé a děti nad 1 rok:
+e pokud je postižený při vědomí a je schopen dostatečně silně kašlat, zachránce
+   pouze podporuje postiženého v kašlání (přirozené obranné mechanismy jsou
+   účinnější než podpůrná opatření první pomoci)
+e pokud je postižený při vědomí, ale nemůže kašlat, mluvit, plakat (děti) či dýchat,
+   nebo vydává pískavé zvuky při nádechu:
+   — zachránce se postaví vedle postiženého a předkloní postiženého tak, aby
+      uvolněný předmět mohl vypadnout z úst
+   — udeří postiženého svou dlaní pětkrát silně mezi lopatky a zkontroluje, došlo-li
+      k uvolnění dýchacích cest
+e pokud uzávěr trvá, postaví se za postiženého, předkloní ho, sevře pěst jedné ruky
+   a umístí ji mezi pupek a dolní konec hrudní kosti, druhou rukou pěst uchopí
+   a silně stlačí směrem dovnitř a nahoru; opakuje pětkrát
+   — zachránce opakuje tyto dva popsané postupy, dokud neodstraní uzávěr
+      dýchacích cest, nebo dokud postižený neztratí vědomí
+    26   STANDARDY PRVNÍ POMOCI
+
+
+
+
+    e pokud je postižený v bezvědomí, postupuje zachránce ihned podle standardu
+       2. 1. Základní neodkladná resuscitace dospělých, resp. 2. 2. Základní neodkladná
+       resuscitace dětí
+2      — o vyčištění dutiny ústní prsty se zachránce pokusí, pouze pokud je cizí těleso
+          v dutině ústní viditelné
+       — u postižených, kteří po uvolnění dýchacích cest nadále kašlou, obtížně polykají
+          či mají pocit cizího tělesa v krku, zajistí nebo doporučí zachránce odborné
+          vyšetření; stejně tak u postižených, u nichž bylo použito stlačení nadbřišku
+
+    Pro děti do 1 roku:
+    e pokud dítě dostatečně a účinně kašle, zachránce ho neustále sleduje, neboť stav
+       se může zhoršit; v této fázi nepoužívá žádné vypuzovací manévry
+    e pokud je dítě při vědomí, ale nemůže kašlat, plakat či dýchat:
+       — zachránce položí dítě hlavou a obličejem dolů na své předloktí, dolní čelist
+          dítěte spočívá mezi palcem a dvěma dalšími prsty ruky zachránce; je nutné dát
+          pozor, aby nebyly stlačovány měkké tkáně pod bradou dítěte
+       — dlaní druhé ruky zachránce pětkrát silně udeří dítě mezi lopatky a zkontroluje,
+          zda cizí těleso bylo vypuzeno
+       — pokud uzávěr dýchacích cest trvá, uloží zachránce dítě na záda a pětkrát stlačí
+          hrudník jako při resuscitaci
+       — zachránce opakuje tyto dva popsané postupy, dokud neodstraní uzávěr
+          dýchacích cest, nebo dokud dítě neztratí vědomí
+    e pokud je dítě v bezvědomí, postupuje zachránce ihned podle standardu
+       2. 2. Základní neodkladná resuscitace dětí
+    e o vyčištění dutiny ústní prsty se zachránce pokusí, pouze pokud je cizí těleso
+       v dutině ústní viditelné
+    e všechny děti by měly být po odstranění uzávěru dýchacích cest vyšetřeny
+    lékařem
+                                                                              27
+
+    3. PRVNÍ POMOC PŘI ZÁVAŽNÉM ÚRAZU
+    3. 1. MOZKOLEBEČNÍ PORANĚNÍ
+MOZKOLEBEČNÍ PORANĚNÍ PŘEDSTAVUJE POŠKOZENÍ LEBKY (VČETNĚ ZLOMENIN)
+A MOZKU, ČASTO SPOJENÉ S VÝRONEM KRVE DO MOZKOVÉ TKÁNĚ NEBO
+DO MOZKOVÝCH OBALŮ.                                                                  3
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e údery nebo nárazy do hlavy
+e pády předmětů z výše na hlavu
+e úrazy způsobené velkou energií (pády z výše, nárazy ve větší rychlosti)
+
+TYPICKÉ PŘÍZNAKY:
+e mechanismus úrazu (viz vyvolávající příčiny)
+e rána na hlavě (bolest, otok, krvácení)
+e bezvědomí nebo porucha vědomí
+e výpadky paměti (zraněný si nepamatuje na průběh úrazu)
+e změny chování, zmatenost
+e nevolnost, zvracení, bolest hlavy
+e krvácení z uší, nosu, brýlový hematom (podkožní výron krve)
+e nestejná šířka zornic
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e poruchou vědomí s rizikem selhání ostatních životních funkcí (dýchání, krevního
+   oběhu)
+e vdechnutím cizího obsahu (žaludečního obsahu, krve) do plic
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zajistit dostatečné dýchání včetně průchodných dýchacích cest
+e zabránit dalšímu poškození
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se ujistí, že jemu ani postiženému nehrozí žádné další nebezpečí
+e je-li postižený při vědomí, umožní mu zachránce zaujmout polohu, jaká mu
+   vyhovuje, zabezpečí jeho tepelný komfort a dále ho sleduje
+e je-li u postiženého přítomna porucha vědomí, postupuje zachránce podle
+   standardu 2. 4. Bezvědomí
+e zachránce přivolá zdravotnickou záchrannou službu; to není nutné u postižených
+   s pouze malým poraněním hlavy bez poruchy vědomí nebo paměti na událost –
+   v těchto případech postačí sledování postiženého zodpovědnou osobou
+    28   STANDARDY PRVNÍ POMOCI
+
+
+
+
+    e při případném zklidňování postiženého se zachránce vyvaruje použití hrubé
+       fyzické síly
+    e zachránce zabezpečí tepelný komfort zraněného a brání podchlazení – zraněného
+       přikryje přikrývkou nebo izotermickou fólií a zajistí jeho izolaci od země
+    e zachránce nadále sleduje stav postiženého a reaguje na jeho případné zhoršení
+
+
+3
+         3. 2. PORANĚNÍ HRUDNÍKU
+    ÚRAZY HRUDNÍKU ZAHRNUJÍ ZLOMENINY HRUDNÍ KOSTI A ŽEBER, PORANĚNÍ
+    NITROHRUDNÍCH ORGÁNŮ, KRVÁCENÍ DO DUTINY HRUDNÍ A PNEUMOTORAX.
+
+    PNEUMOTORAX ZNAMENÁ PŘÍTOMNOST VZDUCHU V POHRUDNIČNÍ DUTINĚ (MEZI
+    PLÍCEMI A HRUDNÍ STĚNOU) A VEDE KE ZMENŠENÍ (KOLAPSU) PLÍCE. TO ZTĚŽUJE
+    DÝCHÁNÍ POSTIŽENÉHO A V KRAJNÍM PŘÍPADĚ MŮŽE VÉST AŽ K ZÁSTAVĚ KREVNÍHO
+    OBĚHU. PRVNÍ POMOCÍ JE OVLIVNITELNÝ POUZE TZV. VNĚJŠÍ PNEUMOTORAX, KDY
+    VZDUCH DO POHRUDNIČNÍ DUTINY VNIKÁ OTVOREM (RANOU) V HRUDNÍ STĚNĚ.
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e násilí působící na hrudník (stlačení, úder)
+    e úraz způsobený velkou energií (pády z výše a nárazy ve vyšší rychlosti)
+    e otevřená poranění (bodná a střelná)
+
+    TYPICKÉ PŘÍZNAKY:
+    e bolest na hrudi
+    e rány na hrudníku (bublání v ráně svědčí pro pneumotorax)
+    e dušnost (pocit nedostatku vzduchu), promodrání kůže a sliznic
+    e selhávání oběhu, rozvoj šoku (vnitřní krvácení do hrudníku)
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e dechovou nedostatečností
+    e rozvojem šoku
+    e smrtí v důsledku selhání životně důležitých orgánů
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e usnadnit postiženému dýchání, zabránit zhoršení stavu
+    e zajistit odborné ošetření
+
+    POSTUP PRVNÍ POMOCI:
+    e zachránce se ujistí, že jemu ani postiženému nehrozí žádné další nebezpečí
+    e zachránce postiženého zklidní a uloží ho do polohy vpolosedě se zapřenýma
+       rukama, pokud postiženému tato poloha vyhovuje
+                                                                               29
+
+e při závažném poranění, dušnosti či krvácení zachránce přivolá zdravotnickou
+   záchrannou službu
+e zachránce ránu ponechá otevřenou, případně ji překryje prodyšným obvazem
+e zachránce zásadně nevytahuje cizí předměty z rány
+e zachránce zabezpečí tepelný komfort zraněného a brání podchlazení – zraněného
+   přikryje přikrývkou nebo izotermickou fólií a zajistí jeho izolaci od země
+e zachránce nadále sleduje stav postiženého a reaguje na jeho případné zhoršení
+                                                                                    3
+NEVHODNÉ POSTUPY:
+e uzavírání rány
+e zhotovování poloprodyšného obvazu
+
+
+
+    3. 3. PORANĚNÍ BŘICHA
+PORANĚNÍ BŘIŠNÍ STĚNY A NITROBŘIŠNÍCH ORGÁNŮ (TRÁVICÍ TRAKT, JÁTRA, SLEZINA,
+LEDVINY, MOČOVÝ MĚCHÝŘ). ČASTO JE SPOJENO S VNITŘNÍM KRVÁCENÍM.
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e násilí působící na břicho (stlačení, úder, kopnutí, přejetí)
+e bodná a střelná poranění
+e úrazy způsobené velkou energií (pády z výše a nárazy ve vyšší rychlosti)
+
+TYPICKÉ PŘÍZNAKY:
+e bolest břicha
+e podlitiny nebo otevřené rány
+e pocit na zvracení, zvracení
+e ztuhlost břišních svalů
+e bledost, pocení, případně známky šoku
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e vnitřním krvácením s velkou krevní ztrátou
+e infekcí a zánětem pobřišnice při otevřených poraněních nebo při poranění střeva
+e časným úmrtím v důsledku šoku
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zabránit dalšímu zhoršení stavu, zpomalit rozvoj šoku
+e zabránit vstupu infekce u otevřených poranění
+e vždy zajistit odborné ošetření ve zdravotnickém zařízení, v případě závažného
+   stavu co nejrychlejší příjezd zdravotnické záchranné služby
+    30   STANDARDY PRVNÍ POMOCI
+
+
+
+
+    POSTUP PRVNÍ POMOCI:
+    e zachránce se ujistí, že jemu ani postiženému nehrozí žádné další nebezpečí
+    e zachránce zraněného uklidní a uloží na podložku
+    e zachránce umožní zraněnému zaujmout polohu, která mu vyhovuje
+    e pokud to stav vyžaduje, přivolá zachránce zdravotnickou záchrannou službu
+    e zachránce ošetří otevřené rány – vyhřezlé orgány nikdy nevpravuje zpět,
+3      překryje je navlhčenou gázou nebo čistou rouškou, poté případně ještě vrstvou
+       neprodyšného materiálu (brání tím osychání povrchu orgánů)
+    e cizí předměty zachránce z rány nikdy nevytahuje
+    e zachránce zabezpečí tepelný komfort zraněného a brání podchlazení – zraněného
+       přikryje přikrývkou nebo izotermickou fólií a zajistí jeho izolaci od země
+    e zachránce nadále sleduje stav postiženého a reaguje na jeho případné zhoršení
+
+    POZNÁMKA:
+    e bolesti břicha vzniklé i několik dnů po úrazu by měly vést k odbornému vyšetření
+
+
+
+    3. 4. PORANĚNÍ PÁNVE
+    PORANĚNÍ PÁNVE PŘEDSTAVUJE ZLOMENINY PÁNEVNÍCH KOSTÍ, PŘÍPADNĚ
+    DOPROVÁZENÉ PORANĚNÍM PÁNEVNÍCH ORGÁNŮ. ZRANĚNÉHO OHROŽUJE ZEJMÉNA
+    VELKOU KREVNÍ ZTRÁTOU SPOJENOU S ROZVOJEM ŠOKU.
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e úrazy způsobené velkou energií (pády z výše, dopravní nehody)
+    e přímé násilí působící na pánev (přejetí, pády cyklistů)
+
+    TYPICKÉ PŘÍZNAKY:
+    e bolest v místě poranění
+    e omezená hybnost dolních končetin
+    e známky vnitřního krvácení a rozvoje šoku
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e vnitřním krvácením s velkou krevní ztrátou
+    e rozvojem šoku
+    e časným úmrtím v důsledku vykrvácení
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e zabránit dalšímu poranění cév a vnitřních orgánů
+    e zmírnit bolest
+    e zabránit dalšímu zhoršení stavu, zpomalit rozvoj šoku
+                                                                            31
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se ujistí, že jemu ani postiženému nehrozí žádné další nebezpečí
+e zachránce zastaví viditelné krvácení dle standardu 2. 5. Zástava masivního
+   zevního krvácení
+e zachránce přivolá zdravotnickou záchrannou službu
+e postiženého ponechá zachránce v poloze, kterou si sám zvolil, a vyvaruje se
+   zbytečných manipulací – nikdy nezdvihá dolní končetiny
+e zachránce zabezpečí tepelný komfort zraněného a brání podchlazení – zraněného
+                                                                                   3
+   přikryje přikrývkou nebo izotermickou fólií a zajistí jeho izolaci od země
+e zachránce nadále sleduje stav postiženého a reaguje na jeho případné zhoršení
+      32   STANDARDY PRVNÍ POMOCI
+
+
+
+
+           4. PRVNÍ POMOC U JINÝCH ÚRAZOVÝCH STAVŮ
+           4. 1. PORANĚNÍ PÁTEŘE
+      PORANĚNÍ ZAHRNUJE POŠKOZENÍ OBRATLŮ, KLOUBŮ, VAZŮ A MEZIOBRATLOVÝCH
+      PLOTÉNEK. MŮŽE BÝT SPOJENO S POŠKOZENÍM MÍCHY A MÍŠNÍCH NERVŮ, KTERÉ
+      PROCHÁZÍ PÁTEŘNÍM KANÁLEM.
+
+
+4 VYVOLÁVAJÍCÍ PŘÍČINY:
+  e pády z výše, nárazy ve větší rychlosti (dopravní a sportovní nehody)
+      e působení přímého násilí (úder do zad)
+
+      TYPICKÉ PŘÍZNAKY:
+      e mechanismus úrazu (viz výše)
+      e bolest v místě poranění
+      e poruchy hybnosti (včetně svalové slabosti) a citlivosti (výpadek čití, mravenčení,
+         brnění)
+      e porucha vědomí při poranění hlavy vždy zakládá podezření na možné poranění
+         páteře
+
+      ČÍM JE POSTIŽENÝ OHROŽEN?
+      e ochrnutím v důsledku poškození míchy
+      e poruchou dýchání při poranění krční páteře
+
+      ČEHO POTŘEBUJEME DOCÍLIT?
+      e zabránit pohybům, které mohou způsobit či zhoršit poranění míchy
+      e zajistit odborný transport do zdravotnického zařízení
+
+      POSTUP PRVNÍ POMOCI:
+      e zachránce se ujistí, že jemu ani postiženému nehrozí na místě žádné další
+         nebezpečí
+      e prioritou zůstává zabezpečení základních životních funkcí – pokud postižený
+         přesvědčivě nedýchá normálně, postupuje zachránce dle standardu 2. 1. Základní
+         neodkladná resuscitace dospělých nebo 2. 2. Základní neodkladná resuscitace dětí
+      e pokud postižený normálně dýchá, ponechá ho zachránce v poloze, v jaké se
+         nachází, pokud v ní postiženému nehrozí další nebezpečí
+      e pokud je postižený při vědomí, snaží se ho zachránce uklidnit a přesvědčit ho
+         o nutnosti nehýbat se
+      e manipulace s postiženým s podezřením na poranění páteře a jeho transport
+         jsou úkolem zdravotnické záchranné služby; pokud je zcela výjimečně nutné
+         postiženého přemístit v rámci první pomoci (zpravidla z důvodu přetrvávajícího
+         nebezpečí na místě úrazu), je během manipulace nutné stabilizovat hlavu v ose
+         těla a co nejvíce omezit pohyby v oblasti páteře, v ideálním případě v součinnosti
+         pěti zachránců
+                                                                                  33
+
+e použití fixačních pomůcek (límců atd.) není součástí první pomoci
+e zachránce zajistí tepelný komfort postiženého
+e zachránce přivolá zdravotnickou záchrannou službu
+
+
+
+    4. 2. PORANĚNÍ KONČETIN
+ÚRAZY KONČETIN ZAHRNUJÍ ZLOMENINY KOSTÍ, POŠKOZENÍ KLOUBŮ (POHMOŽDĚNÍ,
+PODVRTNUTÍ, VYKLOUBENÍ), POHMOŽDĚNÍ SVALŮ A PORANĚNÍ ŠLACH. ZLOMENINA
+JE POŠKOZENÍ CELISTVOSTI KOSTI, V PŘÍPADĚ KOMBINACE S RÁNOU JI OZNAČUJEME
+                                                                                         4
+JAKO OTEVŘENOU.
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e nejčastěji přímé násilí působící na končetinu
+
+OBECNÉ PŘÍZNAKY:
+e bolestivý otok
+e krevní výron
+e omezení pohybu
+
+ZÁVAŽNÉ PŘÍZNAKY:
+e pocit nebo zvuk prasknutí při úrazu
+e deformita, abnormální pohyb mimo kloub
+e nemožnost končetinu zatížit (výrazné omezení pohybu a funkce)
+e poruchy prokrvení (končetina je bledá, chladná)
+e přítomnost rány nebo krvácení spojené s jinými závažnými příznaky
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e ztrátou krve – možnost rozvoje šoku při zlomeninách dlouhých kostí
+e poraněním dalších struktur (cév a nervů)
+e infekcí otevřených zlomenin
+e masivním vnitřním krvácením u zlomenin dlouhých kostí nebo pánve
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zastavit (omezit) krvácení
+e předejít dalšímu poškození tkání
+e zmírnit bolest
+e zabránit vzniku infekce
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se ujistí, že jemu ani postiženému na místě nehrozí žádné další nebezpečí
+e zachránce zastaví viditelné zevní krvácení dle standardu 2. 5. Zástava masivního
+   zevního krvácení a ošetří rány (pokud možno pomocí sterilního materiálu)
+    34   STANDARDY PRVNÍ POMOCI
+
+
+
+
+    e zachránce doporučí nebo zajistí, aby postižený poraněnou končetinu nezatěžoval,
+       a omezí i jakékoli jiné manipulace s končetinou, které nejsou nezbytné
+    e zachránce zkontroluje stav končetiny – prokrvení, hybnost, citlivost – a v případě
+       přítomnosti závažných příznaků (viz výše) přivolá zdravotnickou záchrannou
+       službu; při běžné dostupnosti zdravotnické záchranné služby není znehybňování
+       zlomenin součástí laické první pomoci
+    e při nepřítomnosti závažných příznaků není zpravidla odborné ošetření nutné,
+       zachránce doporučí postiženému nezatěžovat poraněnou končetinu, zvednout ji
+       a chladit, případně přiložit elastický obvaz
+4   e v případě chlazení ledem je nutné vždy chladit přes tkaninu; doba souvislého
+       chlazení nemá překročit 20 minut
+    e improvizované znehybnění v případě nedostupnosti zdravotnické záchranné
+       služby či v jiných případech vyžadujících takový postup spočívá v přiložení pevné
+       měkce podložené dlahy, která překlene a znehybní kloub nad i pod zlomeninou
+
+    NEVHODNÉ POSTUPY:
+    e pokusy o rovnání zlomenin a napravování kloubů
+    e podcenění krevních ztrát
+
+
+
+    4. 3. OŠETŘENÍ RAN
+    RÁNA JE PORUŠENÍ CELISTVOSTI KŮŽE. PORANĚNÍ DALŠÍCH TKÁNÍ ČI ORGÁNŮ ZÁVISÍ
+    NA DRUHU A HLOUBCE RÁNY.
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e tržné rány – úder nebo náraz tupého předmětu
+    e řezné rány – tah ostrého předmětu
+    e bodné rány – průnik ostrého předmětu v dlouhé ose
+    e sečné rány – úder ostrým předmětem
+    e střelné rány – vniknutí střely nebo střepiny do těla
+    e rány kousnutím – kousnutí zvířetem, případně člověkem
+
+    TYPICKÉ PŘÍZNAKY:
+    e porušení celistvosti kůže
+    e krvácení
+    e bolest
+                                                                               35
+
+PŘÍZNAKY RIZIKOVÉ RÁNY:
+e rány silně krvácející
+e rány rozsáhlé nebo s velkým poškozením tkání
+e rány silně znečištěné
+e rány spojené se zlomeninami (otevřené zlomeniny)
+e rány bodné, střelné a způsobené kousnutím
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e ztrátou krve až vykrvácením
+e poraněním vnitřních orgánů a možným vnitřním krvácením
+e infekcí                                                                             4
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zastavit krvácení
+e zabránit rozšíření infekce
+e rozlišit, kdy je potřeba odborné ošetření
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se ujistí, že jemu ani postiženému na místě nehrozí žádné další
+   nebezpečí
+e zachránce předchází přímému kontaktu s krví (používá ochranné rukavice)
+e v případě silného krvácení postupuje zachránce dle standardu 2. 5. Zástava
+   masivního zevního krvácení
+e zachránce mechanicky vyčistí ránu proudem čisté vody do úplného vypláchnutí
+   všech nečistot; hrubé mechanické drhnutí rány není doporučeno
+e volné cizí předměty může zachránce odstranit, zaklíněné fixuje proti pohybu
+e při zvýšeném riziku infekce zachránce může dezinfikovat okolí rány jodovou
+   (pokud na ni postižený není alergický) nebo alkoholovou dezinfekcí
+e zachránce přiloží sterilní krytí odpovídající rozsahu rány (náplast, gáza, obvaz)
+e v případě přítomnosti příznaků rizikové rány zachránce zajistí nebo doporučí
+   odborné ošetření, případně přivolá zdravotnickou záchrannou službu; v každém
+   případě doporučí postiženému kontaktovat lékaře kvůli případnému přeočkování
+   proti tetanu
+
+NEVHODNÉ POSTUPY:
+e hrubé mechanické drhnutí rány
+e vytahování zabodnutých předmětů
+e používání peroxidu vodíku
+    36   STANDARDY PRVNÍ POMOCI
+
+
+
+
+        4. 4. ÚRAZOVÉ AMPUTACE
+    AMPUTACE JE ODDĚLENÍ KONČETINY (JEJÍ ČÁSTI) NEBO JINÝCH ORGÁNŮ (UŠNÍ
+    BOLTEC, NOS, SKALP). MŮŽE BÝT ÚPLNÁ NEBO ČÁSTEČNÁ (AMPUTOVANÁ ČÁST VISÍ
+    NA ZBYTKU TKÁNÍ).
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e poranění způsobená stroji
+4   e sečná a řezná poranění
+    e dopravní úrazy
+
+    TYPICKÉ PŘÍZNAKY:
+    e rozsáhlá rána, oddělená nebo visící amputovaná část
+    e krvácení z pahýlu
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e masivním krvácením s rozvojem šoku
+    e trvalou ztrátou amputované části
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e zastavit (omezit) krvácení
+    e uchovat amputovanou část pro opětovné přišití
+
+    POSTUP PRVNÍ POMOCI:
+    e zachránce zastaví krvácení dle standardu 2. 5. Zástava masivního zevního
+       krvácení
+    e zachránce pokud možno sterilně přikryje ránu na pahýlu
+    e zachránce, pokud je to možné, zajistí a ošetří amputovanou část následujícím
+       způsobem: nečistoty opláchne proudem tekoucí vody, vloží amputovanou část
+       do plastového sáčku a tento sáček vloží do nádoby se studenou vodou a kousky ledu
+
+
+
+        4. 5. PORANĚNÍ OČÍ
+    PORANĚNÍ OKA JE SPOJENO S VELKOU BOLESTIVOSTÍ A PŘECHODNOU ZTRÁTOU
+    FUNKCE.
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e zanesení tělíska do spojivkového vaku (nečistoty, drobný hmyz, řasa)
+    e poranění očního bulbu (úder, náraz, letící předmět)
+    e fyzikální poškození (sváření bez ochranných brýlí, pobyt na slunci)
+    e vniknutí chemikálií
+                                                                                 37
+TYPICKÉ PŘÍZNAKY:
+e silná bolest
+e slzení
+e křečovité sevření víček (často obou očí)
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e při závažném poranění až trvalým poškozením či ztrátou zraku
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zmírnit bolest
+e předejít trvalým následkům                                                            4
+POSTUP PRVNÍ POMOCI:
+e zachránce poraněného posadí a snaží se jej uklidnit, vysvětlí mu situaci, případně
+   mu dopomůže s orientací
+e drobné cizí tělísko je možné vypláchnout čistou vodou; při neúspěchu,
+   přetrvávání obtíží nebo při závažnějším poranění doporučí zachránce
+   postiženému vyhledat odbornou pomoc
+e zánět spojivek a podráždění UV zářením je možné v mírné fázi léčit
+   antiseptickými očními kapkami, při závažnějším poškození je třeba vyhledat
+   odborné ošetření; důraz je třeba klást na prevenci a ochranu zraku
+e při poranění oční bulvy, zaklíněném větším cizím tělese nebo při závažnějším
+   poranění v okolí oka zachránce pouze zakryje obě oči sterilním obvazem,
+   aby se minimalizoval pohyb bulbů (souhyb obou očí), a přivolá zdravotnickou
+   záchrannou službu
+e při zasažení oka chemikáliemi postupuje zachránce podle standardu
+   6. První pomoc při poleptání
+
+
+
+    4. 6. UŠTKNUTÍ HADEM, KOUSNUTÍ ČI BODNUTÍ EXOTICKÝM HMYZEM
+JED JE DO TĚLA VPRAVEN KOUSNUTÍM ČI BODNUTÍM. JEDINÝM ČESKÝM ZÁSTUPCEM
+JEDOVATÝCH HADŮ JE ZMIJE, JEJÍ NEBEZPEČNOST SE VŠAK PŘECEŇUJE. OHROŽENÍ
+ŽIVOTA MŮŽE PŘEDSTAVOVAT UŠTKNUTÍ EXOTICKÝMI ŽIVOČICHY CHOVANÝMI
+V TERÁRIÍCH.
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e kousnutí hada či exotického pavouka nebo štíra
+
+TYPICKÉ PŘÍZNAKY:
+e zmije:
+  — dvě bodné ranky v místě kousnutí
+  — lokální palčivá bolest
+      38   STANDARDY PRVNÍ POMOCI
+
+
+
+
+        — zarudnutí, později zfialovění ložiska
+        — pocit nevolnosti
+        — u alergických osob otoky, dušnost, zvracení, průjem, kolaps
+      e exotičtí hadi, pavouci, štíři – dle druhu:
+        — změna citlivosti či barvy končetiny, otok končetiny
+        — křeče
+        — dušení
+        — ztráta vědomí
+        — zástava oběhu
+4 ČÍM JE POSTIŽENÝ OHROŽEN?
+      e přechodným omezením funkce postižené končetiny (zmije)
+      e zhoršením existujícího chronického onemocnění krevního oběhu či dýchacího
+         ústrojí následkem úleku
+      e alergický jedinec rozvojem anafylaxe (viz standard 8. 10. Alergická příhoda)
+      e úmrtím (exotičtí hadi)
+
+      ČEHO POTŘEBUJEME DOCÍLIT?
+      e zmírnit potíže postiženého
+      e předejít komplikacím
+      e identifikovat hada
+      e zajistit odborné ošetření postiženého
+
+      POSTUP PRVNÍ POMOCI:
+      e zachránce postiženého zklidní
+      e při uštknutí jedovatým hadem zachránce zabrání fyzické aktivitě postiženého,
+         a to bez ohledu na místo uštknutí
+      e lokálně zachránce přiloží studený obklad
+      e zachránce přivolá zdravotnickou záchrannou službu, do jejího příjezdu
+         postiženého sleduje
+      e v případě uštknutí exotickým hadem zachránce postupuje podle převládajících
+         příznaků postiženého
+
+      NEVHODNÉ POSTUPY:
+      e vymačkávání či vysávání jedu
+      e rozřezávání či vypalování rány
+      e elastická bandáž končetiny
+                                                                                 39
+
+    5. PRVNÍ POMOC PŘI POŠKOZENÍ TEPLEM A CHLADEM
+    5. 1. POPÁLENINY
+POPÁLENINA JE ÚRAZ ZPŮSOBENÝ LOKÁLNÍM ÚČINKEM VYSOKÉ TEPLOTY. VŽDY JE
+POŠKOZENA KŮŽE (PŘÍPADNĚ SLIZNICE), NĚKDY I HLOUBĚJI ULOŽENÉ TKÁNĚ. PŮSOBÍ
+KRUTÉ BOLESTI, JE SPOJENA S RIZIKEM NÁSLEDNÉ INFEKCE, PŘI VĚTŠÍM ROZSAHU
+OHROŽUJE ŽIVOT POPÁLENÉHO.
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e pád do ohniště, požár, vznícení oděvu, kontakt s horkým tělesem nebo
+   intenzivním sálavým teplem
+e opaření                                                                             5
+e výboj elektrického proudu vysokého napětí
+
+TYPICKÉ PŘÍZNAKY:
+e bolest
+e viditelné poškození kůže – zarudnutí, zbělání, puchýře, příškvary
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e infekcí
+e rozvojem nemoci z popálení při rozsahu nad 10 % (u dětí nad 5 %)
+e popálením nebo podrážděním dýchacích cest (páry, kouřové plyny)
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zabránit dalšímu působení tepla
+e zmírnit bolest
+e snížit riziko infekce
+
+POSTUP PRVNÍ POMOCI:
+e zachránce přeruší účinek tepla – zajistí sejmutí oděvu při opaření, uhašení
+   hořícího oděvu; pevně lnoucí části oděvu nesnímá
+e zachránce zajistí ochlazení popálených ploch chladnou vodou (15–25 °C) –
+   lokální bez omezení do úlevy od bolesti (minimálně 10 minut), rozsáhlé
+   (nad 20 %) jen krátkodobě a jednorázově
+e zachránce zakryje popálené plochy sterilním materiálem; v případě jeho
+   nedostupnosti alespoň jinou dostupnou čistou textilií
+e zachránce zajistí sejmutí náramků, prstenů, náušnic apod.
+
+NEVHODNÉ POSTUPY:
+e intenzivní celkové chlazení
+e přikládání ledových obkladů
+e strhávání puchýřů nebo přiškvařeného oděvu
+e používání mastí, zásypů, dezinfekcí apod.
+    40   STANDARDY PRVNÍ POMOCI
+
+
+
+
+        5. 2. ÚPAL A ÚŽEH
+    ÚPAL JE CELKOVÉ PŘEHŘÁTÍ ORGANISMU – SELHÁNÍ ŘÍZENÍ TĚLESNÉ TEPLOTY, VZNIKÁ
+    PŘI POBYTU V HORKÉM PROSTŘEDÍ. ÚŽEH JE DŮSLEDKEM PŘEHŘÁTÍ NA SLUNCI.
+    PRAKTICKÉ ROZLIŠOVÁNÍ MEZI ÚPALEM A ÚŽEHEM V PRVNÍ POMOCI POSTRÁDÁ SMYSL.
+
+                                                 Tento standard je dotčen změnou
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e pobyt v horkém a vlhkém prostředí
+    e vlhký neprodyšný oděv
+    e nedostatečný pitný režim
+    e dlouhodobý pobyt na přímém slunci (nechráněná hlava), opalování
+
+5   e dítě v horkém počasí uzamčené ve vozidle
+
+    TYPICKÉ PŘÍZNAKY:
+    e žízeň, bolesti hlavy, nevolnost, zvracení
+    e zvýšená tělesná teplota či horečka
+    e suchá zarudlá kůže, případně popáleniny od slunečního záření
+    e křeče v případě těžkého stavu
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e dehydratací
+    e mdlobou
+    e poruchou vědomí při výrazném přehřátí (tělesná teplota > 40 °C)
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e přemístit postiženého z horkého prostředí či přímého slunečního záření
+    e ochlazení postiženého při přehřátí
+    e rehydratace (zavodnění organismu) postiženého
+    e zmírnění potíží
+
+    POSTUP PRVNÍ POMOCI:
+    e zachránce přemístí postiženého z horkého prostředí či přímého slunečního
+       záření, případně odstraní horký oděv
+    e v případě zvýšené tělesné teploty zajistí zachránce aktivní chlazení postiženého
+       (ventilátor, průvan, chladná sprcha, obklady)
+    e zachránce zajistí podání dostatečného množství tekutin postiženému, nejlépe
+       s obsahem minerálů; měřítkem dostatečné rehydratace je produkce dostatečného
+       množství světlé moči
+    e zachránce zajistí nebo doporučí postiženému chlazení popálenin od sluníčka,
+       případně jejich ošetření přípravky k tomu určenými
+                                                                               41
+
+    5. 3. OMRZLINY
+OMRZLINA JE LOKÁLNÍ POŠKOZENÍ CHLADEM. POSTIHUJE NEJČASTĚJI OBNAŽENÉ
+A NEDOSTATEČNĚ PROKRVENÉ TĚLESNÉ PARTIE (UŠNÍ BOLTCE, NOS, TVÁŘE,
+NECHRÁNĚNÉ PRSTY RUKOU, PRSTY NOHOU V TĚSNÉ OBUVI).
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e působení chladu
+e vítr (vznik omrzlin i při teplotách kolem 0 °C)
+e nedostatečný nebo nevhodný oděv a obuv
+
+TYPICKÉ PŘÍZNAKY:
+e palčivá bolest                                                                    5
+e zbělení nebo mramorování kůže
+e ztráta nebo porucha citlivosti
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e amputací omrzlých periferních částí těla (prsty, ušní boltce)
+e druhotnou infekcí omrzlých partií
+e trvalými poruchami citlivosti
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e přemístit postiženého do teplého prostředí
+e zmírnit potíže
+e obnovit dostatečné prokrvení omrzlých částí těla
+e zabránit infekci
+
+POSTUP PRVNÍ POMOCI:
+e zachránce zajistí nebo doporučí postiženému přemístění do teplého prostředí
+e zachránce zajistí nebo doporučí postiženému ohřívání omrzlých částí těla
+   ve vodní lázni o teplotě 37–42 °C po dobu 30 minut
+e zachránce zajistí nebo doporučí postiženému odborné ošetření, do té doby kryje
+   omrzlá místa sterilním materiálem; v případě jeho nedostupnosti pak alespoň
+   čistou textilií
+
+NEVHODNÉ POSTUPY:
+e tření sněhem
+e přímé ohřívání pomocí zdrojů tepla (topení, chemické ohřívače) – může způsobit
+   popáleniny
+e aplikace mastí či jiných prostředků
+     42   STANDARDY PRVNÍ POMOCI
+
+
+
+
+          5. 4. PODCHLAZENÍ
+     PODCHLAZENÍ ZNAMENÁ POKLES TĚLESNÉ TEPLOTY POD 35 °C NÁSLEDKEM
+     PŮSOBENÍ CHLADU NEBO SELHÁNÍM ŘÍZENÍ TĚLESNÉ TEPLOTY.
+
+
+     VYVOLÁVAJÍCÍ PŘÍČINY:
+     e celkové vyčerpání (nehody lyžařů a turistů)
+     e nehody v horách, zasypání lavinou
+     e dlouhodobý pobyt v chladné vodě, tonutí
+     e dlouhodobý pobyt v chladu (bezdomovci, opilé osoby)
+     e bezmocné osoby v nevytopených bytech
+
+5 TYPICKÉ PŘÍZNAKY:
+     e snížená tělesná teplota
+     e svalový třes, zrychlené dýchání, zrychlený tep – mírné podchlazení
+     e spavost, apatie, porucha vědomí, pomalý tep – závažné podchlazení
+
+     ČÍM JE POSTIŽENÝ OHROŽEN?
+     e úmrtím v důsledku zástavy krevního oběhu
+
+     ČEHO POTŘEBUJEME DOCÍLIT?
+     e přerušit další působení chladu
+     e postupné normalizace tělesné teploty
+     e v případě zástavy oběhu provádět resuscitaci do příjezdu zdravotnické záchranné
+        služby
+
+     POSTUP PRVNÍ POMOCI:
+     e v případě mírného podchlazení zachránce zajistí pasivní ohřívání postiženého
+        pomocí teplé přikrývky nebo teplého oblečení; případně v kombinaci
+        s izotermickou fólií
+     e v případě závažného podchlazení zachránce omezí manipulaci s postiženým
+        a zajistí aktivní ohřívání pomocí zdrojů tepla (láhev s teplou vodou, ohřívací
+        balíčky apod.) v kombinaci s postupy pro mírné podchlazení
+     e je-li postižený stále v chladném prostředí, zajistí zachránce i jeho tepelnou izolaci
+        od země
+     e je-li to možné, odstraní zachránce případné mokré oblečení postiženého
+     e teplé nápoje lze podat při mírném podchlazení
+     e v případě zástavy oběhu postupuje zachránce neprodleně dle standardu
+        2. 1. Základní neodkladná resuscitace dospělých
+
+     NEVHODNÉ POSTUPY:
+     e podání alkoholu
+     e manipulace s končetinami nebo pokusy o chůzi při závažném podchlazení
+    43   STANDARDY PRVNÍ POMOCI
+
+
+
+
+         6. PRVNÍ POMOC PŘI POLEPTÁNÍ
+    POLEPTÁNÍ AGRESIVNÍMI CHEMIKÁLIEMI (ŽÍRAVINAMI) JE CHEMICKÝ ÚRAZ PODOBNÝ
+    POPÁLENÍ. ROZLIŠOVÁNÍ NA POLEPTÁNÍ KYSELINAMI A LOUHY POSTRÁDÁ V PRVNÍ
+    POMOCI SMYSL.
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e kontakt chemikálie s kůží, sliznicemi nebo očima postiženého
+
+    TYPICKÉ PŘÍZNAKY:
+    e palčivá bolest
+    e změna barvy kůže (zarudnutí, zbělání, zhnědnutí)
+    e změna reliéfu kůže (otok, mapovitá ložiska, olupování v cárech)
+    e zvracení, dávení, poleptání okolí úst a sliznice úst při požití žíraviny
+
+6   e slzení, křečovité sevření víček při poleptání očí
+    e kašel či dušnost při vdechnutí par žíraviny
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e poškozením tkání
+    e následnou infekcí
+    e otokem dýchacích cest při vdechnutí par žíraviny
+    e oslepnutím při poleptání oka
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e přerušit působení chemikálie
+    e omezit průnik do hlubších struktur
+    e zmírnit bolest
+
+    POSTUP PRVNÍ POMOCI:
+    e zachránce se přesvědčí, že jemu ani postiženému nehrozí na místě žádné další
+       nebezpečí
+    e zachránce opakovaně a dlouhodobě oplachuje zasažené místo čistou vodou;
+       přitom se snaží chránit okolní nepoškozenou kůži
+    e v případě poleptání úst zachránce pomůže postiženému ústa opakovaně
+       vypláchnout vodou
+    e v případě poleptání očí zachránce opakovaně a dlouhodobě vyplachuje zasažené
+       oko jemným proudem vody směrem od vnitřního koutku k vnějšímu
+    e po důkladném opláchnutí zachránce zakryje poleptané místo nebo oko sterilním
+       materiálem
+    e v případě vdechnutí par žíraviny zachránce postiženého posadí a zajistí pokud
+       možno přívod čerstvého chladného vzduchu
+                                                                                 44
+
+e zachránce zajistí nebo doporučí postiženému odborné ošetření; v závažných
+   případech (velká poleptaná plocha, vdechnutí par žíraviny, poleptání oka, požití
+   žíraviny) přivolá po poskytnutí první pomoci zdravotnickou záchrannou službu
+
+NEVHODNÉ POSTUPY:
+e pokusy o neutralizaci jinou chemikálií
+e podávání nápoje nebo vyvolávání zvracení při požití žíraviny
+
+
+
+
+                                                                                      6
+    45   STANDARDY PRVNÍ POMOCI
+
+
+
+
+         7. PRVNÍ POMOC PŘI OTRAVÁCH
+    OTRAVU ZPŮSOBUJÍ JEDY. JEDEM MOHOU BÝT I BĚŽNĚ UŽÍVANÉ LÁTKY UŽITÉ
+    V NEPŘIMĚŘENÉM MNOŽSTVÍ (LÉKY, ALKOHOL). DO TĚLA VNIKAJÍ ZE ZEVNÍHO
+    PROSTŘEDÍ VDECHOVÁNÍM, POLKNUTÍM, KŮŽÍ NEBO VPICHEM. PŘÍZNAKY OTRAV
+    ZÁVISÍ NA KONKRÉTNÍ LÁTCE, NELZE JE ZOBECNIT.
+
+
+        7. 1. UNIVERZÁLNÍ PRAVIDLA PRVNÍ POMOCI PŘI PODEZŘENÍ
+         NA OTRAVU
+    e zachránce vždy zajistí svou vlastní bezpečnost
+    e zachránce se pokusí omezit další vstřebávání jedu – vynesení postiženého,
+       vyvětrání, vyvolání zvracení, omytí potřísněné kůže apod.
+    e zachránce se pokusí identifikovat jed – zajištění obalů, ampulí, pokrmu, zvratků
+    e zachránce sleduje postiženého do jeho předání do zdravotnické péče
+    e při bezvědomí nejasného původu nebo při výskytu několika postižených se
+       shodnými příznaky je třeba vždy myslet na možnou otravu
+
+7   e možnost využít pomoci Toxikologického informačního střediska i pro laickou
+       veřejnost
+    e léčba otrav (podání „protilátek“ – antidot) není běžnou součástí první pomoci,
+       ve výjimečných případech lze podat antidotum po předchozí konzultaci
+       s dispečerem zdravotnické záchranné služby
+
+
+
+        7. 2. OTRAVY PLYNY
+    VSTUPNÍ BRANOU OTRAVY JSOU DÝCHACÍ CESTY. INHALAČNÍ OTRAVY MOHOU
+    ZPŮSOBIT TÉŽ PÁRY ČI AEROSOLY.
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e nejčastěji otrava oxidem uhelnatým (nedokonalé spalování, plynové ohřívače
+       vody – karmy)
+    e nevětrané provozy s kvasnými procesy (pivovary, vinné sklepy) a hluboké jámy
+       dlouhodobě nevětrané (studny, jeskyně) – oxid uhličitý
+    e průmyslové havárie – únik chloru, čpavku
+    e požáry – zplodiny hoření (fosgen)
+
+    TYPICKÉ PŘÍZNAKY:
+    Otrava oxidem uhelnatým:
+    e červená a/nebo namodralá barva obličeje, nevolnost, bolest hlavy, zvracení –
+       počátek otravy
+    e pocit dušení, tělesná slabost, bezvědomí – pokročilá otrava oxidem uhelnatým
+                                                                              46
+
+Otrava oxidem uhličitým:
+e pocit dušení, tělesná slabost, bezvědomí, útlum dechu
+
+Otrava dráždivými plyny:
+e kašel, pálení na prsou, dušnost – otrava chlorem, čpavkem, fosgenem
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e při delším nebo intenzivním vystavení jedovatému plynu smrtí
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e omezit nebezpečí pro sebe i druhé
+e přerušit vystavení jedovatému plynu
+e přivolat zdravotnickou záchrannou službu
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se ujistí, že jemu ani postiženému na místě nehrozí žádné další
+   nebezpečí
+e pokud se zachránce rozhodne vstoupit do zasaženého prostoru, zajistí předtím
+   pokud možno otevření všech oken a dveří
+e zachránce co nejrychleji vynese postiženého na čerstvý vzduch                    7
+e v případě bezvědomí postiženého postupuje zachránce podle standardu
+   2. 4. Bezvědomí
+e je-li postižený při vědomí, umožní mu zachránce zaujmout polohu, která mu
+   nejlépe vyhovuje
+e zachránce sleduje postiženého do příjezdu zdravotnické záchranné služby
+
+
+
+    7. 3. OTRAVY LÉKY
+K OTRAVĚ NEJČASTĚJI DOCHÁZÍ POŽITÍM VĚTŠÍHO MNOŽSTVÍ LÉKŮ. V SOUČASNÉ
+DOBĚ SE JEDNÁ O NEJČASTĚJI SE VYSKYTUJÍCÍ OTRAVY.
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e sebevražedné jednání, zneužívání omamných látek (často spolu s požitím
+   alkoholu)
+e náhodné požití (děti)
+
+TYPICKÉ PŘÍZNAKY:
+e nejsou – závisí na konkrétním preparátu
+e nejčastější a nejnápadnější jsou poruchy chování a vědomí
+    47   STANDARDY PRVNÍ POMOCI
+
+
+
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e vdechnutím zvratků
+    e dušením
+    e dechovým útlumem až zástavou dechu
+    e zástavou oběhu
+    e selháním jater a ledvin
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e zabránit dalšímu vstřebávání požité látky, pokud je to možné
+    e předejít komplikacím při bezvědomí
+    e zjistit druh a množství požitého léku, pokud je to možné
+
+    POSTUP PRVNÍ POMOCI:
+    e je-li vědomí postiženého dostatečně zachováno, pokusí se zachránce o vyvolání
+       zvracení
+    e zachránce se pokusí zjistit druh a množství požitého léku
+    e zachránce přivolá zdravotnickou záchrannou službu, do jejího příjezdu
+       postiženého sleduje
+
+7   e v případě poruchy vědomí postupuje zachránce podle standardu 2. 4. Bezvědomí
+
+
+
+         7. 4. OTRAVY HOUBAMI
+    OTRAVY HOUBAMI JSOU V NAŠICH PODMÍNKÁCH ČASTÉ, VĚTŠINA Z NICH JE NAŠTĚSTÍ
+    NEZÁVAŽNÝCH. OTRAVA SMRTELNĚ JEDOVATOU MUCHOMŮRKOU HLÍZNATOU
+    ZPŮSOBUJE SELHÁNÍ JATER. PRVNÍ PŘÍZNAKY SE OBJEVÍ S ČASOVÝM ODSTUPEM
+    (NEJDŘÍVE 8 HODIN PO POŽITÍ, ZPRAVIDLA POZDĚJI – 24 HODIN).
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e požití pokrmu z jedovatých hub
+    e záměrné experimentování s drogami (odvary z lysohlávky či muchomůrky
+       červené)
+
+    TYPICKÉ PŘÍZNAKY:
+    e závisí na konkrétní houbě
+    e nevolnost, zvracení, bolesti břicha (málo jedovaté holubinky, čirůvky či ryzce)
+    e halucinace, poruchy koordinace (lysohlávky)
+    e totéž muchomůrka červená (navíc široké zornice, suchá teplá kůže)
+    e celková slabost, nevolnost, žloutenka (muchomůrka hlíznatá)
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e ohrožením života (týká se téměř vždy muchomůrky hlíznaté)
+    e dehydratací při úporném zvracení a průjmu
+                                                                                48
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e omezit vstřebávání jedu
+e zmírnit obtíže postiženého
+e zajistit podezřelou houbu (pokrm)
+
+POSTUP PRVNÍ POMOCI:
+e je-li vědomí postiženého dostatečně zachováno, pokusí se zachránce o vyvolání
+   zvracení
+e zachránce podá 5–10 tablet živočišného uhlí (nejlépe rozdrcené v neutrálním
+   nápoji)
+e je-li to možné, zajistí zachránce vzorek hub, které otravu vyvolaly
+e při průjmech postupuje zachránce podle standardu 8. 7. Dehydratace a průjmová
+   onemocnění
+e zachránce zajistí odborné vyšetření postiženého
+
+
+
+    7. 5. OTRAVY OSTATNÍMI JEDY
+KAPITOLA SE ZABÝVÁ JEDY NEUVEDENÝMI V OSTATNÍCH KAPITOLÁCH. VSTUPNÍ                  7
+BRANOU PRO JED JE TRÁVICÍ TRAKT ČI KŮŽE. V SOUČASNÉ DOBĚ SE JEDNÁ O MÁLO
+POČETNOU SKUPINU ZÁVAŽNÝCH OTRAV.
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e požití (většinou náhodné), včetně požití jedovatých rostlin či živočichů
+e potřísnění kůže při práci s prostředky na ochranu rostlin (organofosfáty)
+
+TYPICKÉ PŘÍZNAKY:
+e nejsou – závisí na konkrétním jedu
+e nejčastější a nejnápadnější jsou poruchy chování a vědomí, bolesti břicha,
+   zvracení či průjem
+e v případě otravy organofosfáty:
+   — nevolnost
+   — slinění
+   — nápadně úzké zornice
+   — zvracení, křeče v břiše, průjmové stolice
+   — dechová tíseň, porucha vědomí
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e poškozením orgánů
+e poruchou vědomí
+e úmrtím při těžké otravě
+    49   STANDARDY PRVNÍ POMOCI
+
+
+
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e pokud je to možné, zabránit dalšímu vstřebávání jedu
+    e předejít komplikacím při bezvědomí
+    e pokud je to možné, zjistit druh jedu
+
+    POSTUP PRVNÍ POMOCI:
+    e v případě požití jedu:
+      — je-li vědomí postiženého dostatečně zachováno, pokusí se zachránce o vyvolání
+         zvracení
+      — zachránce se pokusí zjistit druh a množství požitého jedu
+      — zachránce přivolá zdravotnickou záchrannou službu, do jejího příjezdu
+         postiženého sleduje
+      — v případě poruchy vědomí postupuje zachránce podle standardu
+         2. 4. Bezvědomí
+    e v případě potřísnění jedem:
+      — zachránce se ujistí, že jemu ani postiženému na místě nehrozí žádné další
+         nebezpečí
+      — při ošetřování osob potřísněných jedovatými látkami zachránce důsledně dbá
+
+7        na vlastní bezpečnost – ošetřuje v rukavicích
+      — zachránce vyzve postiženého ke svlečení potřísněného oděvu i prádla a vyzutí
+         obuvi
+      — zachránce vyzve postiženého k důkladnému omytí potřísněných míst
+      — zachránce se pokusí zjistit název jedu, kterým se postižený potřísnil
+      — v případě poruchy vědomí postupuje zachránce podle standardu
+         2. 4. Bezvědomí
+      — zachránce zajistí odborné ošetření postiženého, v těžkých případech přivolá
+         zdravotnickou záchrannou službu a do jejího příjezdu postiženého sleduje
+                                                                                50
+
+    8. PRVNÍ POMOC U NEÚRAZOVÝCH STAVŮ DOSPĚLÝCH
+     OSOB
+    8. 1. KRÁTKODOBÉ PORUCHY VĚDOMÍ
+STAV LZE DEFINOVAT JAKO PŘECHODNOU ZTRÁTU VĚDOMÍ ZPŮSOBENOU
+NEDOKREVNOSTÍ MOZKU, V ČESKÉ TERMINOLOGII JE TÉŽ OZNAČEN JAKO MDLOBA.
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e změny polohy těla (z lehu nebo ze sedu do stoje)
+e dlouhé stání v dusném a teplém prostředí (uzavřené prostory, masová
+   shromáždění)
+e stresové situace u emočně labilních osob
+e srdeční onemocnění spojené s poruchami rytmu (arytmie)
+e alergické reakce, krvácení
+
+TYPICKÉ PŘÍZNAKY:
+e postižený je bledý, cítí se slabý, točí se mu hlava
+e následuje pád (sesunutí k zemi)
+e ve vodorovné poloze se záhy probírá zpět k plnému vědomí
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+                                                                                      8
+e poraněním při pádu
+e nerozpoznáním případného vážnějšího stavu (bezvědomí, náhlá zástava oběhu)
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e obnovit prokrvení mozku
+e vyloučit závažné onemocnění
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se při pádu snaží postiženého zachytit, a zabránit tak jeho úrazu
+e poté ho uloží na záda a zvedne mu dolní končetiny
+e uvolní mu tísnící oděv a zajistí přívod čerstvého vzduchu
+e jedná-li se o první příhodu nebo je-li postižena starší osoba, přivolá zachránce
+   zdravotnickou záchrannou službu za účelem odborného vyšetření
+e pokud postižený nenabývá rychle vědomí, postupuje zachránce podle standardu
+   2. 4. Bezvědomí
+e pokud jsou pochybnosti, zda postižený dýchá normálně, postupuje zachránce
+   neprodleně podle standardu 2. 1. Základní neodkladná resuscitace dospělých
+    51   STANDARDY PRVNÍ POMOCI
+
+
+
+
+         8. 2. KŘEČOVÉ STAVY
+    KŘEČÍ ROZUMÍME VŮLÍ NEOVLADATELNÉ STAHY KOSTERNÍHO SVALSTVA. PROJEVUJÍ
+    SE JAKO ZÁŠKUBY NEBO TRVALÝ STAH. ZÁCHVATY KŘEČÍ BÝVAJÍ ZPRAVIDLA SPOJENY
+    S PORUCHOU VĚDOMÍ.
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e epilepsie (padoucnice)
+    e náhlý vzestup tělesné teploty (přehřátí, febrilní křeče u dětí)
+    e nedokrvení mozku (možná známka zástavy oběhu, mozková příhoda)
+
+    TYPICKÉ PŘÍZNAKY:
+    e vzpínání trupu (prohnutí do tvaru luku), škubavé křeče končetin
+    e pěna u úst, pokousání jazyka
+    e pomočení, pokálení
+    e po odeznění záchvatu zpravidla přetrvává porucha vědomí či zmatenost
+       postiženého
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e poraněním vzniklým při pádu či křečích
+    e neprůchodností dýchacích cest
+8   e nerozpoznáním případného kritického stavu – náhlé zástavy oběhu
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e zabránit poranění postiženého
+    e udržet průchodnost dýchacích cest
+    e rozpoznat případný závažnější stav – náhlou zástavu oběhu
+
+    POSTUP PRVNÍ POMOCI:
+    e zachránce z okolí postiženého odstraní předměty, o něž by se mohl poranit
+    e po odeznění záchvatu, dokud se postižený neprobere k vědomí, postupuje
+       zachránce podle standardu 2. 4. Bezvědomí, v případě pochybnosti, zda postižený
+       dýchá normálně, postupuje zachránce neprodleně podle standardu 2. 1. Základní
+       neodkladná resuscitace dospělých
+    e zachránce přivolá zdravotnickou záchrannou službu; to není nutné, je-li si
+       zachránce jist, že se jedná o typicky probíhající záchvat u známého epileptika
+
+    NEVHODNÉ POSTUPY:
+    e páčení čelistí a vytahování jazyka ve fázi křečí – hrozí poranění postižené osoby
+       i prstů zachránce; na kvalitu dýchání tyto postupy nemají vliv
+    e fyzické bránění pohybu postiženého během záchvatu křečí
+                                                                                      52
+
+    8. 3. NÁHLE VZNIKLÉ PORUCHY HYBNOSTI A ŘEČI
+NÁHLE VZNIKLÁ PORUCHA HYBNOSTI NEBO ŘEČI POSTIŽENÉHO SIGNALIZUJE
+POŠKOZENÍ MOZKU. ČESKY SE TENTO STAV TÉŽ NAZÝVÁ MOZKOVÁ MRTVICE.
+
+
+TYPICKÉ PŘÍZNAKY:
+Dle umístění poškození a jeho rozsahu alespoň některé z následujících:
+e náhle vzniklá porucha citlivosti nebo hybnosti obličeje (pokles ústního koutku či
+víčka)
+e náhle vzniklá porucha hybnosti (ochrnutí) nebo čití na jedné polovině těla
+e náhlá zmatenost, neschopnost mluvit nebo porozumět mluvené řeči
+e náhlá porucha zraku
+e náhle vzniklá porucha chůze, závrať, ztráta rovnováhy a koordinace
+e náhle vzniklá krutá bolest hlavy bez jiné zjevné příčiny
+e náhle vzniklá porucha vědomí
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e trvalým poškozením mozku
+e neprůchodností dýchacích cest při poruše vědomí
+e podchlazením při delším trvání stavu
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e co nejdříve rozpoznat stav
+                                                                                           8
+e zabránit vzniku komplikací (zejména neprůchodnosti dýchacích cest)
+e co nejrychlejšího dopravení postiženého do zdravotnického zařízení
+
+POSTUP PRVNÍ POMOCI:
+e zachránce přivolá zdravotnickou záchrannou službu
+e zachránce neopouští postiženého, zajistí jeho tepelný komfort
+e v případě poruchy vědomí postupuje zachránce podle standardu 2. 4. Bezvědomí
+
+POZNÁMKA:
+e současné léčebné postupy v některých případech umožňují obnovení průtoku
+   krve v postižené oblasti mozku; úspěšnost výkonu je závislá na době trvání
+   uzávěru, proto je nezbytné zdravotnickou záchrannou službu přivolat co nejdříve
+   po vzniku příznaků
+e při výuce první pomoci je vhodné příznaky náhle vzniklé poruchy hybnosti nebo
+   řeči redukovat do tří oblastí:
+   1) OBLIČEJ – narušení symetrie, pokles koutku,
+   2) PAŽE – není schopen udržet obě paže předpažené,
+   3) ŘEČ – nemluví vůbec, nebo je řeč setřelá či nesrozumitelná.
+     53   STANDARDY PRVNÍ POMOCI
+
+
+
+
+         8. 4. NÁHLE VZNIKLÁ BOLEST NA HRUDI
+     NEJVÁŽNĚJŠÍ PŘÍČINOU BOLESTÍ NA HRUDI JE SRDEČNÍ INFARKT (NEDOKREVNOST
+     ČÁSTI SRDEČNÍHO SVALU), KTERÝ MŮŽE VYÚSTIT V NÁHLOU ZÁSTAVU OBĚHU
+     A VYŽADUJE NEODKLADNÉ ODBORNÉ OŠETŘENÍ. ROZLIŠENÍ JEDNOTLIVÝCH FOREM
+     ISCHEMICKÉ CHOROBY SRDEČNÍ (SRDEČNÍ ANGÍNA, SRDEČNÍ INFARKT) NEMÁ V PRVNÍ
+     POMOCI VÝZNAM.
+
+     BOLESTI NA HRUDI MOHOU MÍT I ŘADU JINÝCH PŘÍČIN (FUNKČNÍ PORUCHY PÁTEŘE,
+     BOLESTI U EMOČNĚ LABILNÍCH OSOB, ZÁNĚTY PLIC, ÚRAZY HRUDNÍKU ATD.).
+     VZHLEDEM K ZÁVAŽNOSTI SRDEČNÍHO INFARKTU, NUTNOSTI OŠETŘIT POSTIŽENÉHO
+     CO NEJDŘÍVE VE ZDRAVOTNICKÉM ZAŘÍZENÍ A NEMOŽNOSTI JEDNOTLIVÉ PŘÍČINY
+     V PRVNÍ POMOCI ROZLIŠIT MUSÍ PŘI SEBEMENŠÍM PODEZŘENÍ ZACHRÁNCE
+     POSTUPOVAT, JAKO BY SE O SRDEČNÍ INFARKT JEDNALO.
+
+
+     VYVOLÁVAJÍCÍ PŘÍČINY:
+     e fyzická námaha (chůze do kopce a schodů, jízda na kole, tanec, běh)
+     e změna teploty (z tepla do chladu)
+     e psychické rozrušení
+     e někdy vzniká bolest i v klidu (bez zjistitelné příčiny)
+8 TYPICKÉ PŘÍZNAKY:
+     e náhle vzniklý nepříjemný tlak, svírání či pálení uprostřed hrudníku
+     e v yzařování do ramenou, horních končetin (častěji levé), mezi lopatky, do dolní
+        čelisti či nadbřišku
+     e bolest bývá spojena s dušností, pocitem úzkosti, studeným potem, nevolností či
+        zvracením
+
+     ČÍM JE POSTIŽENÝ OHROŽEN?
+     e náhlou zástavou oběhu
+     e nevratným poškozením srdečního svalu
+
+     ČEHO POTŘEBUJEME DOCÍLIT?
+     e co nejrychlejšího příjezdu zdravotnické záchranné služby
+     e zklidnit postiženého a zmírnit jeho potíže
+     e snížit riziko vzniku náhlé zástavy oběhu
+
+     POSTUP PRVNÍ POMOCI:
+     e zachránce umožní postiženému zaujmout úlevovou polohu (nejčastěji vpolosedě),
+        uvolní mu tísnící oděv, zajistí přívod čerstvého vzduchu
+     e zachránce ihned přivolá zdravotnickou záchrannou službu
+                                                                              54
+
+e zachránce požádá postiženého, aby se vyvaroval fyzické námahy (důsledně
+   zabrání chůzi)
+e má-li postižený pro tento případ předepsány nějaké léky, pomůže mu je zachránce
+   užít
+e zachránce postiženého pokud možno neopouští, sleduje jeho stav a reaguje
+   na jeho případné zhoršení; přestane-li postižený normálně dýchat, postupuje
+   zachránce neprodleně podle standardu 2. 1. Základní neodkladná resuscitace
+   dospělých
+
+
+
+    8. 5. STAVY DUŠNOSTI
+DUŠNOST JE POCIT NEDOSTATKU VZDUCHU NEBO OBTÍŽNÉHO DÝCHÁNÍ.
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e onemocnění dýchacího ústrojí (astma, chronická obstrukční plicní nemoc,
+   záněty)
+e srdeční slabost (srdeční selhání)
+e psychická labilita
+
+TYPICKÉ PŘÍZNAKY:
+e pocit nedostatku vzduchu, obtížného dýchání
+                                                                                     8
+e fyzická slabost, zhoršení dušnosti při námaze či poloze vleže
+e neschopnost na jeden nádech říci více než pár slov
+e abnormální dechové zvuky (pískání)
+e zvýšená dechová frekvence, povrchní dýchání
+e v závažných případech promodrání, neklid či zmatenost postiženého
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e nedostatkem kyslíku
+e při pokročilém stavu hrozí porucha vědomí či dýchání s následným nebezpečím
+   zástavy oběhu
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e předejít vzniku kritického stavu
+e zmírnit obtíže postiženého
+e je-li to nutné, přivolat zdravotnickou záchrannou službu
+
+POSTUP PRVNÍ POMOCI:
+e zachránce pomůže postiženému zaujmout úlevovou polohu (nejčastěji
+   v předklonu vsedě se zapřenýma rukama)
+e zachránce uvolní tísnící oděv, zajistí přívod čerstvého vzduchu
+    55   STANDARDY PRVNÍ POMOCI
+
+
+
+
+    e má-li postižený pro tento případ předepsány nějaké léky, zachránce mu je
+       pomůže užít
+    e zachránce přivolá zdravotnickou záchrannou službu, pokud:
+       — výše uvedená opatření nevedou v krátké době ke zlepšení stavu
+       — postižený je zmatený, neklidný či promodrává
+       — nejsou slyšet žádné dechové zvuky
+       — postižený dýchá nápadně rychle
+    e zachránce postiženého neopouští, není-li to nutné; je připraven na možné
+       zhoršení stavu
+    e v případě dušení postupuje zachránce podle standardu 2. 8. Uzávěr dýchacích
+       cest cizím tělesem
+
+    NEVHODNÉ POSTUPY:
+    e položení postiženého – zhoršuje dušnost; je-li příčinou dušnosti srdeční slabost,
+       může položení postiženého vést k zástavě oběhu!
+
+
+
+        8. 6. BOLESTI BŘICHA
+    BOLESTMI BŘICHA SE ROZUMÍ ZPRAVIDLA NÁHLE VZNIKLÉ VÝRAZNÉ AŽ KRUTÉ
+
+8   BOLESTI BŘICHA, PODBŘIŠKU, BOKŮ ČI BEDER. URČENÍ JEJICH PŘÍČINY NENÍ V RÁMCI
+    PRVNÍ POMOCI MOŽNÉ.
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY (NEJČASTĚJŠÍ):
+    e průjmová onemocnění (střevní infekce)
+    e dietní chyby (žlučníková kolika)
+    e zánětlivé příčiny (zánět červovitého přívěsku, zánět slinivky břišní)
+    e střevní neprůchodnost (zauzlení střev, nádorová onemocnění)
+    e onemocnění močového ústrojí (ledvinná kolika)
+    e cévní onemocnění (výduť břišní aorty, nedokrevnost střev)
+    e stavy spojené s těhotenstvím (mimoděložní těhotenství)
+    e srdeční infarkt (může vyvolávat bolest v nadbřišku)
+
+    TYPICKÉ PŘÍZNAKY:
+    V závislosti na příčině stavu některé z následujících:
+    e bolest břicha (ale i bolest podbřišku, boků či beder)
+    e nevolnost či zvracení
+    e zástava odchodu plynů a stolice, nebo naopak průjem a zvýšená plynatost
+    e nafouklé břicho citlivé na pohmat
+    e postižený může být bledý, opocený a zpravidla hledá úlevovou polohu
+    e v případě vnitřního krvácení známky šoku (viz standard 2. 6. Vnitřní krvácení
+       a prevence šoku)
+                                                                                 56
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e v závislosti na vyvolávající příčině komplikacemi různé závažnosti až úmrtím
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e úlevy od bolesti
+e odborného vyšetření, je-li to potřeba
+
+POSTUP PRVNÍ POMOCI:
+e zachránce pomůže postiženému zaujmout úlevou polohu (nejčastěji vsedě či vleže
+   v „klubíčku“)
+e zachránce zajistí, aby postižený nic nejedl
+e má-li postižený pro tento případ předepsány nějaké léky, pomůže mu je zachránce
+   užít
+e pokud obtíže neustávají nebo se zhoršují, doporučí nebo zajistí zachránce
+   lékařské vyšetření
+e zachránce přivolá zdravotnickou záchrannou službu, pokud:
+   — přes výše uvedená opatření je bolest nadále velmi silná až nesnesitelná
+   — bolest je spojena s horečkou, dušností, mdlobou či pocením
+
+
+
+    8. 7. DEHYDRATACE A PRŮJMOVÁ ONEMOCNĚNÍ
+                                                                                      8
+DEHYDRATACE JE STAV ZAHUŠTĚNÍ TĚLESNÝCH TEKUTIN. DOCHÁZÍ K NĚMU PŘI
+NADMĚRNÝCH ZTRÁTÁCH VODY. PŘI ZVRACENÍ A PRŮJMECH JE KOMBINOVÁN SE
+ZTRÁTAMI MINERÁLŮ.
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+Dehydratace:
+e průjmová onemocnění, zvracení
+e horečka, přehřátí, úpal či úžeh (viz také standard 5. 2. Úpal a úžeh)
+
+Průjmová onemocnění:
+e dietní chyba
+e infekční průjem (cestovatelské průjmy, salmonelózy, virové průjmy apod.)
+
+TYPICKÉ PŘÍZNAKY:
+Dehydratace:
+e pocit žízně a sucha v ústech
+e oschlý jazyk
+e snížené napětí kůže (kožní řasa se po stisku nevrací zpět)
+e snížená produkce tmavé koncentrované moči
+    57   STANDARDY PRVNÍ POMOCI
+
+
+
+
+    Průjmová onemocnění:
+    e bolesti břicha
+    e nevolnost, zvracení
+    e opakované řídké či vodnaté stolice
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e při průjmech dehydratací
+    e při dehydrataci postupným selháním krevního oběhu
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e nahradit tekutiny a minerály ztracené postiženým
+
+    POSTUP PRVNÍ POMOCI:
+    e zachránce odstraní příčinu, která vedla k dehydrataci (úpal, úžeh, horečka),
+       pokud je to možné
+    e v případě průjmového onemocnění zajistí či doporučí zachránce postiženému
+       nedráždivou dietní stravu (suchary, piškoty, vařená rýže, nekořeněné jídlo apod.)
+    e zachránce se pokusí zajistit postiženému příjem tekutin vyšší, než jsou jejich
+       ztráty – k tomu upřednostní komerčně vyráběné rehydratační roztoky nebo
+       slazený studený čaj
+    e zachránce doporučí postiženému popíjet spíše menší množství roztoku častěji než
+       velké dávky jednorázově
+8   e úspěšná rehydratace se projeví zvýšenou četností močení a světlejší méně
+       koncentrovanou močí
+    e nedaří-li se rehydratace (postižený není schopen vypít dostatek tekutin) nebo
+       objeví-li se známky závažné dehydratace (slabý a rychlý tep, malátnost, zmatenost
+       či neklid) nebo trvají-li průjmy (zejména spojené s horečkou), zajistí zachránce
+       odborné vyšetření postiženého
+
+
+
+         8. 8. NALÉHAVÉ STAVY PŘI CUKROVCE
+    NALÉHAVÝ STAV VZNIKLÝ V SOUVISLOSTI S CUKROVKOU, NEJČASTĚJI V DŮSLEDKU
+    SNÍŽENÉ HLADINY KREVNÍHO CUKRU (HYPOGLYKEMIE). STAVY SOUVISEJÍCÍ
+    S VYSOKOU HLADINOU KREVNÍHO CUKRU (HYPERGLYKEMIE) NEJSOU V RÁMCI PRVNÍ
+    POMOCI ROZPOZNATELNÉ A ŘEŠITELNÉ A PODSTATOU PRVNÍ POMOCI JE ZAJIŠTĚNÍ
+    ODBORNÉHO OŠETŘENÍ, PŘÍPADNĚ PÉČE O POSTIŽENÉHO V BEZVĚDOMÍ. PROTO SE
+    DALŠÍ TEXT STANDARDU ZABÝVÁ ZEJMÉNA HYPOGLYKEMIÍ.
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e předávkování inzulinem nebo léky na cukrovku
+    e vynechání pravidelné dávky jídla
+    e fyzický výkon spojený s nadměrným energetickým výdejem
+                                                                                58
+
+TYPICKÉ PŘÍZNAKY:
+V závislosti na vývoji stavu se postupně (během minut) objevují některé
+ z následujících:
+ e hlad a slabost
+ e pocení a třes
+ e poruchy řeči a koordinace (stav může připomínat opilost)
+ e zmatenost a agresivita
+ e ztráta vědomí, případně křeče
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e poškozením mozku při dlouhém trvání stavu hypoglykemie
+e nerozpoznáním případného jiného vážnějšího stavu (náhlá zástava oběhu)
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zvýšit hladinu glukózy v krvi
+
+POSTUP PRVNÍ POMOCI:
+e zachránce při prvních příznacích hypoglykemie, pokud to stav vědomí
+   postiženého dovolí, podá postiženému jakýkoli nápoj s obsahem cukru (alespoň
+   20 g cukru nebo 250 ml sladkého nápoje)
+e zachránce postiženého vyzve, aby si změřil hladinu glukózy v krvi; další dávka
+   nápoje či jídla závisí na aktuální hodnotě glykemie
+e v případě poruchy vědomí nepodává zachránce postiženému nic ústy; kritériem
+   je schopnost sebeobsluhy; dokáže-li postižený nápoj sám vzít do ruky a přiložit
+                                                                                      8
+   k ústům, je pravděpodobně schopen ho i bezpečně polknout
+e v případě poruchy vědomí postupuje zachránce dle standardu 2. 4. Bezvědomí
+e pokud se stav postiženého během několika minut nelepší, dochází ke zhoršování
+   příznaků nebo je přítomna porucha vědomí, přivolá zachránce neprodleně
+   zdravotnickou záchrannou službu
+
+POZNÁMKA:
+e náhle (během sekund) vzniklá porucha vědomí není typická pro komplikace
+   cukrovky; v takovém případě je nutné vyloučit náhlou zástavu oběhu – zachránce
+   postupuje podle standardu 2. 1. Základní neodkladná resuscitace dospělých
+
+e v určitém procentu případů poruch vědomí souvisejících s vysokou hladinou
+   cukru v krvi může být z dechu postiženého cítit aceton, což je spojeno s rizikem
+   záměny za opilost (podobný zápach) a podcenění stavu postiženého
+    59   STANDARDY PRVNÍ POMOCI
+
+
+
+
+        8. 9. KRVÁCENÍ Z TĚLESNÝCH OTVORŮ
+    KRVÁCENÍ Z TĚLESNÝCH OTVORŮ PŘEDSTAVUJE KOMBINACI ZEVNÍHO A VNITŘNÍHO
+    KRVÁCENÍ. ZEVNÍMU SE PODOBÁ TÍM, ŽE JE VIDITELNÉ (NĚKDY SE PROJEVÍ
+    SE ZNAČNÝM ZPOŽDĚNÍM). VNITŘNÍMU TÍM, ŽE JEHO ZDROJ NENÍ PŘÍSTUPNÝ
+    LAICKÉMU OŠETŘENÍ.
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e krvácení z nosu – poranění, spontánní krvácení zejména u osob s vysokým
+       krevním tlakem
+    e krvácení z úst – nejčastěji po poranění či vytržení zubu
+    e krvácení z ucha – mechanické poranění zvukovodu, zlomenina spodiny lebeční,
+       následek tlakové vlny po výbuchu
+    e zvracení krve – krvácení z jícnu, žaludku či dvanáctníku (žaludeční vředy,
+       jícnové městky)
+    e vykašlávání krve – nádor, tuberkulóza
+    e krvácení z konečníku / krev ve stolici – hemoroidy, záněty a nádory střeva;
+       v případě odchodu tmavé zapáchající „dehtovité“ stolice je příčinou krvácení
+       do horní části trávicího traktu (jícen, žaludek)
+    e krvácení z rodidel mimo menstruační cyklus – ze stavů vyžadujících první
+       pomoc se jedná zejména o krvácení v souvislosti s těhotenstvím (mimoděložní
+8      těhotenství, potrat)
+
+    TYPICKÉ PŘÍZNAKY:
+    e vytékání, vykašlávání či zvracení krve z příslušného tělního otvoru
+    e příznaky vnitřního krvácení – viz standard 2. 6. Vnitřní krvácení a prevence šoku
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e rozvojem šoku při velké ztrátě krve (krvácení do trávicího traktu, krvácení
+       z rodidel)
+    e vdechnutím krve (masivní zvracení, krvácení z nosu při poruše vědomí)
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e zajistit odborné ošetření
+    e zabránit vdechnutí či zatečení krve do dýchacích cest
+    e v případě velké krevní ztráty provést protišoková opatření
+    e v případě krvácení z úst či nosu zastavit či omezit krvácení
+
+    POSTUP PRVNÍ POMOCI:
+    e krvácení z nosu:
+    	— zachránce vyzve postiženého, aby se posadil a mírně předklonil
+    	—stiskne pevně nosní křídla těsně pod nosními kůstkami a drží alespoň pět minut
+                                                                               60
+
+	— zachránce vyzve postiženého, aby krev stékající nosohltanem nepolykal,
+     ale vyplivoval
+	— pokud krvácení trvá nebo se opakuje, zachránce zajistí nebo doporučí
+     postiženému odborné ošetření v ORL ambulanci
+e krvácení z úst:
+	— je-li příčinou krvácení vytržení (vyražení) zubu, vloží zachránce do vzniklé
+     mezery tampon a vyzve postiženého, aby ho skousnul
+	— zachránce zajistí nebo doporučí postiženému odborné ošetření v zubní
+     ambulanci
+e krvácení z ucha:
+	— zachránce nechá krev volně vytékat, pouze přiloží savý obvaz (viz také
+     standard 3. 1. Mozkolebeční poranění)
+	— je-li podezření, že krvácení může být způsobeno závažným úrazem, zachránce
+     přivolá zdravotnickou záchrannou službu (viz standard 3. 1. Mozkolebeční
+     poranění)
+e zvracení krve:
+	— zachránce přivolá zdravotnickou záchrannou službu
+	— zachránce zajistí, aby nedošlo ke vdechnutí/zatečení krve
+     do dýchacích cest
+	— je-li to potřebné, postupuje podle standardu 2. 6. Vnitřní krvácení a prevence
+     šoku
+e vykašlávání krve:
+	— zachránce přivolá zdravotnickou záchrannou službu
+	— je-li to možné, zachránce posadí postiženého v mírném předklonu
+                                                                                      8
+     a doporučí postiženému, aby krev vyplivoval
+	— má-li zachránce podezření, že příčinou stavu postiženého může být
+     tuberkulóza, použijte při jeho ošetřování roušku přes svoje ústa a nos
+e krvácení z konečníku / krev ve stolici / dehtovitá zapáchající stolice:
+	— zachránce zajistí nebo doporučí postiženému odborné ošetření
+	— v případě masivního krvácení postupuje podle standardu 2. 6. Vnitřní krvácení
+     a prevence šoku a přivolá zdravotnickou záchrannou službu
+e krvácení z rodidel mimo menstruační cyklus:
+	— zachránce postupuje podle standardu 2. 6. Vnitřní krvácení a prevence šoku
+     a přivolá zdravotnickou záchrannou službu
+    61   STANDARDY PRVNÍ POMOCI
+
+
+
+
+         8. 10. ALERGICKÁ REAKCE
+    ALERGIE JE VYSTUPŇOVANÁ (AŽ ŽIVOT OHROŽUJÍCÍ) OBRANNÁ REAKCE NA VSTUP
+    CIZORODÉ LÁTKY DO ORGANISMU. NEJTĚŽŠÍ FORMOU ALERGIE JE TZV. ANAFYLAXE
+    PROVÁZENÁ SELHÁNÍM KREVNÍHO OBĚHU (MDLOBA).
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e kontakt s alergenem
+      — potraviny (ořechy, aromatické a tropické ovoce, mořští živočichové)
+      — léky
+      — pyly, prach, roztoči, srst
+      — hmyzí jed (zejména žihadlo včely)
+
+    TYPICKÉ PŘÍZNAKY:
+    Mírná příhoda (běžná alergie) – zejména na pyl, prach, roztoče a srst:
+    e lokální příznaky – zarudnutí spojivek, pálení očí, slzení, alergická rýma, případně
+       mírný otok a zarudnutí kolem místa bodnutí hmyzem
+
+    Závažná příhoda (anafylaxe) – celkové příznaky:
+    e kožní projevy – kopřivka (svědící zarudlé pupínky velikosti špendlíkové
+       hlavičky), otoky
+8   e slizniční projevy – bledé otoky, pocit „knedlíku v krku“
+    e nevolnost, zvracení
+    e pocit slabosti, motání hlavy, mdloba
+    e obtížné dýchání, dušnost a dušení při masivním otoku měkkých tkání dutiny
+       ústní a krku
+
+    ČÍM JE POSTIŽENÝ OHROŽEN?
+    e dušením při otoku dýchacích cest
+    e selháním krevního oběhu při anafylaxi
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e zmírnit projevy alergie
+    e zabránit vzniku vážných komplikací
+    e v případě závažné příhody co nejrychlejšího příjezdu zdravotnické záchranné služby
+
+    POSTUP PRVNÍ POMOCI:
+    e v případě mírné příhody:
+    	— zachránce doporučí postiženému užít léky, které má postižený pro tento případ
+           předepsány nebo doporučeny (antihistaminika, oční a nosní kapky apod.)
+    	— na lokální otok je možno použít gel s obsahem antihistaminika
+    e v případě závažné příhody:
+    	— zachránce přivolá zdravotnickou záchrannou službu – jedná-li se o osobu se známou
+          vážnou alergií, nečeká zachránce s voláním na rozvoj příznaků závažné příhody
+                                                                                 62
+
+	— zachránce co nejdříve postiženému podá 1 tabletu libovolného antihistaminika
+	— podle stavu zachránce postiženého posadí nebo položí, v případě známek
+     rozvoje anafylaxe (slabost, dýchací potíže, vyrážka, motání hlavy, kolaps)
+     postiženého položí a zvedne mu dolní končetiny alespoň o 30 cm
+	— má-li pro tyto případy postižený předepsán speciální autoinjektor s adrenalinem
+     (Epipen®, Anapen®), pomůže mu ho zachránce užít; není-li toho postižený
+    schopen, sejme zachránce horní kryt autoinjektoru a přitlačí ho silou k zevní
+    straně stehna postiženého; před jeho vytažením vyčká 10 sekund
+
+
+
+    8. 11. PŘISÁTÉ KLÍŠTĚ
+KLÍŠTĚ JE PŘENAŠEČEM ZÁVAŽNÝCH ONEMOCNĚNÍ – LYMSKÉ BORELIÓZY A KLÍŠŤOVÉ
+ENCEFALITIDY. PRAVDĚPODOBNOST PŘENOSU NÁKAZY STOUPÁ S DOBOU PŘISÁTÍ
+KLÍŠTĚTE.
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e přisátí klíštěte
+
+TYPICKÉ PŘÍZNAKY:
+e klíště přisáté na kůži                                                                 8
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e závažným onemocněním (lymskou boreliózou, klíšťovou encefalitidou)
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e správně a co nejdříve klíště odstranit
+
+POSTUP PRVNÍ POMOCI:
+e zachránce nebo postižený klíště uchopí do pinzety nebo jiného k tomu přímo
+   určeného nástroje a klíště bez další manipulace vytáhne
+e ranku po přisátí a její okolí postižený nebo zachránce dezinfikuje, nejlépe
+   dezinfekcí s obsahem jodu (není-li postižený na takovou dezinfekci alergický)
+e zachránce doporučí postiženému pro případ, že v místě přisátí klíštěte přetrvává
+   nebo se rozšiřuje začervenání, odborné vyšetření
+e zachránce doporučí postiženému pro případ onemocnění s „chřipkovými
+   příznaky“ vzniklého v době několika týdnů po odstranění klíštěte vyhledat
+   odborné vyšetření a informovat lékaře, že měl přisáté klíště
+
+NEVHODNÉ POSTUPY:
+e kroucení či kývání s přisátým klíštětem
+e „dušení“ klíštěte mastí
+     63   STANDARDY PRVNÍ POMOCI
+
+
+
+
+         9. PRVNÍ POMOC U NEÚRAZOVÝCH STAVŮ
+          V DĚTSKÉM VĚKU
+         9. 1. HOREČKA U DÍTĚTE
+     HOREČKA NENÍ NEMOC, ALE PRŮVODNÍ PŘÍZNAK ŘADY ONEMOCNĚNÍ. NORMÁLNÍ
+     TĚLESNÁ TEPLOTA V PODPAŽÍ SE POHYBUJE V ROZMEZÍ 36,0–37,0 °C. ZA HOREČKU
+     POVAŽUJEME TEPLOTU NAD 38,0 °C. U KOJENCŮ MĚŘÍME TEPLOTU V KONEČNÍKU,
+     OD NAMĚŘENÉ HODNOTY PAK ODEČÍTÁME 0,5 °C.
+
+     VYVOLÁVAJÍCÍ PŘÍČINY:
+     e virové nebo bakteriální infekce
+     e celkové přehřátí
+
+     TYPICKÉ PŘÍZNAKY:
+     e nápadná změna chování dítěte
+     e únava a spavost
+     e odmítání her, jídla a pití
+     e prudkému vzestupu teploty může předcházet zimnice (třesavka)
+     e dítě má horkou hlavu (tváře, čelo) a trup, případně suchou kůži a sliznice
+     e křeče (viz standard 9. 2. Záchvat křečí u dítěte)
+
+9 ČÍM JE DÍTĚ OHROŽENO?
+  e celkovým tělesným vyčerpáním
+     e ztrátou tekutin (dehydratací)
+
+     ČEHO POTŘEBUJEME DOCÍLIT?
+     e šetrného, ale dostatečného snížení tělesné teploty
+
+     POSTUP PRVNÍ POMOCI:
+     e podávání léků (paracetamol, ibuprofen):
+     	— forma čípků – kojenci a děti, které zvrací
+     	— sirupy a tablety – spolupracující děti
+     	— dávku je nutno uzpůsobit váze dítě (uvedeno v příbalovém letáku); zachránce
+          dávku zásadně nepřekračuje
+     	— zachránce zajistí dostatečný příjem tekutin, jejich výběr podřídí chuti dítěte
+     e fyzikální chlazení:
+     	— zachránce dítě osprchuje vlažnou vodou
+                                                                                     64
+
+	— zachránce přiloží chladivé obklady do oblasti třísel a nadklíčkových jamek
+	— není-li tento postup účinný, provede zachránce celotělový zábal
+e t rvá-li horečka déle než dva dny, zajistí zachránce odborné lékařské vyšetření
+   dítěte
+
+NEVHODNÉ POSTUPY:
+e příliš razantní fyzikální ochlazování (po fyzikálním ochlazení vždy následuje
+   kontrola teploty)
+e podávání léků obsahujících kyselinu acetylsalicylovou
+e nedostatečný přívod tekutin a nerozpoznání dehydratace (odvodnění) organismu
+
+
+
+    9. 2. ZÁCHVAT KŘEČÍ U DÍTĚTE
+KŘEČEMI ROZUMÍME VŮLÍ NEOVLADATELNÉ STAHY KOSTERNÍHO SVALSTVA. PROJEVUJÍ
+SE JAKO ZÁŠKUBY NEBO TRVALÝ STAH. ZÁCHVATY KŘEČÍ BÝVAJÍ ZPRAVIDLA SPOJENY
+S PORUCHOU VĚDOMÍ.
+
+
+Text standardu se věnuje především problematice febrilních křečí.
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e horečka (tzv. febrilní křeče)
+e infekce centrální nervové soustavy (klíšťový zánět mozku)
+e onemocnění nervové soustavy (epilepsie – viz standard 8. 2. Křečové stavy)              9
+TYPICKÉ PŘÍZNAKY:
+e nástupu febrilních křečí vždy předchází horečka
+e nejčastější výskyt v kojeneckém a batolecím věku (mezi 1. a 3. rokem života)
+e tělo je napnuté, někdy prohnuté do tvaru luku
+e záškuby v obličeji a na končetinách
+e dítě má nepřítomný pohled, přechodně může ztratit vědomí
+e záchvat často provází promodrání kůže a vytékání slin z úst
+
+ČÍM JE DÍTĚ OHROŽENO?
+e ztrátou vědomí
+e poškozením mozku – dlouhotrvající křeče způsobují nedostatek kyslíku
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e snížit tělesnou teplotu
+e zabránit druhotným poškozením
+    65   STANDARDY PRVNÍ POMOCI
+
+
+
+
+    POSTUP PRVNÍ POMOCI:
+    e zachránce uloží dítě do postýlky
+    e zachránce brání možnosti zranění, dítě obloží měkkým materiálem; zásadně se
+       vyvaruje pokusů o fyzické omezení křečí
+    e zachránce podá léky na snížení horečky dle standardu 9. 1. Horečka u dítěte,
+       pokud má dítě předepsán lék k tlumení křečí, aplikuje doporučenou dávku
+    e zachránce zajistí lékařské vyšetření dítěte; v případě, že je stav spojený
+       s poruchou vědomí, přivolá zdravotnickou záchrannou službu
+
+    NEVHODNÉ POSTUPY:
+    e nepodání dostatečných dávek léků na snížení horečky
+    e násilné bránění křečovým projevům a pokusy o rozevření úst (páčení čelisti)
+    e podcenění stavu, nezajištění odborné péče dítěti s poruchou vědomí
+
+
+
+    9. 3. STAVY DECHOVÉ TÍSNĚ U DÍTĚTE
+    STAVY DECHOVÉ TÍSNĚ V DĚTSKÉM VĚKU SE VYZNAČUJÍ NÁHLÝM ZAČÁTKEM
+    A RYCHLOU PROGRESÍ. ŽIVOT DÍTĚTE OHROŽUJÍ OTOKEM ČI ZÚŽENÍM DÝCHACÍCH CEST
+    S MOŽNOSTÍ DUŠENÍ. VYŽADUJÍ NEODKLADNOU ODBORNOU POMOC.
+
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e virová infekce u laryngitidy (zánětu hrtanu)
+9   e bakteriální infekce u epiglotitidy (zánět příklopky hrtanové)
+    e u záchvatu průduškového astmatu nejčastěji alergie, infekce, námaha nebo chlad
+
+    TYPICKÉ PŘÍZNAKY:
+    Laryngitida:
+    e onemocnění vzniká často v noci; nejčastěji mezi 1. a 3. rokem věku dítěte
+    e dítě je neklidné a úzkostné
+    e zvýšená teplota
+    e dítě se obtížně nadechuje, nádech je provázen hlasitými zvukovými fenomény,
+       štěkavým kašlem
+    e promodrávání dítěte při závažném stavu
+
+    Epiglotitida:
+    e onemocnění vzniká nejčastěji mezi 3. a 6. rokem věku dítěte
+    e dítě je úzkostné, přitom však nápadně klidné, bledé, zchvácené, dušné
+    e obtížné a bolestivé polykání, z úst tečou sliny, dítě chraptí, šeptá
+    e dítě sedí, brání se poloze vleže (dušnost se vleže zhoršuje)
+                                                                                     66
+
+Záchvat průduškového astmatu:
+e dítě je dušné, převážně při výdechu
+e dech je povrchní, zrychlený, mohou být slyšet pískoty
+e dítě má dráždivý suchý kašel
+e dítě je úzkostné, vyděšené
+e při těžkém záchvatu je dýchání dítěte velmi namáhavé, dochází k fyzickému
+   vyčerpání dítěte, dítě promodrává
+
+ČÍM JE DÍTĚ OHROŽENO:
+e dušením s následnou poruchou vědomí a zástavou oběhu
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e co nejrychlejšího příjezdu zdravotnické záchranné služby
+e zklidnění dítěte
+e zmenšení otoku dýchacích cest při laryngitidě
+e zmírnění dušnosti dítěte jeho správným polohováním při epiglotitidě
+e při průduškovém astmatu či obstruktivní bronchitidě podání patřičných léčiv,
+   pokud je má dítě pro tento případ předepsané
+
+POSTUP PRVNÍ POMOCI:
+Laryngitida:
+e zachránce neprodleně přivolá zdravotnickou záchrannou službu
+e je-li to možné, vystaví zachránce dítě chladnému vlhkému prostředí (zabalení
+   dítěte do přikrývky a inhalace chladného vzduchu u otevřeného okna či
+   chladničky nebo rozvěšení mokrých prostěradel kolem postýlky dítěte)
+e v případě, že dítěti byly pro tento případ předepsány léky (nejčastěji v podobě
+   čípků s kortikoidy), podá je zachránce dítěti co nejdříve
+                                                                                          9
+Epiglotitida:
+e zachránce neprodleně přivolá zdravotnickou záchrannou službu
+e zachránce zajistí polohu dítěte vpolosedě a přívod čerstvého vzduchu
+
+Záchvat průduškového astmatu:
+e zachránce zajistí přívod čerstvého vzduchu
+e zachránce uloží dítě do polohy vpolosedě s horními končetinami zapřenými
+   o pevnou podložku
+e zachránce se pokusí dítě uklidnit
+e pokud má dítě pro tento případ ke zvládnutí dušnosti předepsány nějaké léky
+   (zpravidla inhalační sprej), zachránce tyto léky v předepsané dávce podá
+e nedojde-li po podání předepsaných léků během několika minut ke zlepšení
+   stavu, probíhá-li záchvat dušnosti závažně nebo jedná-li se o první záchvat
+   dušnosti u dítěte dosud zdravého, přivolá zachránce neprodleně zdravotnickou
+   záchrannou službu
+      67   STANDARDY PRVNÍ POMOCI
+
+
+
+
+      V případě, že u laryngitidy, epiglotitidy nebo záchvatu průduškového astmatu dojde
+       ke ztrátě vědomí dítěte, postupuje zachránce podle standardu 2. 2. Základní neod-
+       kladná resuscitace dětí.
+
+      NEVHODNÉ POSTUPY:
+      e prodleva s přivoláním zdravotnické záchranné služby
+      e doprava dítěte do zdravotnického zařízení svépomocí
+      e položení dítěte
+      e podání tekutin či jídla dítěti
+
+
+
+           9. 4. MENINGOKOKOVÁ INFEKCE
+      NÁKAZA MENINGOKOKEM MŮŽE PROBÍHAT POD RŮZNĚ ZÁVAŽNÝM OBRAZEM.
+      NEJZÁVAŽNĚJŠÍ FORMA SE PROJEVUJE JAKO TĚŽKÁ INFEKCE (SEPSE) PROVÁZENÁ
+      SELHÁNÍM KREVNÍHO OBĚHU, ZÁNĚTEM MOZKOVÝCH OBALŮ (MENINGITIDOU),
+      PŘÍPADNĚ KOMBINACÍ OBOU PROJEVŮ. O PŘEŽITÍ POSTIŽENÉHO MOHOU ROZHODOVAT
+      MINUTY. V TAKOVÝCH PŘÍPADECH JE VYSLOVENÍ PODEZŘENÍ NA TENTO STAV LAIKEM
+      ŽIVOT ZACHRAŇUJÍCÍ.
+
+      VYVOLÁVAJÍCÍ PŘÍČINY:
+      e bakteriální infekce (původcem je meningokok)
+
+9 TYPICKÉ PŘÍZNAKY:
+  e výskyt nejčastěji v kojeneckém věku a v období dospívání
+      e náhlý začátek, rychlé zhoršování stavu dítěte (během hodin i desítek minut)
+      e vysoká horečka nereagující na běžnou léčbu, celková nevůle, schvácenost
+      e bolesti hlavy, tuhnutí šíje – nemožnost dát dítěti bradu na prsa, zvracení
+      e obluzení vědomí až bezvědomí
+      e drobné tmavé tečkování kůže a sliznic (petechie), postupně se slévající
+         do tmavých plošných podlitin
+
+      ČÍM JE DÍTĚ OHROŽENO?
+      e úmrtím v důsledku selhání základních životních funkcí
+
+      ČEHO POTŘEBUJEME DOCÍLIT?
+      e rozpoznat stav
+      e zajistit co nejrychlejší přivolání zdravotnické záchranné služby
+
+      POSTUP PRVNÍ POMOCI:
+      e při sebemenším podezření na meningokokové onemocnění zachránce okamžitě
+         přivolá zdravotnickou záchrannou službu
+                                                                                     68
+NEVHODNÝ POSTUP:
+e transport do zdravotnického zařízení svépomocí
+
+
+
+    9. 5. CIZÍ TĚLESO V TĚLE DÍTĚTE
+SPECIFICKOU PROBLEMATIKOU DĚTSKÉHO VĚKU JSOU CIZÍ TĚLESA. DĚTI SI JE SAMY
+ZAVÁDÍ DO TĚLESNÝCH OTVORŮ. ČASTÉ JE I JEJICH POLKNUTÍ ČI VDECHNUTÍ.
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e aplikace při hře (někdy vzájemná)
+e vkládání předmětů do úst (nechtěné polknutí či vdechnutí)
+
+TYPICKÉ PŘÍZNAKY:
+e závisí na lokalizaci a druhu cizího tělesa
+e výtok sekretu z nosu nebo ucha (důsledek druhotné infekce)
+e bolesti břicha, zvracení, krev ve stolici, tmavá stolice (cizí těleso v trávicím traktu)
+e úporný kašel, abnormální zvuky při dýchání (cizí těleso v dýchacích cestách)
+e výtok z pochvy u dívek
+
+ČÍM JE DÍTĚ OHROŽENO?
+e poraněním kůže, sliznic, případně vnitřních orgánů, eventuálně krvácením
+e dušením při vdechnutí cizího tělesa
+e poleptáním sliznice trávicího traktu při spolknutí drobných galvanických článků
+e střevní neprůchodností nebo proděravěním střeva
+                                                                                             9
+e infekcí
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e uvolnění dýchacích cest v případě dušení
+e zklidnění dítěte
+e odstranění cizího tělesa z těla
+e zajištění odborného ošetření při zaklíněném, polknutém nebo vdechnutém cizím tělese
+
+POSTUP PRVNÍ POMOCI:
+e cizí těleso v dýchacích cestách:
+	— v případě dušení postupuje zachránce neprodleně podle standardu 2. 9. Uzávěr
+     dýchacích cest cizím tělesem
+	— v ostatních případech zachránce zajistí nebo doporučí odborné ošetření
+e cizí těleso v trávicím traktu:
+	— zachránce zajistí nebo doporučí odborné ošetření dítěte
+e cizí těleso v oku:
+	— zachránce postupuje podle standardu 4. 5. Poranění očí
+    69   STANDARDY PRVNÍ POMOCI
+
+
+
+
+    e cizí těleso v nose:
+    	— zachránce vyzve dítě, aby se pokusilo cizí těleso vysmrkat; v případě nezdaru
+         zachránce zajistí nebo doporučí odborné ošetření
+    e cizí těleso ve zvukovodu:
+    	— v případě viditelných těles se zachránce může pokusit o šetrné odstranění pinzetou
+    	— při přítomnosti hmyzu v uchu vyplachuje zachránce opakovaně ucho čistou vodou
+    	— v případě nezdaru nebo u cizích těles, která nejsou patrná, zachránce zajistí
+         nebo doporučí odborné ošetření
+    e cizí těleso v pohlavních orgánech:
+    	— zachránce zajistí nebo doporučí odborné ošetření dítěte
+    e cizí těleso v ráně:
+    	— zachránce postupuje podle standardu 4. 3. Ošetření ran
+
+
+
+        9. 6. BOLESTI BŘICHA U DÍTĚTE
+    BOLESTI BŘICHA JSOU U MALÝCH DĚTÍ ČASTÝM JEVEM. DÍTĚ JE VNÍMÁ A NAVENEK
+    PROŽÍVÁ DRAMATICKY, VĚTŠINA PŘÍPADŮ JE ALE NEZÁVAŽNÝCH A RYCHLE ODEZNÍ.
+    POKUD BOLESTI PŘETRVÁVAJÍ DELŠÍ DOBU (NĚKOLIK HODIN), JE TŘEBA POMÝŠLET
+    NA ZÁVAŽNÝ STAV, KTERÝ MŮŽE V KRAJNÍM PŘÍPADĚ OHROZIT ŽIVOT DÍTĚTE.
+
+    VYVOLÁVAJÍCÍ PŘÍČINY:
+    e zánětlivá onemocnění (zánět červovitého přívěsku slepého střeva)
+9   e střevní neprůchodnost (mechanické překážky, zauzlení)
+    e záněty ledvin nebo ledvinné či žlučové koliky
+    e kojenecké koliky (zvýšená plynatost)
+
+    TYPICKÉ PŘÍZNAKY:
+    e bolest (malé děti ji zpravidla lokalizují do oblasti pupku)
+    e nevolnost a zvracení
+
+    ZNÁMKY ZÁVAŽNÉHO STAVU:
+    e tvrdé břicho
+    e příměs krve a hlenu ve stolici
+    e dítě vyhledává polohu vleže s pokrčenými dolními končetinami
+
+    ČÍM JE DÍTĚ OHROŽENO?
+    e zánětem pobřišnice
+    e v krajním případě závažnou infekcí (sepsí)
+
+    ČEHO POTŘEBUJEME DOCÍLIT?
+    e včas rozpoznat závažný stav od běžné neohrožující bolesti břicha (kojenecké koliky)
+    e při pochybnostech zajistit odborné vyšetření dítěte
+                                                                                70
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se pokusí dítě uklidnit; umožní mu zaujmout polohu, jaká mu nejvíce
+   vyhovuje
+e při podezření na závažný stav nepodává dítěti nic ústy
+e v případě potřeby zajistí nebo doporučí odborné vyšetření, případně přivolá
+   zdravotnickou záchrannou službu
+
+NEVHODNÝ POSTUP:
+e podcenění stavu a prodleva s přivoláním odborné pomoci
+
+
+
+    9. 7. PRŮJMOVÁ ONEMOCNĚNÍ U DÍTĚTE
+PRŮJMOVÉ ONEMOCNĚNÍ SE U DÍTĚTE PROJEVUJE OPAKOVANÝMI VODNATÝMI
+STOLICEMI, NĚKDY S PŘÍMĚSÍ (HLEN, KREV). PRŮJMY MOHOU VÉST K DEHYDRATACI
+(ODVODNĚNÍ) ORGANISMU A ROZVRATU VNITŘNÍHO PROSTŘEDÍ.
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e virové nebo méně často i bakteriální infekce
+
+TYPICKÉ PŘÍZNAKY:
+e časté vodnaté stolice
+e bolesti břicha
+e zvracení
+e zvýšená teplota
+                                                                                       9
+e známky dehydratace – ztráta váhy, suchá kůže a sliznice, kruhy pod očima,
+   zrychlený tep
+
+ČÍM JE DÍTĚ OHROŽENO?
+e dehydratací (zejména kojenci)
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e dietních opatření
+e nahradit ztráty tekutin a minerálů
+
+POSTUP PRVNÍ POMOCI:
+e zachránce zajistí nebo doporučí úpravu stravy dítěte (suchary, vařená rýže)
+e zachránce zajistí hojný přívod tekutin, nejlépe pomocí speciálních rehydratačních
+   roztoků
+e při trvání obtíží či známkách dehydratace zachránce zajistí nebo doporučí
+   odborné vyšetření dítěte
+     71   STANDARDY PRVNÍ POMOCI
+
+
+
+
+          10. POROD MIMO ZDRAVOTNICKÉ ZAŘÍZENÍ –
+           OŠETŘENÍ RODIČKY A NOVOROZENCE
+     NORMÁLNÍ TĚHOTENSTVÍ TRVÁ PRŮMĚRNĚ 40 TÝDNŮ (POROD V TERMÍNU JE
+     V ROZMEZÍ 38–42 TÝDNŮ) A JE UKONČENO PORODEM ZRALÉHO NOVOROZENCE.
+     VYPUZENÍ PLODU PŘED 24. TÝDNEM NAZÝVÁME POTRAT. RODÍ-LI SE DÍTĚ MEZI
+     24. A NEDOKONČENÝM 37. TÝDNEM TĚHOTENSTVÍ, MLUVÍME O PŘEDČASNĚ
+     NAROZENÉM NOVOROZENCI. JEHO ŽIVOTASCHOPNOST ZÁVISÍ NA DÉLCE A PRŮBĚHU
+     TĚHOTENSTVÍ A TAKÉ NA PODMÍNKÁCH PŘI PORODU.
+
+
+     PRŮBĚH PORODU:
+     e I. doba porodní (otevírací): dochází k otevírání porodních cest vlivem stahů
+        děložního svalstva (porodní bolesti, kontrakce), které se postupně stávají
+        silnějšími a pravidelnějšími (po 2–3 min.), zpravidla odtéká plodová voda
+     e II. doba porodní (vypuzovací): začíná plným otevřením dělohy, dochází
+        k vypuzení plodu – porodu novorozence
+     e III. doba porodní: je určena k porození plodového lůžka (placenty); zpravidla
+        5–30 min. po porodu dítěte
+
+     ČÍM JE OHROŽENA RODIČKA:
+     e větší krevní ztrátou s možným rozvojem šoku (také v případě potratu)
+     e poraněním dělohy, porodních cest nebo hráze
+     e druhotně infekcí
+
+     ČÍM JE OHROŽEN NOVOROZENEC:
+     e nedostatkem kyslíku
+10   e krevní ztrátou ze špatně ošetřeného pupečníku
+     e úrazem při pádu
+     e prochladnutím
+
+     ČEHO POTŘEBUJEME DOCÍLIT?
+     e zajistit odbornou péči o rodičku i dítě
+     e průběhu porodu v co nejčistším, nejklidnějším a pokud možno intimním prostředí
+     e ošetřit novorozence a zabránit jeho podchlazení
+
+     POSTUP PRVNÍ POMOCI:
+     e zachránce přivolá nebo zajistí přivolání zdravotnické záchranné služby
+     e zachránce se pokusí uklidnit rodičku; v případě, že rodička udává silný tlak
+        na konečník a v oblasti rodidel vidí nebo hmatá rodící se hlavičku plodu,
+        uloží ji do polosedu, možno i na záda, oblast rodidel přitom podloží nejčistším
+        dostupným materiálem
+     e zachránce si důkladně umyje ruce; je-li to možné, používá ochranné rukavice
+                                                                               72
+
+e v průběhu porodních stahů (kontrakce) vyzve zachránce rodičku, aby aktivně
+   tlačila (zapojení břišního lisu v době kontrakce, nutná souhra)
+e zachránce asistuje při vybavení dítěte; zejména důsledně brání jeho pádu
+e po vybavení dítěte podváže zachránce na dvou místech pupečník a mezi těmito
+   podvazy ho přeruší
+e porození placenty zachránce aktivně nepomáhá (nijak netahá za pupečník); má-li
+   rodička sama kontrakce a placenta se samovolně objeví v oblasti rodidel, tak ji
+   opatrně vyjme
+e v případě větší krevní ztráty postupuje zachránce podle standardu 2. 6. Vnitřní
+   krvácení a prevence šoku
+
+PÉČE O NOVOROZENCE:
+e po celou dobu ošetřování novorozence zachránce dbá se zvýšenou opatrností, aby
+   novorozenec neupadl
+e zachránce dítě otře suchou a pokud možno vyhřátou látkou; následně ho
+   do podobného materiálu důkladně zabalí a předá matce
+e pokud dítě po porodu nekřičí, má povolené svaly (je „hadrovité“) nebo přetrvává
+   bledá či namodralá barva kůže, pokračuje zachránce ve tření dítěte látkou,
+   poplácá ho po zádíčkách nebo po zadečku
+e pokud v krátké době nezačne dítě křičet a stav přetrvává, postupuje zachránce
+   neprodleně podle standardu 2. 2. Základní neodkladná resuscitace dětí
+
+
+
+
+                                                                                     10
+     73   STANDARDY PRVNÍ POMOCI
+
+
+
+
+          11. NÁHLE VZNIKLÉ PORUCHY CHOVÁNÍ
+          11. 1. OBECNÝ POSTUP
+     NÁHLÁ ZMĚNA CHOVÁNÍ NEADEKVÁTNÍ SITUACI, VE KTERÉ SE POSTIŽENÝ NACHÁZÍ,
+     UPOZORŇUJE NA DUŠEVNÍ ONEMOCNĚNÍ NEBO PŘECHODNOU NEZPŮSOBILOST
+     K PROVÁDĚNÍ BĚŽNÝCH ČINNOSTÍ.
+
+     VYVOLÁVAJÍCÍ PŘÍČINY:
+     e psychické onemocnění
+     e úraz hlavy
+     e požití drog či alkoholu
+     e nedostatečná hladina cukru v krvi (hypoglykemie)
+     e nezvládnutý stres
+     e podchlazení
+
+     TYPICKÉ PŘÍZNAKY:
+     e reakce a chování postiženého neodpovídají situaci
+     e nezvládnuté emoce
+     e dezorientace
+     e halucinace a bludy
+     e agresivita
+
+     ČÍM JE POSTIŽENÝ OHROŽEN?
+     e poškozením vlastní osoby nebo ublížením svému okolí
+     e nerozpoznáním vážného poškození zdraví (úraz hlavy, otrava)
+
+     ČEHO POTŘEBUJEME DOCÍLIT?
+     e zabránit možnému zranění
+     e rozpoznat ovlivnitelnou příčinu stavu
+11   e zajistit odbornou péči
+
+     POSTUP PRVNÍ POMOCI:
+     e zachránce se ujistí, že jemu ani ostatním na místě nehrozí žádné další
+        bezprostřední nebezpečí; je připraven reagovat na změnu situace
+     e zachránce k postiženému zásadně přistupuje zpředu, dodržuje bezpečnou
+        vzdálenost a hlídá si ústupovou cestu
+     e zachránce postiženého neprovokuje, snaží se předcházet konfliktu, nevrací
+        nadávky a hrozby
+     e zachránce se snaží zjistit potřeby postiženého, poskytne mu emocionální podporu
+     e zachránce přivolá zdravotnickou záchrannou službu, případně další složky
+        Integrovaného záchranného systému
+     e zachránce se snaží zjistit příčinu stavu (viz výše); případně postupuje podle
+        odpovídajícího standardu
+                                                                                  74
+
+    11. 2. AGRESIVITA
+JEDNÁ SE O PORUCHU CHOVÁNÍ, KTERÁ JE SPOJENA S OHROŽENÍM NEBO ÚTOKEM
+PROTI OSOBÁM, PŘÍPADNĚ VĚCEM V OKOLÍ.
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e duševní onemocnění
+e požití alkoholu a drog
+e abstinenční syndrom při přerušení užívání návykových látek
+
+TYPICKÉ PŘÍZNAKY:
+e neklid, zatínání pěstí, skřípání zubů
+e verbální agresivita (nadávky, výhrůžky)
+e agresivita proti věcem (rozbíjení, kopání do předmětů, shazování věcí na zem)
+e agresivita proti osobám (fyzické útoky včetně použití zbraně)
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e postižený může poranit sebe nebo kohokoli ve svém okolí
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zabránit poranění osob
+e tlumit agresivitu postiženého
+e v případě potřeby přivolat policii
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se ujistí, že mu na místě nehrozí bezprostřední nebezpečí; po celou
+   dobu důsledně dbá na svou vlastní bezpečnost, hlídá si ústupovou cestu; je
+   připraven na náhlou změnu situace
+e zachránce přivolá nebo zajistí přivolání policie
+e zachránce udržuje dostatečný odstup, vyvaruje se fyzického kontaktu
+e zachránce odstraní z dosahu postiženého předměty, které by mohly být použity
+   k útoku
+                                                                                       11
+e zachránce mluví klidně, čelem k postiženému, nekřičí, neprovokuje, nevyhrožuje,
+   nesnaží se o kontakt, nechá postiženého mluvit o důvodech situace, vyjádří
+   pochopení
+e pokud má postižený zbraň, zajistí nebo doporučí zachránce přítomným osobám
+   evakuaci do bezpečí, případně postupuje podle standardu 13. 2. Teroristický útok
+     75   STANDARDY PRVNÍ POMOCI
+
+
+
+
+          11. 3. DEPRESE, SEBEVRAŽEDNÉ MYŠLENKY
+     MYŠLENKY NA SEBEPOŠKOZENÍ ČI SEBEVRAŽDU, ČASTO V RÁMCI DLOUHODOBÉHO
+     ONEMOCNĚNÍ DEPRESÍ.
+
+
+     VYVOLÁVAJÍCÍ PŘÍČINY:
+     e duševní onemocnění
+     e reakce na dlouhodobý existenční stres
+
+     TYPICKÉ PŘÍZNAKY:
+     e smutek, plačtivost, skleslost, zamlklost
+     e nezájem o sebe a o okolní dění
+     e nerozhodnost, snížená fyzická výkonnost
+     e sebeobviňování
+     e myšlenky na sebevraždu nebo zmiňování sebevraždy jako možného řešení
+        problémů
+
+     ČÍM JE POSTIŽENÝ OHROŽEN?
+     e pokusem o sebevraždu
+
+     ČEHO POTŘEBUJEME DOCÍLIT?
+     e zabránit sebevražednému pokusu
+     e zajistit odbornou psychiatrickou péči
+
+     POSTUP PRVNÍ POMOCI:
+     e zachránce se ujistí, že mu na místě nehrozí bezprostřední nebezpečí
+     e zachránce zahájí klidný pohovor, snaží se zjistit důvody situace, vyjádří
+        pochopení, nezlehčuje situaci, podpoří jiné způsoby řešení
+     e v případě známek deprese zachránce zajistí nebo doporučí lékařské vyšetření
+     e v případě sebevražedných tendencí zachránce nenechá postiženého o samotě
+11      a neprodleně zajistí odborné vyšetření
+     e v případě probíhajícího pokusu o sebevraždu zachránce neprodleně přivolá
+        nebo zajistí přivolání zdravotnické záchranné služby; do jejího příjezdu se snaží
+        o udržení komunikace s postiženým
+                                                                                   76
+
+    11. 4. ZMATENOST, HALUCINACE, BLUDY
+ZMATENOST JE DRUH PORUCHY VĚDOMÍ, ZPRAVIDLA ZPŮSOBENÝ PŘECHODNOU
+PORUCHOU FUNKCÍ MOZKU. HALUCINACE A BLUDY JSOU ZNÁMKOU DUŠEVNÍHO
+ONEMOCNĚNÍ. HALUCINACE JE KLAM NEBO VJEM, KTERÝ OBJEKTIVNĚ NEEXISTUJE
+(HLAS, VIDINA). BLUD JE NEVYVRATITELNÁ PŘEDSTAVA NEMAJÍCÍ ODPOVÍDAJÍCÍ
+REÁLNÝ PODKLAD (NAPŘ. PRONÁSLEDOVÁNÍ).
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+Halucinace a bludy:
+e duševní onemocnění
+e delirium (např. při odnětí alkoholu)
+e některé drogy (lysohlávka, LSD)
+
+Zmatenost:
+e úrazy hlavy
+e otravy
+e požití alkoholu a drog
+e nedostatečná hladina cukru v krvi (hypoglykemie)
+
+TYPICKÉ PŘÍZNAKY:
+e halucinace a bludy – neklid, hlasy, vidiny, nepříjemné chutě a pachy
+e zmatenost – neklid, ztráta orientace v čase, místě i osobě postiženého
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e úrazem či zblouděním (dezorientace)
+e jednáním ve smyslu halucinací a bludů (sebepoškození, napadení druhé osoby)
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zajistit bezpečí postiženého
+e předejít možnému napadení druhých osob
+e zajistit odborné vyšetření postiženého
+                                                                                        11
+POSTUP PRVNÍ POMOCI:
+e zachránce se ujistí, že mu na místě nehrozí bezprostřední nebezpečí; po celou
+   dobu důsledně dbá na svou vlastní bezpečnost, hlídá si ústupovou cestu; je
+   připraven na náhlou změnu situace
+e zachránce se formou klidného rozhovoru snaží o navázání kontaktu
+e bludy zachránce postižené osobě nevyvrací ani je nerozvíjí
+e zachránce zajistí odborné vyšetření, v případě potřeby přivolá nebo zajistí
+   přivolání zdravotnické záchranné služby; do jejího příjezdu postiženého
+   neopouští
+       77   STANDARDY PRVNÍ POMOCI
+
+
+
+
+            11. 5. PANICKÝ ZÁCHVAT, PANICKÁ PORUCHA
+       NEZVLADATELNÁ ZÁTĚŽ JE SPOUŠTĚČEM ŘADY PSYCHICKÝCH I TĚLESNÝCH
+       ONEMOCNĚNÍ, PANICKÝ ZÁCHVAT PATŘÍ MEZI NĚ. PANICKÁ PORUCHA VZNIKÁ BEZ
+       ZJEVNÉ PŘÍČINY. POSTIŽENÝ JI PROŽÍVÁ JAKO INTENZIVNÍ POCIT STRACHU A VNITŘNÍ
+       NEPOHODY.
+
+       VYVOLÁVAJÍCÍ PŘÍČINY:
+       e stres z mimořádné situace, ale i z každodenních situací
+       e fobie (bezdůvodný strach z věcí, situací nebo lidí)
+       e v případě panické poruchy je příčina neznámá
+
+       TYPICKÉ PŘÍZNAKY:
+       e intenzivní strach postiženého, pocit sevřeného hrdla či svírání na hrudi
+       e neklid, třes
+       e zrychlené hluboké dýchání
+       e nevolnost, zvracení
+       e brnění rukou, nohou či kolem úst
+       e útěková reakce
+
+       ČÍM JE POSTIŽENÝ OHROŽEN?
+       e zraněním (nekontrolovaná útěková reakce)
+       e nerozpoznáním případného vážnějšího stavu (náhle vzniklá bolest na hrudi)
+
+       ČEHO POTŘEBUJEME DOCÍLIT?
+       e uklidnit postiženého
+       e zabránit poranění postiženého
+       e odlišit případný jiný vážný stav
+
+       POSTUP PRVNÍ POMOCI:
+11 ee zachránce  se ujistí, že mu na místě nehrozí bezprostřední nebezpečí
+      zachránce naváže kontakt s postiženým, snaží se mluvit klidným rozhodným
+          hlasem; ujistí postiženého, že příčina stavu ho již neohrožuje
+       e zachránce vyzve postiženého, aby se soustředil na pomalé hluboké dýchání
+       e zachránce se pokusí o zjištění a odstranění vyvolávající příčiny
+       e zachránce se snaží zabránit poranění postiženého
+       e pokud se stav v krátké době nelepší, zachránce přivolá zdravotnickou záchrannou
+          službu
+       e má-li zachránce podezření na jiný závažný stav (např. dušnost či náhle vzniklá
+          bolest na hrudi), postupuje podle příslušných standardů
+                                                                                78
+
+    11. 6. OSOBA POD VLIVEM DROG
+UŽITÍ A UŽÍVÁNÍ DROG VEDE KE ZMĚNĚ VĚDOMÍ I DUŠEVNÍCH FUNKCÍ A PŘÍPADNĚ
+I K NÁSLEDNÉMU VZNIKU ZÁVISLOSTI.
+
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+e užití drogy – požití, vdechnutí nebo injekční aplikace
+
+TYPICKÉ PŘÍZNAKY:
+e v závislosti na požité látce některé z následujících:
+  — neklid, úzkost
+   — zvýšená aktivita, zvýšené sebevědomí, nespavost
+    — útlum, spavost
+     — změněné vnímání reality a času, ztráta orientace, halucinace, bludy
+ — agresivita
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e úrazem
+e předávkováním
+e udušením v bezvědomí
+e úmrtím na zástavu oběhu
+e přenosem infekce (infekční žloutenka, AIDS)
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zabránit selhání základních životních funkcí
+
+POSTUP PRVNÍ POMOCI:
+e zachránce se ujistí, že mu na místě nehrozí bezprostřední nebezpečí
+e zachránce při ošetřování důsledně používá rukavice či se chrání jiným vhodným
+   způsobem
+e v případě poruchy vědomí postupuje zachránce podle standardu 2. 4. Bezvědomí
+e v případě ostatních projevů postupuje dle příslušných standardů
+                                                                                     11
+e v případě mírných projevů užití drogy zejména u osob na nich závislých není
+   nutné odborné vyšetření
+     79   STANDARDY PRVNÍ POMOCI
+
+
+
+
+          11. 7. OSOBA POD VLIVEM ALKOHOLU
+     ALKOHOL JE SPOLEČENSKY TOLEROVANÁ DROGA. U NĚKTERÝCH OSOB VEDE
+     KE VZNIKU ZÁVISLOSTI (ALKOHOLISMUS). OPILOST JE LEHKÁ FORMA OTRAVY, KTERÁ
+     POSTIŽENOU OSOBU ČINÍ NEZPŮSOBILOU PRO ŘADU ČINNOSTÍ.
+
+
+     VYVOLÁVAJÍCÍ PŘÍČINY:
+     e požití alkoholického nápoje
+
+     TYPICKÉ PŘÍZNAKY:
+     e počáteční stadium – veselost, zvýšená aktivita, zvýšené sebevědomí
+     e pokročilé stadium – porucha řeči a koordinace, zpomalení reakcí, nevolnost,
+        zvracení
+     e konečné stadium – bezvědomí, útlum dechu
+
+     ČÍM JE POSTIŽENÝ OHROŽEN?
+     e bezvědomím
+     e neprůchodností dýchacích cest a vdechnutím zvratků
+     e podchlazením
+     e nerozpoznáním případného jiného vážnějšího stavu (naléhavé stavy při cukrovce,
+        epilepsie, náhlá zástava oběhu, mozkolebeční poranění apod.)
+
+     ČEHO POTŘEBUJEME DOCÍLIT?
+     e bezpečného stavu vystřízlivění
+     e zabránit vdechnutí zvratků a selhání základních životních funkcí
+
+     POSTUP PRVNÍ POMOCI:
+     e zachránce se ujistí, že mu na místě nehrozí bezprostřední nebezpečí
+     e zachránce postiženému zabrání v excesech (řízení vozidla, skok do vody)
+     e při těžší opilosti zachránce zajistí podmínky pro bezpečné vystřízlivění
+11      postiženého
+     e při těžké opilosti s bezvědomím zachránce postupuje dle standardu
+        2. 4. Bezvědomí; postiženého uloží do zotavovací polohy a přivolá zdravotnickou
+        záchrannou službu
+     e v případě pochybností o příčině stavu zachránce postupuje podle příslušného
+        standardu a zajistí odborné vyšetření postiženého (v případě známek poranění
+        hlavy vždy)
+                                                                                    80
+
+    12. POLOHOVÁNÍ RANĚNÝCH A NEMOCNÝCH OSOB
+OBECNÉ ZÁSADY:
+e je-li to možné, ponechte postiženého v poloze, kterou si sám zvolil
+e poloha nesmí zhoršovat stav postiženého nebo mu působit bolest či nepohodlí
+
+ZOTAVOVACÍ POLOHA:
+e je určena pro postižené v bezvědomí, pro něž je nevhodná poloha vleže
+   na zádech pro riziko vdechnutí krve či žaludečního obsahu:
+   — výrazné krvácení z nosu či dutiny ústní
+   — zvracení
+   — bezvědomí následkem otravy či opilosti
+   — tonutí
+e dále je určena pro postižené v bezvědomí, které musí zachránce opustit:
+   — hromadná neštěstí
+   — nutnost zajistit přivolání pomoci (např. nehoda v odlehlém terénu)
+e je-li ve zcela výjimečných případech nutné do zotavovací polohy uložit
+   postiženého s podezřením na poranění páteře, je doporučována varianta s hlavou
+   spočívající na spodní paži vzpažené vzhůru a s oběma nohama pokrčenýma
+   v kolenou (tzv. HAINES poloha)
+e těhotné ve vysokém stupni těhotenství by měly být uloženy na levý bok
+
+POLOHA S DOLNÍMI KONČETINAMI ZVEDNUTÝMI O 30 CM:
+e mdloba (viz standard 8. 1. Krátkodobé poruchy vědomí)
+e závažná alergická reakce s projevy anafylaxe (viz standard 8. 10. Alergická
+   příhoda)
+
+POLOHA VPOLOSEDĚ ČI VSEDĚ, PŘÍPADNĚ V KOMBINACI SE ZAPŘENÝMI HORNÍMI KONČETINAMI:
+e stavy dušnosti či bolestí na hrudi (viz standard 8. 4. Náhle vzniklá bolest na hrudi
+   a 8. 5. Stavy dušnosti)
+e poranění hrudníku (viz standard 3. 2. Poranění hrudníku)
+
+POLOHA VLEŽE NA ZÁDECH:
+e pro všechny ostatní případy, které nemohou být vyřešeny podle výše uvedených
+   pravidel
+                                                                                          12
+     81   STANDARDY PRVNÍ POMOCI
+
+
+
+
+          13. HROMADNÝ VÝSKYT RANĚNÝCH
+          13. 1. ZÁSADY TŘÍDĚNÍ
+     TŘÍDĚNÍ RANĚNÝCH PATŘÍ K ZÁKLADNÍM POSTUPŮM MEDICÍNY KATASTROF.
+     V MÍROVÝCH PODMÍNKÁCH SE UPLATŇUJE TAM, KDE POČET OBĚTÍ VÝRAZNĚ
+     PŘEVYŠUJE POČET ZÁCHRANÁŘŮ.
+
+     ČEHO POTŘEBUJEME DOCÍLIT?
+     e poskytnout první pomoc co nejrychleji těm, kteří ji nejvíce potřebují a mohou z ní
+        mít největší užitek
+
+     POSTUP TŘÍDĚNÍ:
+     e zachránce se ujistí, že mu na místě nehrozí žádné další nebezpečí
+     e zachránce provede důkladnou obhlídku místa nehody, pokusí se zjistit počet
+        postižených a následně zavolá zdravotnickou záchrannou službu
+     e následně zachránce výzvou rozdělí chodící a nechodící osoby; chodící odešle
+        na bezpečné místo
+     e následně se zachránce věnuje nechodícím postiženým, dle následujícího pořadí
+        ošetření:
+
+     1. pořadí ošetření:
+     e postižení s masivním zevním krvácením
+     e osoby v bezvědomí, které normálně dýchají nebo které začnou normálně dýchat
+        po uvolnění dýchacích cest
+     Postižené v této skupině zachránce ošetří (zastaví masivní zevní krvácení, uloží
+     osoby v bezvědomí do zotavovací polohy), jakmile jsou nalezeni, tedy ještě před
+     ukončením třídění.
+
+     2. pořadí ošetření:
+     e postižení při vědomí, bez známek masivního zevního krvácení, kteří nejsou
+        schopni chodit
+     Postižené v této skupině zachránce ošetří, jakmile jsou ošetřeni všichni postižení
+     v prvním pořadí.
+
+     3. pořadí ošetření:
+
+13   e postižení, kteří jsou schopni sami chodit
+     Postižené v této skupině zachránce ošetří, jakmile jsou ošetřeni všichni postižení
+     v druhém pořadí.
+
+     POZNÁMKA:
+     e osoby v bezvědomí, které po uvolnění dýchacích cest nezačnou samy dýchat, jsou
+        považovány za mrtvé a dále se neošetřují; v podmínkách hromadného výskytu
+        raněných se resuscitace neprovádí
+                                                                                 82
+
+    13. 2. TERORISTICKÝ ÚTOK
+TERORISMUS JE METODA POUŽITÍ SÍLY ČI HROZBY SILOU PROVÁDĚNÁ SKRYTÝMI
+JEDNOTLIVCI, SKUPINAMI NEBO STÁTEM PODPOROVANÝMI AKTÉRY. AKT NÁSILÍ
+JE ZAMĚŘEN PROTI NEVINNÝM OSOBÁM NEBO CIVILNÍM CÍLŮM. HLAVNÍM ÚČELEM
+TERORISTICKÉHO AKTU JE VYVOLAT POCIT STRACHU.
+
+ZPŮSOBY PROVEDENÍ:
+e nástražné výbušné systémy
+e ozbrojené útoky
+e použití chemických, biologických, radiologických a nukleárních prostředků
+e únosy rukojmích
+e útoky s cílem vyřazení kritické infrastruktury (např. energetická či vodovodní
+   soustava) apod.
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+e přímým působením daného útoku
+e následnou panikou
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+e zachovat vlastní bezpečnost
+e zachovat klid
+e v rámci možností poskytnout první pomoc
+
+POSTUP PRVNÍ POMOCI:
+e ujistěte se, že vám nehrozí další nebezpečí
+e pokud hrozí další nebezpečí, pokuste se neprodleně opustit ohrožený prostor, je-li
+   tato varianta pro vás bezpečnější
+e pokud se rozhodnete zůstat na místě a poskytovat první pomoc, počítejte
+   s možností opakovaného útoku (další nástražný výbušný systém apod.)
+e v případě ozbrojeného útoku pokud nemůžete opustit ohrožený prostor, pokuste
+   se ukrýt; nikdy nepřistupujte k oknům či dveřím; nikdy neopouštějte úkryt,
+   dokud vás k tomu nevyzvou bezpečnostní složky
+e v případě útoku pomocí chemických, biologických, radiologických či nukleárních
+   prostředků pokud nemůžete opustit ohrožený prostor, ukryjte se v budově;
+   uzavřete okna, dveře a klimatizační průduchy a pokuste se je utěsnit (např.
+   mokrou textilií)
+e v případě únosu poslouchejte pokyny únosce, nesnažte se utéct ani únosce             13
+   přemoci
+e ve všech případech vždy bezpodmínečně dbejte pokynů tísňových složek
+e nepřetěžujte telefonní sítě a dispečinky tísňových složek zbytečnými hovory
+STANDARDY PRVNÍ POMOCI
+elektronická verze, upravená v roce 2023
+dle European Resuscitation Council Guidelines 2021 (ERC Guidelines)
+KOLEKTIV AUTORŮ
+MUDr. Juljo Hasík, MUDr. Pavel Srnský, MUDr. Josef Škola, MUDr. Karel Štěpánek,
+MUDr. Petra Totzauer Vladyková, MUDr. Petr Vlk
+ODBORNÁ RECENZE
+SPOLEČNOST URGENTNÍ MEDICÍNY A MEDICÍNY KATASTROF ČLS JEP
+MUDr. Ondřej Franěk
+ČESKÁ PEDIATRICKÁ SPOLEČNOST ČLS JEP
+doc. MUDr. Jozef Hoza, CSc.
+SPOLEČNOST KRIZOVÉ PŘIPRAVENOSTI ZDRAVOTNICTVÍ ČLS JEP
+MUDr. Josef Štorek, Ph.D.
+2. ELEKTRONICKÉ VYDÁNÍ, PRAHA 2023
+Vydal © Český červený kříž, 2023, Rozdělovská 2467/63, 169 00 Praha 6
+ISBN: 978-80-87729-53-3
+

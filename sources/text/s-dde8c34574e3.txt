@@ -1,0 +1,62 @@
+                                                                                       TAB.              VII
+       C.I.P.                                   Cal. 12                                Date            84-06-14
+                                                                                       Revision        18-10-17
+
+
+                                             CARTIDGE MAXIMALE
+
+                                             Dimens. Vale       Toler.
+
+                                             d 1)    = 20.60    - 0.28
+                                             g       = 22.45    - 0.48
+                                             t 1)    = 1.85     - 0.30      Marking
+                                             h       = 20.20    - 0.47
+                                             l       = 35.00    - 2.50      12/35 T
+                                             l       = 55.00    - 2.50      12/55
+                                             l       = 60.00    - 2.50      12/60
+                                             l       = 65.00    - 2.50      12/65
+                                             l       = 67.50    - 2.50      12/67
+                                             l       = 69.80    - 2.50      12/70
+                                             l       = 72.80    - 2.50      12/73
+                                             l       = 76.00    - 2.50      12/76
+                                             l       = 88.70    - 2.50      12/89
+
+
+
+
+                                             CHAMBER MINIMALE
+
+                                             Dimens. Value       Toler.
+
+                                             D1)     = 20.65 + 0.10
+                                             G       = 22.55 + 0.10
+                                             T1)     = 1.85 + 0.10
+                                             H1)     = 20.30 + 0.10        Marking          Pressure transducer
+                                             B1)     = 18.20 + 0.70                         Pmax PK PE M
+                                             a11)    = 10°30’ max                                      bar
+                                             L1)     = 35.00 + 2.00         12/35 T          150 173 188 25
+                                             L1)     = 55.10 + 2.00         12/55            740 850 930 25/30
+                                             L1)     = 60.10 + 2.00         12/60            740 850 930 25/30
+                                             L1)     = 65.10 + 2.00         12/65            740 850 930 25/30
+                                             L1)     = 67.60 + 2.00         12/67            740 850 930 25/30
+                                             L1)     = 69.90 + 2.00         12/70            740 850 930 25/30
+                                             L1)     = 73.00 + 2.00         12/73           1050 1200 1320 25/30
+                                             L1)     = 76.20 + 2.00         12/76           1050 1200 1320 25/30
+                                             L1)     = 88.90 + 2.00         12/89           1050 1200 1320 25/30
+
+
+                                             Headspace
+
+                                             Fe      = 0.10                 Proof Barrel
+                                             Fe1)    = 0.20                 with bascule
+                                             Fe1)    = 0.35                 automatic
+
+Scale 1:1
+
+           Dimensions in « mm »                         Notes : 1) Check for safety reasons
+ Dimensions and tolerances for Proof Barrels :
+            See Appendix CR 4.
+
+
+                Reproduction forbidden as well as in the form of extracts without approval of C.I.P.
+

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "mv-2026-edd539efc9e5",
+  "checkedAt": "2026-10-20T13:54:15.836769+00:00",
+  "totalQuestions": 837,
+  "validEntries": 837,
+  "drafts": 834,
+  "answerBasedDrafts": 80,
+  "needsSource": 3,
+  "missing": [],
+  "errors": [],
+  "limits": "Checks validate structure, fixed official keys and retained quotations where supplied. Drafts may explicitly derive from the official answer; technical/first-aid drafts may use general web references. Checks do not certify legal/medical accuracy or entailment."
+}

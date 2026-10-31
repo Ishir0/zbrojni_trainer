@@ -1,0 +1,61 @@
+                                                                                       TAB.               VII
+      C.I.P.                                    Cal. 16                                Date             84-06-14
+                                                                                       Revision         10-05-26
+
+
+                                             CARTRIDGE MAXIMALE
+
+                                             Dimens. Value Toler.
+
+                                             d1)     =   18.90 - 0.23
+                                             g       =   20.65 - 0.33
+                                             t 1)    =    1.65 - 0.35       Marking
+                                             h       =   18.55 - 0.49
+                                             l       =   65.00 - 2.50       16/65
+                                             l       =   67.50 - 2.50       16/67
+                                             l       =   69.80 - 2.50       16/70
+                                             l       =   76.00 - 2.50       16/76
+
+
+
+
+                                             CHAMBER MINIMALE
+
+                                             Dimens. Value Toler.
+                                               1)
+                                             D       = 18.95 + 0.10
+                                             G       = 20.75 + 0.10
+                                               1)
+                                             T       = 1.65 + 0.10
+                                             H1)     = 18.60 + 0.10         Marking         Pressure transducer
+                                             B1)     = 16.80 + 0.50                         Pmax PK       PE       M
+                                             α11)    = 10°30’ max
+                                             L1)     = 65.10 + 2.00         16/65           780 900   980         25/30
+                                               1)
+                                             L       = 67.60 + 2.00         16/67           780 900   980         25/30
+                                               1)
+                                             L       = 69.90 + 2.00         16/70           780 900   980         25/30
+                                             L1)     = 76.20 + 2.00         16/76          1050 1200 1320         25/30
+
+
+
+
+                                             Headspace
+
+                                             Fe      = 0.10                 Proof Barrel
+                                             Fe1)    = 0.20                 with bascule
+                                                1)
+                                             Fe      = 0.35                 automatic
+
+
+Scale 1 :1
+
+           Dimensions in « mm »                          Notes : 1) Check for safety reasons
+ Dimensions and tolerances for Proof Barrels :
+            See Appendix CR 4.
+
+
+
+
+                 Reproduction forbidden as well as in the form of extracts without approval of C.I.P.
+

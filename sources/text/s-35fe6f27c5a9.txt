@@ -1,0 +1,151 @@
+odbor bezpečnostní politiky
+Nad Štolou 3
+17034 Praha 7
+
+Č. j. MV-198261-3/OBP-2025
+                                                     Praha 10. prosince 2025
+
+
+Výkladové stanovisko k zaslaným dotazům k problematice označování zbraní
+
+K některým dříve Ministerstvu vnitra zaslaným dotazům k problematice označování
+zbraní identifikačními údaji podle nové právní úpravy účinné od 1: ledna 2026
+uvádíme:
+
+
+1. Jaká je přesná definice pojmu „uvedení na trh“ ve smyslu zák.č. 90/2024 Sb.
+v kontextu právní úpravy EU a jak se liší od pojmu „dodání na trh“?
+Odpověď MV: Nový zákon č. 90/2024 Sb., o zbraních a střelivu, ve znění pozdějších
+předpisů (dále jen „NZoZ“), je stejně jako dosavadní zákon č. 119/2002 Sb., o střelných
+zbraních a střelivu (zákon o zbraních), ve znění pozdějších předpisů, normou
+implementujících evropské předpisy vydávané podle čl. 114 Smlouvy o fungování EU,
+tj. předpisy, jejichž účelem je vytvoření a fungování vnitřního trhu. Pro interpretaci
+těchto předpisů se použije mj. metodický dokument vydávaný a aktualizovaný
+Evropskou komisí – „Modrá příručka“ k provádění pravidel EU pro výrobky (aktuální
+verze z roku 2022, viz Sdělení Komise 2022/C 247/01). Pojmy „uvedení na trh“ a
+„dodání na trh“ jsou definovány tímto dokumentem, nejedná se tedy o názor
+Ministerstva vnitra.
+Dle „Modré příručky“ (str. 19) pak platí:
+„Výrobek je dodán na trh, je-li dodáván na trh Unie za účelem distribuce, spotřeby nebo
+použití v rámci obchodní činnosti, a to buď za úplatu, nebo bezplatně.“
+„Výrobek je uveden na trh, když je poprvé dodán na trh Unie. Podle harmonizačních
+právních předpisů Unie může být každý jednotlivý výrobek uveden na trh Unie pouze
+jednou.“
+
+
+2. Je nutno zbraně vyrobené nebo vzniklé úpravou zbraní jiných kategorií
+(přestavba) do 31.12.2025 a označené podle původní úpravy před prvním
+
+
+
+
+                                            1
+uvedením na trh v době po 1.1.2026 dooznačovat na všech jejich hlavních
+částech podle zák.č. 90/2024 Sb. (např. u Sa 58 tedy myšleno jak na závorníku
+tak jeho nosiči?)?
+Odpověď MV: V případě, že je zbraň uváděna na trh po 1. lednu 2026, musí bez ohledu
+na dobu své výroby splňovat již požadavky NZoZ a podzákonných předpisů vydaných
+k jeho provedení. Pokud jde ale o zbraň, která byla před nabytím účinnosti NZoZ
+uveden a na trh a byla platně ověřena, pak nutnost „dooznačení“ nevzniká.
+
+
+3. Je nutno u zbraní, jež byly v minulosti v ČR nebo jinde uvedeny na trh ale
+nejsou označeny podle platné úpravy, po jejich opakovaném dodání na trh
+držitelem ZL po 1.1.2026 v rámci obchodní činnosti dooznačovat všechny jejich
+hlavní části?
+Odpověď MV: Ustanovení § 86 NZoZ upravující požadavky na označení zbraně
+identifikačními údaji se s ohledem na § 150 odst. 19 NZoZ nepoužije na zbraně, které
+byly přede dnem nabytí účinnosti nové právní úpravy uvedeny na trh a platně ověřeny,
+pokud v době svého uvedení na trh ověřování podléhaly. Samotný fakt, že byla zbraň
+na trh uvedena tedy nestačí pro vyloučení povinnosti označení identifikačními údaji dle
+§ 86 NZoZ, pokud se jednalo o zbraň, která není ověřena, ač v době svého uvedení
+na (civilní trh) ověřování podléhala; taková situace může nastat zejména v případě
+zbraní uvedených na trh přede dnem nabytí účinnosti nové právní úpravy v jiném
+členském státu EU, který současně ale není členem CIP.
+
+
+4. Jak definovat „zvláštní historickou hodnotu“ zbraně? Je to objektivní
+kategorie nebo záleží na subjektivním hodnocení vlastníka. Pokud se jedná o
+objektivní kategorii, která autorita určí, která zbraň má „zvláštní historickou
+hodnotu“?
+Odpověď MV: „Zvláštní historická hodnota“ musí být podle názoru Ministerstva vnitra
+dána určitými objektivními historickými skutečnostmi, které se týkají dané konkrétní
+zbraně a ve kterých se navíc odráží určitý širší společenský zájem na zachování
+původního stavu dané konkrétní zbraně.
+
+
+5. Je nutno u zbraní dovezených do ČR před 1.1.2026, které již byly v minulosti
+uvedeny na trh v cizině před dalším dodáním na trh po 1.1.2026 držitelem ZL v
+
+
+
+
+                                          2
+rámci jeho obchodní činnosti dooznačovat všechny jejich hlavní části dle zák.č.
+90/2024 Sb.?
+Odpověď MV: Viz odpověď ad 3. V případě zbraní, které byly (1) uvedeny na trh
+v rámci vnitřního trhu EU a které (2) byly platně ověřeny (tj. dle CIP) se označení dle
+§ 86 NZoZ nevyžaduje, v ostatních případech nicméně ano.
+
+
+6. Je nutno u zbraní, jež jsou vyváženy z ČR na licenci dle zák.č. 38/1994 Sb. jako
+vojenský materiál, jsou označeny dle původní úpravy a nebyly do 1.1.2026
+uvedeny na trh, dooznačovat všechny jejich hlavní části podle zák.č. 90/2024
+Sb.?
+Odpověď MV: V případě zbraní vyrobených nebo dovezených před nabytím účinnosti
+nové právní úpravy, které nebudou na území ČR uváděny na trh platí:
+   -   v rámci vývozu mimo území EU postačuje označení odpovídající požadavkům
+       čl. 8 Protokolu proti nedovolené výrobě střelných zbraní, jejich součástí a dílů a
+       střeliva a proti obchodování s nimi doplňujícím Úmluvu Organizace spojených
+       národů proti nadnárodnímu organizovanému zločinu (sdělení č. 76/2013 Sb. m.
+       s),
+   -   v rámci přepravy do jiného členského státu EU se s ohledem na unijní charakter
+       takového transferu uplatní plně požadavky NZoZ.
+
+
+7. Jak postupovat při označování zbraní, které nemají zvláštní historickou
+hodnotu, byly vyrobeny před 1.1.2026, označeny podle původní právní úpravy a
+jsou držitelem ZL po tomto datu znovu dodávány na trh? Je nutno dooznačovat
+všechny jejich hlavní části?
+Odpověď MV: V případě pouhého dodání na trh není nové (dodatečné) označení
+zbraně ustanovením § 86 NZoZ vyžadováno, pokud daná zbraň jako taková s ohledem
+na § 150 odst. 19 NZoZ označena dle tohoto nového standardu být nemusí (viz výše).
+
+
+8. Lze stanovit jednoduché pravidlo, podle něhož by bylo možno určit, které
+zbraně vyrobené či předělané před 1.1.2026 a označené podle původní právní
+úpravy je nutno při prvním uvedení na trh či opakovaném dodání na trh držitelem
+ZL v rámci jeho obchodní činnosti dooznačit na všech hlavních částech podle
+zák.č. 90/2024 Sb.?
+
+
+
+
+                                           3
+Odpověď MV: Takové vodítko vyplývá z § 150 odst. 19 NZoZ: „Povinnost označení
+zbraně identifikačními údaji podle § 86 nebo postup podle § 87 se nepoužijí na zbraň,
+která byla přede dnem nabytí účinnosti tohoto zákona uvedena na trh a platně ověřena,
+podléhala-li taková zbraň v době svého uvedení na trh ověřování. Věta první se
+nepoužije na hlavní část zbraně nebo tlumič hluku výstřelu, které jsou po vyjmutí ze
+zbraně uváděny na trh samostatně.“. A contrario jiné zbraně označeny dle nové právní
+úpravy být musí.
+
+
+9. Postačí ke splnění požadavku zák.č. 90/2024 Sb. na označení zbraní, pokud na
+drobných hlavních částech (např. závorník) bude uvedeno pouze zkrácené
+výrobní číslo?
+Odpověď MV: Pro takové hlavní části se použije nařízení vlády č. 187/2025 Sb., o
+technických požadavcích a dalších specifikacích pro některé zbraně, střelivo a
+střelnice a pro zabezpečení zbraní a střeliva, konkrétně pak Příloha 2., bod 6., který
+stanoví: „U příliš malé hlavní části stanovené střelné zbraně, která je označena pouze
+výrobním číslem nebo alfanumerickým nebo digitálním kódem, lze rozměr písmen,
+číslic nebo digitálního nebo alfanumerického kódu zmenšit na velikost, která je
+nezbytně nutná k provedení tohoto označení.“. S ohledem na § 86 odst. 1 NZoZ
+obecně platí, že jednotlivé identifikační údaje mohou být zahrnuta do příslušného
+alfanumerického kódu nebo digitálního kódu (např. QR kód).
+
+
+
+
+                                          4
+

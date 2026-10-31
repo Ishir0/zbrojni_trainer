@@ -1,0 +1,44 @@
+{
+  "reviewedAt": "2026-10-20",
+  "reviewer": "Codex source-comparison review (not legal or medical certification)",
+  "sourceSha256": "edd539efc9e504f067d9f5b9409475935a08938c02fbb41c768b1a3f205a04a4",
+  "fullTextAndKeySample": [
+    1,
+    2,
+    3,
+    4,
+    562,
+    563,
+    564,
+    610,
+    611,
+    612,
+    613,
+    649,
+    650,
+    800,
+    801,
+    802,
+    803,
+    835,
+    836,
+    837
+  ],
+  "keyOnlyExceptions": {
+    "716": {
+      "page": 190,
+      "key": "A",
+      "method": "Grey-highlighted option in rendered page; no italics"
+    },
+    "717": {
+      "page": 191,
+      "key": "B",
+      "method": "Grey-highlighted option in rendered page; no italics"
+    }
+  },
+  "notes": [
+    "Compared sample stems, all three options, keys and applicable illustrations against rendered official source pages.",
+    "Preserved source wording and apparent source typos, including velkostí in 650 B.",
+    "Not a full manual audit of 837 questions. Explanations remain pending external editorial review."
+  ]
+}

@@ -1,0 +1,138 @@
+Argumentář ke změnám zákona o zbraních a střelivu od 1. 1. 2026
+
+Od 1. 1. 2026 začne platit nový zákon o zbraních a střelivu. Modernizuje a elektronizuje
+celý systém nakládání se zbraněmi. Více o novém zákoně na https://www.e-
+sbirka.cz/sb/2024/90/2026-01-01.
+
+ 1. Co se pro mě mění? Mám ZP s platností do roku 2028 (například).
+     Zákon nezpřísňuje ani nezmírňuje základní pravidla. Všechna vaše práva zůstávají
+     zachována tak, jak jsou, není potřeba o nic žádat, nic dokládat ani nic znovu
+     prokazovat. Nové zbrojní oprávnění bude mít platnost na dobou neurčitou, nebude
+     tedy třeba je po 10 letech prodlužovat.
+
+ 2. Musím si někde požádat o elektronický zbrojní pas, resp. zbrojní oprávnění?
+     Stávající zbrojní průkazy se automaticky převedou na zbrojní oprávnění
+     v elektronické podobě, papírové průkazy a doklady není třeba nikam vracet, jen
+     jejich platnost skončí k 31.12. 2025. Z pěti skupin zbrojních průkazů (A, B, C, D, E)
+     se stanou jen dvě – obecné zbrojní oprávnění pro skupiny A, B a C a rozšířené
+     zbrojní oprávnění, které bude obsahovat i skupiny D nebo E.
+
+ 3. Mám zbrojní průkaz jako podnikající fyzická osoba, jak se mě nový zákon o
+    zbraních a střelivu týká?
+      Centrální registr zbraní (dále „CRZ“) rozlišuje mezi držiteli zbrojních oprávnění a
+      držiteli zbrojních licencí. Z hlediska CRZ je podnikající fyzická osoba pořád fyzická
+      osoba, tedy vztahují se na vás všechny změny jako na fyzické osoby, které jsou
+      držiteli zbrojního průkazu. Právnické osoby mají samostatný „zbrojní list pro
+      organizaci“, který se vydává přímo s CRZ, nemají tedy zbrojní průkaz jako fyzické
+      osoby.
+
+ 4. Jak je to se zbraněmi příslušníků ozbrojených složek ČR?
+      Služební zbraně příslušníků ozbrojených složek spadají pod vlastní služební režim.
+      Změna zákona č. 90/2024 Sb., o zbraních a střelivu, se jich netýká.
+
+ 5. Když si půjdu v lednu zastřílet na střelnici, jak prokážu, že jsem držitel platného
+    zbrojního oprávnění?
+      Prokážete se platným dokladem totožnosti (občanský průkaz, cestovní pas).
+      Střelnice nemají povinnost vyžadovat po návštěvníkovi prokázání jeho zbrojního
+      oprávnění, ale musí vést evidenci osob, které na střelnici přišly střílet. Pokud má
+      střelnice také zbrojní licenci, může si online ověřit v CRZ, zda máte zbrojní
+      oprávnění a kterými zbraněmi můžete disponovat. Případně může požadovat spolu
+      s předložením občanského průkazu i předložení vašeho zbrojního listu, není to ale
+      její povinnost.
+
+
+                                            1
+6. Když půjdu v lednu 2026 na hon, jak se prokážu, že jsem držitel platného
+   zbrojního oprávnění? Musím s sebou mít něco vytištěného, když v lese není
+   signál pro žádné online ověření?
+     Oprávnění myslivecké stráže požadovat předložení zbrojního průkazu bylo zrušeno
+     bez náhrady. Myslivecká stráž kontroluje lovecký lístek, povolenku k lovu a
+     pojištění. Zbrojní oprávnění lovců kontroluje policie v rámci pravidelných kontrol,
+     které na honech provádí, a ta k tomu používá své mobilní bezpečnostní platformy.
+     Pokud si organizátor honu vymíní, že chce kontrolovat zbrojní oprávnění, prokážete
+     se zbrojním listem, který si stáhnete z Portálu občana jako PDF soubor nebo vám
+     jej vytisknou na Czech POINT, případně na přepážce krajského ředitelství Policie
+     ČR (odbor služby pro zbraně a bezpečnostní materiál).
+
+7. Kde získám od ledna zbrojní list?
+     Zbrojní list budou fyzické osoby moci od 1. 1. 2026 získat na Czech POINT, Portálu
+     občana nebo na přepážce krajského ředitelství Policie ČR (odbor služby pro zbraně
+     a bezpečnostní materiál). Držitelé zbrojních licencí pak přímo ze systému CRZ
+     (část přímo určená pro podnikatele) nebo také na přepážce krajského ředitelství
+     Policie ČR (odbor služby pro zbraně a bezpečnostní materiál).
+
+8. Jak to bude s platností evropského zbrojního pasu?
+     Evropský zbrojní pas je jediný doklad, který se nadále vydává v papírové podobě.
+     Bude mít i nadále časově omezenou platnost pět let, přičemž při zápisu další
+     zbraně se bude vydávat celý nový evropský zbrojní pas. Evropské zbrojní pasy
+     vydané ještě podle starého zákona jsou stále platné.
+
+9. Když bude nové zbrojní oprávnění platit na dobu neurčitou, budu muset chodit
+   na prohlídky zdravotní způsobilosti? Jak to bude s platností muničního
+   oprávnění?
+     Všichni držitelé zbrojního oprávnění budou muset jednou za pět let předložit policii
+     posudek o zdravotní způsobilosti (dříve to bylo vesměs jednou za 10 let). Poprvé
+     budou vyzváni k předložení nového posudku Policií ČR. Další dodání posudku si již
+     budou muset hlídat sami, proto je ideální nastavit si notifikace konce platnosti
+     dokladů v Portálu občana (https://obcan.portal.gov.cz/). S platností muničního
+     oprávnění to bude stejné.
+
+10. Výzvu k nastavení notifikací v Portálu občana jsem od Policie ČR obdržel již
+    v průběhu letošního října, co si mám konkrétně v Portálu občana nastavit?
+      Vyrozumívání robotickými službami, kterému předcházelo podání vašeho
+      souhlasu se zpracováním osobních údajů Policii České republiky – službě pro
+      zbraně a bezpečnostní materiál, končí dnem 31. prosince 2025. Proto je vhodné si
+      nastavit na Portálu občana (https://obcan.portal.gov.cz/) nové avízo konce
+
+                                           2
+     platnosti dokladů a povinnosti předložit posudek zdravotní způsobilosti každých
+     pět let. Tato funkce Portálu občana pak bude hlídat nejen konec platnosti posudku
+     o zdravotní způsobilosti u zbrojního oprávnění, ale také konec platnosti
+     občanského průkazu, řidičského průkazu nebo cestovního pasu. Samotnou
+     notifikaci ke zbrojnímu oprávnění nastavíte snadno v sekci Nastaveni/Upozornění
+     Portálu občana v části Oznámeni (e-mailem, SMS nebo prostřednictvím push
+     notifikace).
+
+11. Kde najdu Portál občana? Jak se k němu přihlásím? Nikdy jsem ho ještě
+    nepoužil.
+      Portál občana na webu naleznete na https://obcan.portal.gov.cz/, doporučujeme
+      si stáhnout i mobilní aplikaci do telefonu, kde budou od února k dispozici stejné
+      služby jako na webovém rozhraní. Do portálu občana se přihlásíte pomocí
+      mobilního klíče eGovernmentu, své bankovní identity či jiného prostředku digitální
+      identity nebo prostřednictvím své datové schránky. Postup při založení některého
+      z prostředků digitální identity občana najdete zde: Chci založit Identitu občana.
+      V Portálu občana je i návod, jak nastavit požadované notifikace včetně konkrétních
+      formulářů.
+
+12. Jak to bude s prokazováním zbrojního oprávnění mezi dvěma soukromými
+    osobami nebo například při koupi nové zbraně?
+      Způsoby prokázání oprávnění stanovuje § 146 nového zákona o zbraních; obecně
+      však nebudou držitelé zbraní povinni u sebe nosit žádný fyzický doklad. Pokud ale
+      bude třeba ověřit oprávnění mezi dvěma fyzickými osobami, bude to možné
+      provést předložením zbrojního listu (ať v listinné nebo elektronické podobě)
+      společně s předložením dokladu totožnosti (občanského průkazu, cestovního
+      pasu…). Policie nebo obchodník se zbraněmi budou moci ověřit oprávnění přímo
+      z CRZ po ztotožnění dané osoby.
+
+13. Které orgány mají oficiální přístup do CRZ?
+      PČR, Ministerstvo vnitra, Ministerstvo obrany, obecní policie, Český úřad pro
+      zkoušení zbraní a střeliva, Ministerstvo obrany a Ministerstvo průmyslu a obchodu.
+      Ostatní orgány veřejné moci, jako Generální finanční ředitelství, Celní správa nebo
+      Vězeňská služba budou tuto možnost mít, pokud o přístup k údajům z daného
+      kontextu požádají.
+
+14. Kde zjistím další informace?
+      Hlavním gestorem je ředitelství služby pro zbraně a bezpečnostní materiál na
+      Policejním prezidiu ČR (oddělení centrálního registru zbraní) a odbor bezpečnostní
+      politiky Ministerstva vnitra. V případě reklamace chybných údajů v CRZ
+
+
+                                           3
+doporučujeme obrátit se přímo na HelpDesk CRZ, e-mail je crz.verifikace@pcr.cz,
+případně na zbrane@mv.gov.cz.
+
+
+
+
+                                   4
+

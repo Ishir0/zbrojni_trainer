@@ -1,0 +1,76 @@
+                                            STANDARDY PRVNÍ POMOCI ČČK - změnový list 1.1. 2026
+
+
+2.3. ZÁKLADNÍ NEODKLADNÁ RESUSCITACE S POUŽITÍM AUTOMATIZOVANÉHO EXTERNÍHO
+DEFIBRILÁTORU
+
+AUTOMATIZOVANÝ EXTERNÍ DEFIBRILÁTOR (AED) UMOŽŇUJE OBNOVU ŘÁDNÉHO SRDEČNÍHO
+RYTMU U POSTIŽENÝCH S NÁHLOU ZÁSTAVOU OBĚHU (TJ. ZÁSTAVOU OBĚHU SRDEČNÍHO
+PŮVODU).
+
+VYVOLÁVAJÍCÍ PŘÍČINY:
+  viz standard 2. 1. Základní neodkladná resuscitace dospělých a 2. 2. Základní neodkladná
+   resuscitace dětí
+
+TYPICKÉ PŘÍZNAKY:
+ - viz standard 2. 1. Základní neodkladná resuscitace dospělých a 2. 2. Základní neodkladná
+    resuscitace dětí
+
+ČÍM JE POSTIŽENÝ OHROŽEN?
+ - viz standard 2. 1. Základní neodkladná resuscitace dospělých a 2. 2. Základní neodkladná
+    resuscitace dětí
+
+ČEHO POTŘEBUJEME DOCÍLIT?
+ - udržení krevního oběhu resuscitací do příjezdu zdravotnické záchranné služby
+ - podání defibrilačního výboje v nejkratším možném čase
+
+POSTUP PRVNÍ POMOCI:
+  úvodní postup se neliší od standardu 2. 1. Základní neodkladná resuscitace dospělých, dále pak:
+ - standardní AED je určen pro použití u dětí nad 8 let věku
+ - u dětí mladších je vhodné použít AED speciálně upravený, nebo se speciálními (dětskými)
+    samolepicími elektrodami, pokud takový není dostupný, lze použít i běžný AED
+  pokud postižený nereaguje,
+ - zachránce se snaží přivolat někoho dalšího na pomoc a oznámí příhodu na tísňovou linku dle
+    standardu 1.3. Přivolání odborné pomoci
+ - v průběhu hovoru zjišťuje, zda je u postiženého přítomno normální dýchání, pokud nikoli sdělí
+    operátorovi a na pokyn operátora zajistí přinesení automatizovaného externího defibrilátoru
+ - pokud je zachránců více, pošle jednoho pro AED, je-li AED dostupné v blízkosti
+ - v situaci, kdy je zachránce sám, použije AED pouze tehdy, když je ho schopen použít do minuty,
+    nemůže – li tak učinit, pokračuje okamžitě v KPR bez použití AED
+ - zachránce poklekne vedle hrudníku postiženého
+ - zachránce položí dlaň jedné ruky na střed hrudníku postiženého, hranu dlaně druhé ruky přiloží
+    na ruku první a zajistí, aby se žádný tlak nepřenášel na žebra postiženého (doporučeno je
+    propletení prstů)
+ - zachránce zaujme polohu kolmo nad hrudníkem postiženého a s pažemi propnutými v loktech
+    stlačuje hrudník frekvencí alespoň 100 stlačení za minutu (ne více než 120 za minutu) do hloubky
+    5–6 cm
+ - po každém stlačení umožní zachránce návrat hrudníku do původní polohy, neztrácí však kontakt
+    mezi svýma rukama a hrudníkem postiženého
+ - jakmile je AED k dispozici, zachránce ho zapne a dále se řídí instrukcemi AED; je-li na místě více
+    než jeden zachránce, stlačování hrudníku pokračuje během této doby
+ - zachránce dále následuje pokyny AED; nedotýká se postiženého, když AED analyzuje rytmus, a je-
+    li doporučen výboj, ujistí se, že se postiženého nikdo nedotýká; následně stiskne odpovídající
+    tlačítko na přístroji (plně automatické přístroje podají výboj bez nutnosti stisknout tlačítko)
+                                           STANDARDY PRVNÍ POMOCI ČČK - změnový list 1.1. 2026
+
+
+-   okamžitě po výboji pokračuje zachránce v resuscitaci podle výzev AED do příjezdu zdravotnické
+    záchranné služby nebo dokud se postižený nezačne budit (hýbat se, otevírat oči, normálně
+    dýchat)
+
+   Pokud je k tomu zachránce vyškolen
+-   kombinuje stlačení hrudníku a umělé vdechy v poměru 30 : 2 následujícím způsobem, jaký je
+    popsán ve standardu 2. 1. Základní neodkladná resuscitace dospělých, přitom rovněž respektuje
+    pokyny automatizovaného externího defibrilátoru
+-   začne-li se v průběhu oživování postižený hýbat, otevírat oči, normálně dýchat, přeruší zachránce
+    oživování a postupuje dále podle standardu 2. 4. Bezvědomí, postiženého přitom neustále
+    sleduje a v případě potřeby znovu zahájí oživování
+
+NEVHODNÉ POSTUPY:
+ nerozpoznání zástavy oběhu (mylná interpretace lapavých dechů, záměna stavu za epilepsii,
+   opilost atd.)
+ přerušování masáže v průběhu nalepování elektrod defibrilátoru
+ nedostatečná frekvence stlačení (méně než 100 za minutu)
+ nedostatečná hloubka stlačení
+ nerespektování pokynů automatizovaného externího defibrilátoru
+

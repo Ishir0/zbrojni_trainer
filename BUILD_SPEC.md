@@ -1,5 +1,7 @@
 # Zbrojní oprávnění — product and implementation specification
 
+> **User update, 2026-10-29:** New practice sessions randomly select questions within unseen/due-review pools and shuffle their final order while preserving topic coverage and saved-session continuity. Clicking an answer (or pressing 1–3) submits and advances immediately; the previous result and explanation appear above the next question. Confidence/hints come before answering, and the final result appears on the summary. These requirements supersede the earlier deterministic scheduling and separate confirmation/Next controls below. Original A/B/C option order and official mock-exam verification requirements still apply.
+
 Status: proposed v0.1 for implementation in Codex CLI. Product name is a working title.
 
 ## 1. Product intent

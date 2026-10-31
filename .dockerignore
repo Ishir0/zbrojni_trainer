@@ -1,0 +1,14 @@
+.git
+.agents
+.aws
+.codex
+node_modules
+dist
+tmp
+test-results
+playwright-report
+sources
+content
+scripts
+tests
+*.tsbuildinfo

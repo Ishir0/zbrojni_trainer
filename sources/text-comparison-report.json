@@ -1,0 +1,5 @@
+{
+  "method": "Independent pdftotext -layout vs geometry-aware pdftohtml XML; whitespace-insensitive exact comparison of all stems and options.",
+  "questionsCompared": 837,
+  "issues": []
+}
